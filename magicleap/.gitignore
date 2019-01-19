@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#UE4 Data Cache
+*.ddc
+
 # Compiled Object files
 *.slo
 *.lo
