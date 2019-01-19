@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Unreal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{927280F2-16D0-469C-B29D-EC8885A5F282}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A2D6B936-A98D-4C01-92A2-C01DC880D6B1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Unreal">
+      <UniqueIdentifier>{39515E2F-0654-4612-9BCC-A675B5633152}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal\Unreal.Build.cs">
+      <Filter>Source\Unreal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Unreal\Unreal.cpp">
+      <Filter>Source\Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal\Unreal.h">
+      <Filter>Source\Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal\UnrealGameMode.cpp">
+      <Filter>Source\Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal\UnrealGameMode.h">
+      <Filter>Source\Unreal</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

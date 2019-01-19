@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Unreal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nicks\Documents\Unreal Projects\XRT 4.22\Intermediate\Build\Win64\UE4Editor\Development\Unreal\PCH.Unreal.h.obj"
+"C:\Users\nicks\Documents\Unreal Projects\XRT 4.22\Intermediate\Build\Win64\UE4Editor\Development\Unreal\Unreal.cpp.obj"
+"C:\Users\nicks\Documents\Unreal Projects\XRT 4.22\Intermediate\Build\Win64\UE4Editor\Development\Unreal\UnrealGameMode.cpp.obj"
+"C:\Users\nicks\Documents\Unreal Projects\XRT 4.22\Intermediate\Build\Win64\UE4Editor\Development\Unreal\Unreal.init.gen.cpp.obj"
+"C:\Users\nicks\Documents\Unreal Projects\XRT 4.22\Intermediate\Build\Win64\UE4Editor\Development\Unreal\UnrealGameMode.gen.cpp.obj"
+"C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+/OUT:"C:\Users\nicks\Documents\Unreal Projects\XRT 4.22\Intermediate\Build\Win64\UE4Editor\Development\Unreal\UE4Editor-Unreal.lib"

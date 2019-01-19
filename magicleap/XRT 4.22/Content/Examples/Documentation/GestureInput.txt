@@ -1,0 +1,10 @@
+# Example Scene: Gesture Input
+
+This example demonstrates and prescribes preferred methods for using gestures.
+
+The UI depicts all the recognized gestures. As you perform these gestures with
+your hands, the example highlights the gesture it detects you are performing,
+and prints both the name of the gesture and the confidence percentage.
+
+The confidence percentage specifies how confident we are that the gesture you
+are performing is the gesture we think it is. 

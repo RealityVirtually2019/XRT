@@ -1,0 +1,27 @@
+﻿# Example Scene: Raycast
+
+This example scene demonstrates and prescribes preferred methods for raycasting
+by displaying cursors where the rays hit. There are three raycast modes:
+controller, head, and eyes.
+
+We display cursors at the ray collision points by subscribing to the raycast
+event callback.
+
+## Bumper
+Press the Bumper to cycle through the raycast modes: controller, head, eyes, and all.
+
+## Calibrating the controller
+When calibrated, the position and orientation of the virtual controller tracks
+the physical controller.
+
+For accurate controller calibration, be sure to point the controller towards
+your forehead at eye-level when you first turn it on.
+
+To calibrate the controller:
+ 1. Press Home to display a static model of the controller.
+ 2. Orient your physical controller in the exact same position and direction
+    as the static model of the controller in the scene.
+ 3. Press Home to return to regular mode.
+
+## MLRemote
+- The Calibration step is removed for Simulator.
