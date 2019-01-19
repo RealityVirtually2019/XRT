@@ -2759,3 +2759,1256 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.19-02.41.35:774][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
 [2019.01.19-02.41.36:220][268]LogPlayLevel: Display: Destroying online subsystem :Context_35
 [2019.01.19-02.41.39:891][474]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTracking7DDDE1744DD8F144268A1BBB313F10B3.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-02.43.27:019][235]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTrackingA50C7A4E43C7B7BF5CC88F96569FB12D.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-02.55.45:765][242]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Examples/Maps/ImageTracking' took 0.039
+[2019.01.19-02.55.46:973][301]LogEditorViewport: Clicking Background
+[2019.01.19-02.55.49:138][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-02.55.50:232][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DeepSeaPreview)
+[2019.01.19-02.55.51:975][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-02.56.04:738][353]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-02.56.04:812][353]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-02.56.04:812][353]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-02.56.04:812][353]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-02.56.10:483][679]LogProfilingDebugging: Allocated a 892 x 574 texture for HMD canvas layer
+[2019.01.19-02.56.21:230][315]LogSlate: Window 'BP_TrackedObject' being destroyed
+[2019.01.19-02.56.21:238][315]LogSlate: Window 'BP_TrackedObject' being destroyed
+[2019.01.19-02.56.22:382][377]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Examples/Blueprints/BP_ImageTrackingExample.BP_ImageTrackingExample
+[2019.01.19-02.56.23:649][435]LogSlate: Window 'BP_ImageTrackingExample' being destroyed
+[2019.01.19-02.56.23:655][435]LogSlate: Window 'BP_ImageTrackingExample' being destroyed
+[2019.01.19-02.56.34:277][ 52]LogMetaData: Removing '/Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker_C' ref from Metadata '/Game/Examples/Blueprints/BP_ImageTrackingExample.PackageMetaData'
+[2019.01.19-02.56.34:277][ 52]LogMetaData: Removing '/Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Examples/Blueprints/BP_ImageTrackingExample.PackageMetaData'
+[2019.01.19-02.56.34:277][ 52]LogMetaData: Removing '/Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker:OnImageTargetFound.K2Node_FunctionEntry_57' ref from Metadata '/Game/Examples/Blueprints/BP_ImageTrackingExample.PackageMetaData'
+[2019.01.19-02.56.34:277][ 52]LogMetaData: Removing '/Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker:OnImageTargetLost.K2Node_FunctionEntry_68' ref from Metadata '/Game/Examples/Blueprints/BP_ImageTrackingExample.PackageMetaData'
+[2019.01.19-02.56.34:277][ 52]LogMetaData: Removing '/Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker:OnImageTargetUnreliable.K2Node_FunctionEntry_73' ref from Metadata '/Game/Examples/Blueprints/BP_ImageTrackingExample.PackageMetaData'
+[2019.01.19-02.56.34:277][ 52]LogMetaData: Removing '/Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker:GetCurrentTrackingStatus.K2Node_FunctionResult_0' ref from Metadata '/Game/Examples/Blueprints/BP_ImageTrackingExample.PackageMetaData'
+[2019.01.19-02.56.34:277][ 52]LogMetaData: Removing '/Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker:GetCurrentTrackingStatus.K2Node_FunctionEntry_70' ref from Metadata '/Game/Examples/Blueprints/BP_ImageTrackingExample.PackageMetaData'
+[2019.01.19-02.56.34:277][ 52]LogMetaData: Removing '/Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker:UpdateViewModeText.K2Node_FunctionEntry_192' ref from Metadata '/Game/Examples/Blueprints/BP_ImageTrackingExample.PackageMetaData'
+[2019.01.19-02.56.34:277][ 52]LogMetaData: Removing '/Game/Examples/Blueprints/BP_ImageTracker.SKEL_BP_ImageTracker_C' ref from Metadata '/Game/Examples/Blueprints/BP_ImageTrackingExample.PackageMetaData'
+[2019.01.19-02.56.34:405][ 52]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_ImageTracker11B2E47C4BABF757EC9033920474053D.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/BP_ImageTracker.uasset'
+[2019.01.19-02.56.34:421][ 52]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_ImageTrackingExample87E1D1DA40F99275E3D790AE47DD7D42.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/BP_ImageTrackingExample.uasset'
+[2019.01.19-02.56.36:321][150]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTracking03CEE9CB44893560B9890C94C6B72572.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-02.57.13:478][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Examples/Blueprints/Core/BP_Controller.BP_Controller
+[2019.01.19-02.57.19:926][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-02.57.45:423][244]Cmd: DELETE
+[2019.01.19-02.57.45:423][244]Cmd: ACTOR DELETE
+[2019.01.19-02.57.45:427][244]LogEditorActor: Deleted Actor: InstructionPanel_C
+[2019.01.19-02.57.45:454][244]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.01.19-02.57.48:484][420]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Examples/Blueprints/Utility/BP_FocusActor.BP_FocusActor
+[2019.01.19-02.58.21:188][354]Cmd: DELETE
+[2019.01.19-02.58.21:188][354]Cmd: ACTOR DELETE
+[2019.01.19-02.58.21:190][354]LogEditorActor: Deleted Actor: BP_ControllerStatusInfo_C
+[2019.01.19-02.58.21:218][354]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.01.19-02.58.24:008][522]LogEditorViewport: Clicking on Actor (LMB): PawnXRCanvas_C (PawnXRCanvas)
+[2019.01.19-02.58.26:780][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-02.58.38:866][393]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Examples/Blueprints/Common/PawnXRCanvas.PawnXRCanvas
+[2019.01.19-02.59.00:896][629]BlueprintLog: New page: Compile PawnXRCanvas
+[2019.01.19-02.59.01:870][676]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/PawnXRCanvas78B3FA4E482B7F97F29EDA812E76FAA5.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/PawnXRCanvas.uasset'
+[2019.01.19-02.59.04:599][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DeepSeaPreview)
+[2019.01.19-02.59.18:155][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-02.59.30:185][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DeepSpacePreview)
+[2019.01.19-02.59.32:590][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.01.25:898][249]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTracking09E938FB4FC8E3AAEA63E69CAC23A443.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-03.01.37:714][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DeepSeaPreview)
+[2019.01.19-03.12.57:688][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.13.28:705][413]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker
+[2019.01.19-03.13.32:090][595]BlueprintLog: New page: Compile BP_ImageTracker
+[2019.01.19-03.13.32:585][602]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_ImageTrackerC13A207444D37D6850064187F098623B.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/BP_ImageTracker.uasset'
+[2019.01.19-03.13.33:699][668]LogSlate: Window 'BP_ImageTracker' being destroyed
+[2019.01.19-03.13.33:704][668]LogSlate: Window 'BP_ImageTracker' being destroyed
+[2019.01.19-03.13.33:799][668]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.19-03.13.33:877][668]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.19-03.13.33:960][668]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.19-03.13.43:436][229]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.19-03.13.48:972][561]LogEditorActor: Actor BP_DeepSpaceEarth is referenced by BP_DeepSpaceVisualizer.
+[2019.01.19-03.13.51:176][561]LogSlate: Window 'Message' being destroyed
+[2019.01.19-03.13.51:216][561]LogEditorActor: Deleted 0 Actors (2.245 secs)
+[2019.01.19-03.14.47:052][857]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTracking_Auto23077DA424F58E1B12CFB978C4CEC77A5.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Autosaves/Game/Examples/Maps/ImageTracking_Auto2.umap'
+[2019.01.19-03.14.47:056][857]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Examples/Maps/ImageTracking' took 0.174
+[2019.01.19-03.14.47:056][857]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.174
+[2019.01.19-03.18.50:542][642]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Chinese-20190119T031717Z-001/Chinese/Untitled_0.fbx)
+[2019.01.19-03.18.50:576][642]LogFbx: Loading FBX Scene from ../../../../../Chinese-20190119T031717Z-001/Chinese/Untitled_0.fbx
+[2019.01.19-03.18.50:611][642]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.19-03.19.14:198][642]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.19-03.19.14:427][642]LogLinker: Can't find file '/Game/Models/TiltBrush/ChinesePaintingTest/Ink'
+[2019.01.19-03.19.14:427][642]LogLinker: Can't find file '/Game/Models/TiltBrush/ChinesePaintingTest/Ink'
+[2019.01.19-03.19.14:449][642]LogTexture: Display: Building textures: Ink (AutoDXT, 1024X1024)
+[2019.01.19-03.19.14:518][642]LogTexture: Display: Building textures: Ink (AutoDXT, 1024X1024)
+[2019.01.19-03.19.14:571][642]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.19.14:759][642]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.19.14:759][642]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.19.14:759][642]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.19.14:891][642]LogStaticMesh: Building static mesh Untitled_0_Untitled_0_Ink_geo...
+[2019.01.19-03.19.15:677][642]LogStaticMesh: Built static mesh [0.79s] /Game/Models/TiltBrush/ChinesePaintingTest/Untitled_0_Untitled_0_Ink_geo.Untitled_0_Untitled_0_Ink_geo
+[2019.01.19-03.19.15:902][642]LogLinker: Can't find file '/Game/Models/TiltBrush/ChinesePaintingTest/Splatter'
+[2019.01.19-03.19.15:903][642]LogLinker: Can't find file '/Game/Models/TiltBrush/ChinesePaintingTest/Splatter'
+[2019.01.19-03.19.15:927][642]LogTexture: Display: Building textures: Splatter (AutoDXT, 1024X1024)
+[2019.01.19-03.19.16:010][642]LogTexture: Display: Building textures: Splatter (AutoDXT, 1024X1024)
+[2019.01.19-03.19.16:073][642]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.19.16:096][642]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.19.16:096][642]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.19.16:096][642]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.19.16:160][642]LogStaticMesh: Building static mesh Untitled_0_Untitled_0_Splatter_geo...
+[2019.01.19-03.19.16:474][642]LogStaticMesh: Built static mesh [0.31s] /Game/Models/TiltBrush/ChinesePaintingTest/Untitled_0_Untitled_0_Splatter_geo.Untitled_0_Untitled_0_Splatter_geo
+[2019.01.19-03.19.16:516][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.19-03.19.18:885][723]LogSlate: Window 'Message Log' being destroyed
+[2019.01.19-03.19.18:902][723]LogSlate: Window 'Message Log' being destroyed
+[2019.01.19-03.19.22:010][824]LogActorFactory: Actor Factory created Untitled_0_Untitled_0_Ink_geo
+[2019.01.19-03.19.22:820][870]LogActorFactory: Actor Factory created Untitled_0_Untitled_0_Ink_geo
+[2019.01.19-03.19.23:842][929]Cmd: DELETE
+[2019.01.19-03.19.23:842][929]Cmd: ACTOR DELETE
+[2019.01.19-03.19.23:848][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-03.19.23:906][929]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.01.19-03.19.25:502][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.19.26:475][ 41]LogActorFactory: Actor Factory created Untitled_0_Untitled_0_Splatter_geo
+[2019.01.19-03.19.26:475][ 41]LogActorFactory: Actor Factory created Untitled_0_Untitled_0_Ink_geo
+[2019.01.19-03.19.27:345][ 91]LogActorFactory: Actor Factory created Untitled_0_Untitled_0_Splatter_geo
+[2019.01.19-03.19.27:347][ 91]LogActorFactory: Actor Factory created Untitled_0_Untitled_0_Ink_geo
+[2019.01.19-03.19.28:173][140]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.19-03.19.33:643][462]LogEditorViewport: Clicking Background
+[2019.01.19-03.19.35:428][569]LogEditorViewport: Clicking Background
+[2019.01.19-03.19.36:178][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Untitled_0_Untitled_0_Splatter_geo)
+[2019.01.19-03.19.36:769][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Untitled_0_Untitled_0_Ink_geo)
+[2019.01.19-03.19.38:656][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Untitled_0_Untitled_0_Splatter_geo)
+[2019.01.19-03.19.42:835][ 12]Cmd: DELETE
+[2019.01.19-03.19.42:835][ 12]Cmd: ACTOR DELETE
+[2019.01.19-03.19.42:837][ 12]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-03.19.42:838][ 12]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.19-03.19.42:864][ 12]LogEditorActor: Deleted 2 Actors (0.029 secs)
+[2019.01.19-03.19.47:177][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.19.48:443][342]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.19-03.20.03:144][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.20.16:623][ 32]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Examples/Blueprints/Common/BP_TrackedObject.BP_TrackedObject
+[2019.01.19-03.21.09:591][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.21.11:196][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.21.14:506][446]LogEditorTransaction: Undo Add Component
+[2019.01.19-03.21.15:100][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.21.26:899][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.21.55:044][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.21.55:199][810]LogAssetEditorManager: Opening Asset editor for Material /Game/Models/TiltBrush/ChinesePaintingTest/f5c336cf51084b40ade9c687504385ab_Ink.f5c336cf51084b40ade9c687504385ab_Ink
+[2019.01.19-03.21.55:206][810]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.21.55:360][810]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2019.01.19-03.21.55:369][810]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.21.55:458][810]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.21.55:483][810]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.21.55:483][810]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.21.55:483][810]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.21.55:483][810]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.21.55:483][810]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.21.55:483][810]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.21.55:483][810]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.19-03.21.55:488][810]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.21.55:610][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.01.19-03.21.55:628][810]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.01.19-03.21.56:844][840]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.19-03.21.56:876][841]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.19-03.21.56:876][841]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.21.56:936][843]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.19-03.21.57:691][872]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.21.57:691][872]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.21.58:041][883]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.21.58:073][884]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.21.58:098][885]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.21.58:125][886]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.21.58:422][896]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.19-03.21.58:839][900]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.21.59:157][910]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.21.59:515][922]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.21.59:772][932]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.22.00:385][952]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.22.00:438][954]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.22.00:846][970]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.22.00:870][971]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.22.01:082][981]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.22.01:082][981]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.22.01:408][994]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.22.02:043][ 21]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.22.02:736][ 44]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.22.02:763][ 45]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.22.04:189][ 51]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.22.04:190][ 51]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.22.04:190][ 51]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.22.04:190][ 51]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.22.04:190][ 51]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.22.04:190][ 51]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.22.04:190][ 51]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.22.04:948][ 78]MaterialEditorStats: Base pass shader: 0 instructions
+[2019.01.19-03.22.04:948][ 78]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 0 instructions
+[2019.01.19-03.22.04:949][ 78]MaterialEditorStats: Base pass vertex shader: 0 instructions
+[2019.01.19-03.22.04:949][ 78]MaterialEditorStats: Texture samplers: 9/16
+[2019.01.19-03.22.04:949][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.01.19-03.22.04:949][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.19-03.22.10:436][405]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.22.10:463][405]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.22.10:482][405]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.22.10:482][405]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.19-03.22.10:482][405]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.22.10:482][405]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.22.10:482][405]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.22.10:482][405]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.22.10:482][405]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.22.10:482][405]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.22.10:486][405]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.22.11:407][435]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.22.11:439][436]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.19-03.22.11:467][437]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.22.11:467][437]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.22.11:467][437]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.22.11:494][438]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.22.12:265][463]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.22.12:296][464]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.22.12:466][470]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.19-03.22.12:552][473]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.22.12:581][474]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.22.12:611][475]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.22.12:641][476]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.22.12:703][478]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.22.13:977][507]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.22.14:125][511]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.22.14:168][512]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.22.14:314][515]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.22.14:462][518]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.22.14:620][521]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.22.15:123][530]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.22.15:415][535]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.22.15:838][545]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.22.16:025][550]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.22.16:056][551]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.22.16:601][565]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.22.16:766][568]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.22.16:915][571]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.22.17:059][574]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.22.17:790][592]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.22.18:892][622]MaterialEditorStats: Base pass shader: 0 instructions
+[2019.01.19-03.22.18:892][622]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 0 instructions
+[2019.01.19-03.22.18:892][622]MaterialEditorStats: Base pass vertex shader: 0 instructions
+[2019.01.19-03.22.18:892][622]MaterialEditorStats: Texture samplers: 9/16
+[2019.01.19-03.22.18:892][622]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.01.19-03.22.18:892][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.19-03.22.56:372][738]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.23.00:613][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.23.04:217][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.23.23:490][448]LogSlate: Window 'Message' being destroyed
+[2019.01.19-03.23.23:497][448]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Chinese-20190119T031717Z-001/Chinese/Ink.jpg)
+[2019.01.19-03.23.24:747][448]LogSlate: Window 'Message' being destroyed
+[2019.01.19-03.23.24:770][448]LogTexture: Display: Building textures: Ink (AutoDXT, 1024X1024)
+[2019.01.19-03.23.29:938][732]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTracking31220D5B4A50D789FD1F17A1F9B2B983.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-03.23.33:735][955]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Models/TiltBrush/ChinesePaintingTest/Splatter.Splatter
+[2019.01.19-03.23.35:181][955]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.01.19-03.23.37:666][ 33]LogSlate: Window 'Message' being destroyed
+[2019.01.19-03.23.52:061][731]LogSlate: Window 'Message' being destroyed
+[2019.01.19-03.23.52:475][731]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.23.52:547][731]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.23.52:547][731]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.19-03.23.52:548][731]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.23.52:548][731]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.23.52:548][731]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.23.52:548][731]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.23.52:548][731]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.23.52:548][731]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.23.52:575][731]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.23.52:628][731]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.23.52:714][731]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.23.52:723][731]TextureStreamingBuild: Display: Compiling optional shaders took 0.025 seconds.
+[2019.01.19-03.23.52:768][731]LogSlate: Window 'Splatter*' being destroyed
+[2019.01.19-03.23.52:776][731]LogSlate: Window 'Splatter*' being destroyed
+[2019.01.19-03.23.53:618][743]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.19-03.23.53:643][744]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.19-03.23.53:643][744]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.19-03.23.53:657][744]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.19-03.23.53:720][746]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.19-03.23.53:770][748]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.19-03.23.54:404][771]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.19-03.23.54:405][771]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.19-03.23.55:060][809]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.19-03.23.55:311][816]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.19-03.23.55:365][818]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.19-03.23.55:585][831]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.19-03.23.56:384][867]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.19-03.23.56:579][874]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.19-03.23.56:580][874]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.19-03.23.56:947][895]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.19-03.23.57:066][902]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.19-03.23.57:632][930]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.19-03.23.58:163][946]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.19-03.23.58:163][946]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.19-03.23.58:519][962]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.19-03.23.58:686][970]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.19-03.23.59:194][980]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.23.59:195][980]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.23.59:195][980]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.25.22:701][282]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Splatter06BB0AF244B1FA5C55BDB5871E046FBF.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/Splatter.uasset'
+[2019.01.19-03.25.22:744][282]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/8dc4a70cd5584efda5edd4e860f40dc3266427DF44259302F32B1E99FC9FCF38.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/8dc4a70cd5584efda5edd4e860f40dc3_Splatter.uasset'
+[2019.01.19-03.25.22:779][282]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Untitled_0_Untitled_0_Splatter_g441196C34507F0340A5C62AE95454B78.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/Untitled_0_Untitled_0_Splatter_geo.uasset'
+[2019.01.19-03.25.22:842][282]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Ink1D9D7E9148B6021117DA6495518D831F.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/Ink.uasset'
+[2019.01.19-03.25.22:881][282]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/f5c336cf51084b40ade9c687504385ab67B63B974C6DC7D67C4BAEA9003F0B1C.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/f5c336cf51084b40ade9c687504385ab_Ink.uasset'
+[2019.01.19-03.25.22:915][282]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Untitled_0_Untitled_0_Ink_geoB23DC10E4EE0E142B00EE89BDAD076DF.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/Untitled_0_Untitled_0_Ink_geo.uasset'
+[2019.01.19-03.25.24:701][386]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Models/TiltBrush/ChinesePaintingTest/Splatter.Splatter
+[2019.01.19-03.25.26:250][466]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Splatter181341A644834E3457C18E89703EB5E6.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/Splatter.uasset'
+[2019.01.19-03.25.27:458][538]LogSlate: Window 'Splatter' being destroyed
+[2019.01.19-03.25.27:465][538]LogSlate: Window 'Splatter' being destroyed
+[2019.01.19-03.26.15:223][685]LogSlate: Window 'Message' being destroyed
+[2019.01.19-03.26.15:230][685]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Chinese-20190119T031717Z-001/Chinese/Splatter.png)
+[2019.01.19-03.26.16:241][685]LogSlate: Window 'Message' being destroyed
+[2019.01.19-03.26.16:263][685]LogTexture: Display: Building textures: Splatter (AutoDXT, 1024X1024)
+[2019.01.19-03.26.17:838][771]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Examples/Blueprints/Common/BP_TrackedObject.BP_TrackedObject
+[2019.01.19-03.26.28:050][363]LogAssetEditorManager: Opening Asset editor for Material /Game/Models/TiltBrush/ChinesePaintingTest/f5c336cf51084b40ade9c687504385ab_Ink.f5c336cf51084b40ade9c687504385ab_Ink
+[2019.01.19-03.26.28:054][363]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.01.19-03.26.28:138][363]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.01.19-03.26.28:162][363]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.26.28:162][363]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.19-03.26.28:162][363]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.26.28:162][363]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.26.28:162][363]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.26.28:162][363]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.26.28:162][363]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.26.28:162][363]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.26.28:166][363]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.01.19-03.26.28:294][363]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.01.19-03.26.28:313][363]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.01.19-03.26.29:392][396]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.19-03.26.29:426][397]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.19-03.26.29:481][399]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.19-03.26.29:487][399]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.19-03.26.29:576][402]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.26.29:639][405]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.19-03.26.30:166][424]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.26.30:244][427]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.26.30:349][431]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.26.30:402][433]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.26.30:513][437]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.26.30:542][438]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.26.30:641][441]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.19-03.26.30:713][444]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.26.31:856][481]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.26.31:864][481]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.26.32:004][486]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.26.32:034][487]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.26.32:154][491]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.26.32:625][507]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.26.33:099][527]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.26.33:406][544]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.26.33:406][544]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.26.33:424][545]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.26.33:424][545]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.26.33:918][570]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.26.34:434][589]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.26.34:434][589]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.26.34:520][592]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.26.34:941][606]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.26.34:965][606]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.26.34:983][606]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.26.35:012][606]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Models/TiltBrush/ChinesePaintingTest/Ink.Ink
+[2019.01.19-03.26.35:221][606]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.26.35:550][615]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.26.36:415][658]MaterialEditorStats: Base pass shader: 0 instructions
+[2019.01.19-03.26.36:415][658]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 0 instructions
+[2019.01.19-03.26.36:415][658]MaterialEditorStats: Base pass vertex shader: 0 instructions
+[2019.01.19-03.26.36:415][658]MaterialEditorStats: Texture samplers: 9/16
+[2019.01.19-03.26.36:415][658]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.01.19-03.26.36:415][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.19-03.26.42:435][ 11]LogAssetEditorManager: Opening Asset editor for Material /Game/Models/TiltBrush/ChinesePaintingTest/8dc4a70cd5584efda5edd4e860f40dc3_Splatter.8dc4a70cd5584efda5edd4e860f40dc3_Splatter
+[2019.01.19-03.26.42:439][ 11]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.42:515][ 11]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.42:540][ 11]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.42:566][ 11]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.26.42:566][ 11]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.26.42:566][ 11]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.26.42:566][ 11]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.26.42:566][ 11]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.26.42:566][ 11]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.26.42:566][ 11]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.19-03.26.42:566][ 11]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.26.42:636][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.01.19-03.26.42:653][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.01.19-03.26.43:310][ 27]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.26.43:310][ 27]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.26.43:318][ 27]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.19-03.26.43:346][ 28]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.26.43:569][ 35]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.26.43:937][ 47]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.26.43:962][ 48]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.26.44:430][ 68]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.26.44:559][ 73]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.26.44:733][ 81]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.26.44:818][ 85]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.26.44:966][ 91]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.26.45:259][104]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.26.45:449][111]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.26.45:593][117]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.26.46:073][135]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.19-03.26.46:103][136]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.19-03.26.46:136][137]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.19-03.26.46:381][145]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.19-03.26.47:018][164]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.19-03.26.47:019][164]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.19-03.26.47:019][164]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.19-03.26.47:019][164]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.19-03.26.47:392][180]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.19-03.26.48:173][215]MaterialEditorStats: Base pass shader: 0 instructions
+[2019.01.19-03.26.48:173][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 0 instructions
+[2019.01.19-03.26.48:173][215]MaterialEditorStats: Base pass vertex shader: 0 instructions
+[2019.01.19-03.26.48:173][215]MaterialEditorStats: Texture samplers: 9/16
+[2019.01.19-03.26.48:173][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.01.19-03.26.48:173][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.19-03.26.55:896][677]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.55:918][677]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.55:941][677]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.55:975][678]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.26.55:975][678]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.19-03.26.55:975][678]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.26.55:975][678]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.26.55:975][678]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.26.55:975][678]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.26.55:975][678]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.26.55:975][678]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.26.56:744][703]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.19-03.26.56:776][704]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.19-03.26.56:776][704]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.26.56:798][705]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.19-03.26.56:798][705]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.19-03.26.56:798][705]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.19-03.26.57:489][728]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.19-03.26.57:494][728]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.19-03.26.57:698][735]LogMaterialEditor: Saving and Compiling material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter
+[2019.01.19-03.26.58:364][735]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.19-03.26.58:364][735]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.19-03.26.58:364][735]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.19-03.26.58:364][735]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.19-03.26.58:398][735]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.58:560][735]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.58:598][735]LogMaterial: Display: Missing cached shader map for material 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.58:629][735]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.26.58:677][735]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.19-03.26.58:681][735]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.19-03.26.58:715][735]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy 8dc4a70cd5584efda5edd4e860f40dc3_Splatter, compiling. 
+[2019.01.19-03.26.58:725][735]TextureStreamingBuild: Display: Compiling optional shaders took 0.028 seconds.
+[2019.01.19-03.26.58:772][735]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.01.19-03.26.58:772][735]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.19-03.27.07:617][735]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.27.07:618][735]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.27.07:671][735]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/8dc4a70cd5584efda5edd4e860f40dc39909E063424BFACC108C00A343432731.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/8dc4a70cd5584efda5edd4e860f40dc3_Splatter.uasset'
+[2019.01.19-03.27.07:698][735]MaterialEditorStats: Base pass shader: 0 instructions
+[2019.01.19-03.27.07:699][735]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 0 instructions
+[2019.01.19-03.27.07:699][735]MaterialEditorStats: Base pass vertex shader: 0 instructions
+[2019.01.19-03.27.07:699][735]MaterialEditorStats: Texture samplers: 9/16
+[2019.01.19-03.27.07:699][735]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.01.19-03.27.07:699][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.19-03.27.35:745][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.27.38:770][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.27.38:836][583]BlueprintLog: New page: Compile BP_TrackedObject
+[2019.01.19-03.27.39:573][604]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObjectD0C34B274A9342F34B0A7B82130B2BB1.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.27.48:780][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.28.03:269][ 14]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/GrassModelTest000C21D04DF1ACEA5A64B29B44F5872C.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/GrassModelTest.uasset'
+[2019.01.19-03.28.03:540][ 14]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObject9FC62AD84FED01C7BB84F4BF23D4AC1D.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.28.29:599][565]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BranchesModelTest11EEEF724009035DBBDF12AAE224B525.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/BranchesModelTest.uasset'
+[2019.01.19-03.28.29:859][565]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObject6BD25F4A4230C9F494C5F4925C3B6567.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.29.15:281][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.29.15:363][276]BlueprintLog: New page: Compile BP_TrackedObject
+[2019.01.19-03.29.15:913][293]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObject8A5EAC1144134C23A16F43BDD62A6CB8.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.29.17:358][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.29.43:790][954]LogTemp: Repeating last play command: VR Preview
+[2019.01.19-03.29.43:827][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.29.43:827][954]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.19-03.29.43:828][954]LogPlayLevel: [PlayLevel] Compiling ImageTracking before play...
+[2019.01.19-03.29.43:975][954]LogPlayLevel: PlayLevel: Blueprint regeneration took 148 ms (1 blueprints)
+[2019.01.19-03.29.44:039][954]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.19-03.29.44:039][954]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.29.44:040][954]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.29.45:146][954]PIE: New page: PIE session: ImageTracking (Jan 18, 2019, 5:29:45 PM)
+[2019.01.19-03.29.45:146][954]LogPlayLevel: Creating play world package: /Game/Examples/Maps/UEDPIE_0_ImageTracking
+[2019.01.19-03.29.45:150][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003587s)
+[2019.01.19-03.29.45:150][954]LogAIModule: Creating AISystem for world ImageTracking
+[2019.01.19-03.29.45:150][954]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2019.01.19-03.29.45:150][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Examples/Maps/ImageTracking.ImageTracking to /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking (0.004272s)
+[2019.01.19-03.29.45:240][954]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.29.45:240][954]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.29.45:242][954]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.29.45:302][954]LogInit: FAudioDevice initialized.
+[2019.01.19-03.29.46:440][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.29.46:558][954]LogLoad: Game class is 'DemoMode_C'
+[2019.01.19-03.29.46:559][954]LogWorld: Bringing World /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking up for play (max tick rate 0) at 2019.01.18-22.29.46
+[2019.01.19-03.29.46:562][954]LogWorld: Bringing up level for play took: 0.002904
+[2019.01.19-03.29.46:573][954]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-03.29.46:574][954]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.29.46:574][954]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.29.46:574][954]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.29.46:574][954]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.29.46:579][954]PIE: Play in editor start time for /Game/Examples/Maps/UEDPIE_0_ImageTracking 3.404
+[2019.01.19-03.29.46:579][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.29.46:580][954]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.29.48:269][964]LogMagicLeap: Warning: SetTarget for Deep Sea
+[2019.01.19-03.29.48:285][965]LogMagicLeap: Warning: SetTarget for Deep Space
+[2019.01.19-03.29.48:601][968]LogMagicLeap: SetTarget successfully set for Deep Sea
+[2019.01.19-03.29.49:964][993]LogMagicLeap: SetTarget successfully set for Deep Space
+[2019.01.19-03.30.23:961][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.30.24:444][830]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.19-03.30.24:444][830]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.30.24:545][830]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.19-03.30.24:545][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.30.24:602][830]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.19-03.30.24:666][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-03.30.24:666][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.30.25:506][831]Cmd: SELECT NONE
+[2019.01.19-03.30.25:606][837]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.01.19-03.30.34:437][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.30.46:486][ 75]BlueprintLog: New page: Compile BP_TrackedObject
+[2019.01.19-03.30.47:096][ 96]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObject6C6C9C2C486065478D63ECB728DBD043.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.30.52:216][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.30.52:298][397]BlueprintLog: New page: Compile BP_TrackedObject
+[2019.01.19-03.30.53:779][471]LogTemp: Repeating last play command: VR Preview
+[2019.01.19-03.30.53:812][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.30.53:812][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-03.30.53:873][471]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.19-03.30.53:873][471]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.30.53:874][471]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.30.54:981][471]PIE: New page: PIE session: ImageTracking (Jan 18, 2019, 5:30:54 PM)
+[2019.01.19-03.30.54:981][471]LogPlayLevel: Creating play world package: /Game/Examples/Maps/UEDPIE_0_ImageTracking
+[2019.01.19-03.30.54:984][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002547s)
+[2019.01.19-03.30.54:984][471]LogAIModule: Creating AISystem for world ImageTracking
+[2019.01.19-03.30.54:984][471]LogPlayLevel: PIE: World Init took: (0.000431s)
+[2019.01.19-03.30.54:984][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Examples/Maps/ImageTracking.ImageTracking to /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking (0.003090s)
+[2019.01.19-03.30.56:395][471]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.30.56:395][471]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.30.56:396][471]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.30.56:454][471]LogInit: FAudioDevice initialized.
+[2019.01.19-03.30.56:470][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.30.56:591][471]LogLoad: Game class is 'DemoMode_C'
+[2019.01.19-03.30.56:592][471]LogWorld: Bringing World /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking up for play (max tick rate 0) at 2019.01.18-22.30.56
+[2019.01.19-03.30.56:593][471]LogWorld: Bringing up level for play took: 0.001121
+[2019.01.19-03.30.56:605][471]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-03.30.56:605][471]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.30.56:605][471]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.30.56:605][471]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.30.56:606][471]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.30.56:612][471]PIE: Play in editor start time for /Game/Examples/Maps/UEDPIE_0_ImageTracking 3.437
+[2019.01.19-03.30.56:612][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.30.56:614][471]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.30.58:370][482]LogMagicLeap: Warning: SetTarget for Deep Sea
+[2019.01.19-03.30.58:381][482]LogMagicLeap: Warning: SetTarget for Deep Space
+[2019.01.19-03.30.58:671][485]LogMagicLeap: SetTarget successfully set for Deep Sea
+[2019.01.19-03.31.00:237][510]LogMagicLeap: SetTarget successfully set for Deep Space
+[2019.01.19-03.31.29:402][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.31.29:874][147]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.19-03.31.29:874][147]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.31.30:044][147]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.19-03.31.30:044][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.31.30:149][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.31.30:152][147]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.19-03.31.30:217][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-03.31.30:217][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.31.30:924][154]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.01.19-03.33.25:033][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.33.25:116][952]BlueprintLog: New page: Compile BP_TrackedObject
+[2019.01.19-03.33.26:798][ 36]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObject4E4BDDA5450CDDF16E7961B297B26327.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.33.27:956][105]LogTemp: Repeating last play command: VR Preview
+[2019.01.19-03.33.27:992][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.33.27:992][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-03.33.28:043][105]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.19-03.33.28:043][105]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.33.28:044][105]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.33.29:150][105]PIE: New page: PIE session: ImageTracking (Jan 18, 2019, 5:33:29 PM)
+[2019.01.19-03.33.29:150][105]LogPlayLevel: Creating play world package: /Game/Examples/Maps/UEDPIE_0_ImageTracking
+[2019.01.19-03.33.29:153][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002719s)
+[2019.01.19-03.33.29:153][105]LogAIModule: Creating AISystem for world ImageTracking
+[2019.01.19-03.33.29:154][105]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.01.19-03.33.29:154][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Examples/Maps/ImageTracking.ImageTracking to /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking (0.003372s)
+[2019.01.19-03.33.30:489][105]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.33.30:489][105]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.33.30:491][105]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.33.30:548][105]LogInit: FAudioDevice initialized.
+[2019.01.19-03.33.30:563][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.33.30:679][105]LogLoad: Game class is 'DemoMode_C'
+[2019.01.19-03.33.30:680][105]LogWorld: Bringing World /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking up for play (max tick rate 0) at 2019.01.18-22.33.30
+[2019.01.19-03.33.30:681][105]LogWorld: Bringing up level for play took: 0.001284
+[2019.01.19-03.33.30:693][105]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-03.33.30:693][105]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.33.30:693][105]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.33.30:693][105]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.33.30:693][105]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.33.30:698][105]PIE: Play in editor start time for /Game/Examples/Maps/UEDPIE_0_ImageTracking 3.523
+[2019.01.19-03.33.30:699][105]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.33.30:700][105]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.33.31:444][115]LogMagicLeap: Warning: SetTarget for Deep Sea
+[2019.01.19-03.33.31:456][115]LogMagicLeap: Warning: SetTarget for Deep Space
+[2019.01.19-03.33.31:753][118]LogMagicLeap: SetTarget successfully set for Deep Sea
+[2019.01.19-03.33.33:010][141]LogMagicLeap: SetTarget successfully set for Deep Space
+[2019.01.19-03.34.04:070][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.34.04:527][912]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.19-03.34.04:527][912]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.34.04:644][912]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.19-03.34.04:644][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.34.04:736][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.34.04:742][912]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.19-03.34.04:806][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-03.34.04:806][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.34.05:684][919]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.01.19-03.34.15:338][487]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/TiltBrush/ChinesePaintingTest/BranchesModelTest.BranchesModelTest
+[2019.01.19-03.34.24:043][980]BlueprintLog: New page: Compile BP_TrackedObject
+[2019.01.19-03.34.24:850][ 12]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObject8A8FD6D64EB40BD2B61E37AC50B3D4DD.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.34.27:877][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.34.27:943][192]BlueprintLog: New page: Compile BP_TrackedObject
+[2019.01.19-03.34.28:729][226]LogTemp: Repeating last play command: VR Preview
+[2019.01.19-03.34.28:762][226]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.34.28:762][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-03.34.28:816][226]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.19-03.34.28:816][226]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.34.28:818][226]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.34.29:934][226]PIE: New page: PIE session: ImageTracking (Jan 18, 2019, 5:34:29 PM)
+[2019.01.19-03.34.29:934][226]LogPlayLevel: Creating play world package: /Game/Examples/Maps/UEDPIE_0_ImageTracking
+[2019.01.19-03.34.29:937][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002691s)
+[2019.01.19-03.34.29:938][226]LogAIModule: Creating AISystem for world ImageTracking
+[2019.01.19-03.34.29:938][226]LogPlayLevel: PIE: World Init took: (0.000452s)
+[2019.01.19-03.34.29:938][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Examples/Maps/ImageTracking.ImageTracking to /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking (0.003265s)
+[2019.01.19-03.34.31:361][226]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.34.31:361][226]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.34.31:362][226]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.34.31:421][226]LogInit: FAudioDevice initialized.
+[2019.01.19-03.34.31:435][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.34.31:553][226]LogLoad: Game class is 'DemoMode_C'
+[2019.01.19-03.34.31:555][226]LogWorld: Bringing World /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking up for play (max tick rate 0) at 2019.01.18-22.34.31
+[2019.01.19-03.34.31:555][226]LogWorld: Bringing up level for play took: 0.001154
+[2019.01.19-03.34.31:568][226]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-03.34.31:568][226]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.34.31:568][226]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.34.31:568][226]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.34.31:569][226]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.34.31:575][226]PIE: Play in editor start time for /Game/Examples/Maps/UEDPIE_0_ImageTracking 2.401
+[2019.01.19-03.34.31:576][226]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.34.31:577][226]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.34.32:275][235]LogMagicLeap: Warning: SetTarget for Deep Sea
+[2019.01.19-03.34.32:287][235]LogMagicLeap: Warning: SetTarget for Deep Space
+[2019.01.19-03.34.32:573][239]LogMagicLeap: SetTarget successfully set for Deep Sea
+[2019.01.19-03.34.33:707][264]LogMagicLeap: SetTarget successfully set for Deep Space
+[2019.01.19-03.34.46:836][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.34.47:325][621]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.19-03.34.47:325][621]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.34.47:420][621]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.19-03.34.47:420][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.34.47:509][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.34.47:514][621]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.19-03.34.47:574][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-03.34.47:574][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.34.48:367][628]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.01.19-03.34.54:522][985]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTracking5AF30F004EDCBE6A2C1981AD33EB7347.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-03.35.04:570][576]LogSlate: Window 'Details' being destroyed
+[2019.01.19-03.35.20:218][495]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTrackingDAE603DF4DAB7EAF7508AEBCAA6ADCA3.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-03.35.20:710][523]LogTemp: Repeating last play command: VR Preview
+[2019.01.19-03.35.20:750][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.35.20:750][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-03.35.20:807][523]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.19-03.35.20:807][523]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.35.20:808][523]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.35.21:927][523]PIE: New page: PIE session: ImageTracking (Jan 18, 2019, 5:35:21 PM)
+[2019.01.19-03.35.21:927][523]LogPlayLevel: Creating play world package: /Game/Examples/Maps/UEDPIE_0_ImageTracking
+[2019.01.19-03.35.21:930][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002817s)
+[2019.01.19-03.35.21:931][523]LogAIModule: Creating AISystem for world ImageTracking
+[2019.01.19-03.35.21:931][523]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2019.01.19-03.35.21:931][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Examples/Maps/ImageTracking.ImageTracking to /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking (0.003406s)
+[2019.01.19-03.35.22:053][523]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.35.22:053][523]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.35.22:054][523]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.35.22:112][523]LogInit: FAudioDevice initialized.
+[2019.01.19-03.35.23:527][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.35.23:645][523]LogLoad: Game class is 'DemoMode_C'
+[2019.01.19-03.35.23:646][523]LogWorld: Bringing World /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking up for play (max tick rate 0) at 2019.01.18-22.35.23
+[2019.01.19-03.35.23:647][523]LogWorld: Bringing up level for play took: 0.001700
+[2019.01.19-03.35.23:659][523]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-03.35.23:659][523]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.35.23:659][523]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.35.23:659][523]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.35.23:660][523]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.35.23:666][523]PIE: Play in editor start time for /Game/Examples/Maps/UEDPIE_0_ImageTracking 2.491
+[2019.01.19-03.35.23:667][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.35.23:668][523]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.35.24:443][532]LogMagicLeap: Warning: SetTarget for Deep Sea
+[2019.01.19-03.35.24:454][532]LogMagicLeap: Warning: SetTarget for Deep Space
+[2019.01.19-03.35.24:732][535]LogMagicLeap: SetTarget successfully set for Deep Sea
+[2019.01.19-03.35.25:841][558]LogMagicLeap: SetTarget successfully set for Deep Space
+[2019.01.19-03.35.29:621][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.35.41:957][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.35.42:394][ 10]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.19-03.35.42:394][ 10]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.35.42:486][ 10]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.19-03.35.42:486][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.35.42:499][ 10]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.19-03.35.42:589][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-03.35.42:590][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.35.42:998][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.01.19-03.36.01:963][140]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Examples/Blueprints/BP_ImageTracker.BP_ImageTracker
+[2019.01.19-03.36.08:874][516]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTrackingCA3E87B3423A9D4CA9DFA88C9AD46336.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-03.36.09:843][572]LogTemp: Repeating last play command: VR Preview
+[2019.01.19-03.36.09:878][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.36.09:878][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-03.36.09:929][572]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.19-03.36.09:929][572]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.36.09:930][572]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.36.11:061][572]PIE: New page: PIE session: ImageTracking (Jan 18, 2019, 5:36:11 PM)
+[2019.01.19-03.36.11:061][572]LogPlayLevel: Creating play world package: /Game/Examples/Maps/UEDPIE_0_ImageTracking
+[2019.01.19-03.36.11:063][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002358s)
+[2019.01.19-03.36.11:063][572]LogAIModule: Creating AISystem for world ImageTracking
+[2019.01.19-03.36.11:064][572]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2019.01.19-03.36.11:064][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Examples/Maps/ImageTracking.ImageTracking to /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking (0.002936s)
+[2019.01.19-03.36.11:180][572]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.36.11:180][572]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.36.11:181][572]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.36.11:237][572]LogInit: FAudioDevice initialized.
+[2019.01.19-03.36.12:406][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.36.12:533][572]LogLoad: Game class is 'DemoMode_C'
+[2019.01.19-03.36.12:534][572]LogWorld: Bringing World /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking up for play (max tick rate 0) at 2019.01.18-22.36.12
+[2019.01.19-03.36.12:534][572]LogWorld: Bringing up level for play took: 0.000999
+[2019.01.19-03.36.12:547][572]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-03.36.12:547][572]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.36.12:547][572]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.36.12:547][572]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.36.12:547][572]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.36.12:555][572]PIE: Play in editor start time for /Game/Examples/Maps/UEDPIE_0_ImageTracking 3.38
+[2019.01.19-03.36.12:555][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.36.12:557][572]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.36.13:363][583]LogMagicLeap: Warning: SetTarget for Deep Sea
+[2019.01.19-03.36.13:374][583]LogMagicLeap: Warning: SetTarget for Deep Space
+[2019.01.19-03.36.13:662][587]LogMagicLeap: SetTarget successfully set for Deep Sea
+[2019.01.19-03.36.14:790][610]LogMagicLeap: SetTarget successfully set for Deep Space
+[2019.01.19-03.36.35:764][171]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.36.36:207][171]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.19-03.36.36:207][171]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.36.36:294][171]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.19-03.36.36:294][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.36.36:342][171]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.19-03.36.36:412][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-03.36.36:413][171]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.36.36:921][178]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.01.19-03.36.53:972][201]Cmd: DELETE
+[2019.01.19-03.36.53:972][201]Cmd: ACTOR DELETE
+[2019.01.19-03.36.53:974][201]LogEditorActor: Deleted Actor: BP_DeepSpaceVisualizer_C
+[2019.01.19-03.36.54:005][201]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.01.19-03.36.54:614][238]Cmd: DELETE
+[2019.01.19-03.36.54:615][238]Cmd: ACTOR DELETE
+[2019.01.19-03.36.54:616][238]LogEditorActor: Deleted Actor: BP_DeepSpaceEarth_C
+[2019.01.19-03.36.54:648][238]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.01.19-03.36.56:137][316]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTracking8996F73A4FAC694460724FADC572F60C.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-03.36.57:258][381]LogTemp: Repeating last play command: VR Preview
+[2019.01.19-03.36.57:293][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.36.57:293][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-03.36.57:351][381]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.19-03.36.57:351][381]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.36.57:352][381]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.36.58:489][381]PIE: New page: PIE session: ImageTracking (Jan 18, 2019, 5:36:58 PM)
+[2019.01.19-03.36.58:489][381]LogPlayLevel: Creating play world package: /Game/Examples/Maps/UEDPIE_0_ImageTracking
+[2019.01.19-03.36.58:491][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002601s)
+[2019.01.19-03.36.58:492][381]LogAIModule: Creating AISystem for world ImageTracking
+[2019.01.19-03.36.58:492][381]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2019.01.19-03.36.58:492][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Examples/Maps/ImageTracking.ImageTracking to /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking (0.003244s)
+[2019.01.19-03.36.58:633][381]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.36.58:633][381]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.36.58:635][381]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.36.58:691][381]LogInit: FAudioDevice initialized.
+[2019.01.19-03.37.00:041][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.37.00:168][381]LogLoad: Game class is 'DemoMode_C'
+[2019.01.19-03.37.00:170][381]LogWorld: Bringing World /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking up for play (max tick rate 0) at 2019.01.18-22.37.00
+[2019.01.19-03.37.00:170][381]LogWorld: Bringing up level for play took: 0.001756
+[2019.01.19-03.37.00:183][381]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-03.37.00:183][381]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.37.00:183][381]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.37.00:183][381]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.37.00:184][381]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.37.00:190][381]PIE: Play in editor start time for /Game/Examples/Maps/UEDPIE_0_ImageTracking 3.015
+[2019.01.19-03.37.00:191][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.37.00:193][381]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.37.00:960][391]LogMagicLeap: Warning: SetTarget for Deep Sea
+[2019.01.19-03.37.00:971][391]LogMagicLeap: Warning: SetTarget for Deep Space
+[2019.01.19-03.37.01:263][394]LogMagicLeap: SetTarget successfully set for Deep Sea
+[2019.01.19-03.37.02:366][418]LogMagicLeap: SetTarget successfully set for Deep Space
+[2019.01.19-03.37.53:477][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.37.53:920][639]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.19-03.37.53:920][639]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.37.54:032][639]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.19-03.37.54:032][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.37.54:084][639]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.19-03.37.54:154][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-03.37.54:154][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.37.54:522][646]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.01.19-03.38.09:069][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-03.38.09:135][515]BlueprintLog: New page: Compile BP_TrackedObject
+[2019.01.19-03.38.10:001][549]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObject4AC522FD47E836120A5FBAA7083474ED.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.38.11:151][616]LogTemp: Repeating last play command: VR Preview
+[2019.01.19-03.38.11:186][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.38.11:186][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-03.38.11:233][616]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.19-03.38.11:233][616]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.38.11:234][616]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.38.12:343][616]PIE: New page: PIE session: ImageTracking (Jan 18, 2019, 5:38:12 PM)
+[2019.01.19-03.38.12:343][616]LogPlayLevel: Creating play world package: /Game/Examples/Maps/UEDPIE_0_ImageTracking
+[2019.01.19-03.38.12:345][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002278s)
+[2019.01.19-03.38.12:345][616]LogAIModule: Creating AISystem for world ImageTracking
+[2019.01.19-03.38.12:345][616]LogPlayLevel: PIE: World Init took: (0.000419s)
+[2019.01.19-03.38.12:346][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Examples/Maps/ImageTracking.ImageTracking to /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking (0.002829s)
+[2019.01.19-03.38.13:975][616]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.19-03.38.13:975][616]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.19-03.38.13:976][616]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.38.14:034][616]LogInit: FAudioDevice initialized.
+[2019.01.19-03.38.14:048][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.38.14:167][616]LogLoad: Game class is 'DemoMode_C'
+[2019.01.19-03.38.14:168][616]LogWorld: Bringing World /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking up for play (max tick rate 0) at 2019.01.18-22.38.14
+[2019.01.19-03.38.14:169][616]LogWorld: Bringing up level for play took: 0.001035
+[2019.01.19-03.38.14:181][616]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-03.38.14:181][616]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.38.14:181][616]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.38.14:181][616]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.38.14:182][616]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.38.14:188][616]PIE: Play in editor start time for /Game/Examples/Maps/UEDPIE_0_ImageTracking 3.013
+[2019.01.19-03.38.14:188][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.38.14:190][616]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.38.15:066][620]LogMagicLeap: Warning: SetTarget for Deep Sea
+[2019.01.19-03.38.15:076][620]LogMagicLeap: Warning: SetTarget for Deep Space
+[2019.01.19-03.38.20:080][630]LogMagicLeap: Error: [FImageTrackerImpl] Could not create Image Target.
+[2019.01.19-03.38.23:571][636]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.38.25:308][636]LogMagicLeap: Error: [FImageTrackerImpl] Could not create Image Target.
+[2019.01.19-03.38.25:308][636]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.19-03.38.25:308][636]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.38.30:261][636]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.19-03.38.30:261][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.38.30:345][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.38.30:347][636]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.19-03.38.30:431][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-03.38.30:431][636]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.38.30:666][637]Cmd: SELECT NONE
+[2019.01.19-03.38.30:839][643]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.01.19-03.38.35:965][929]Cmd: SELECT NONE
+[2019.01.19-03.38.40:121][176]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObjectC375162140632631CEBA649FAA898438.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.38.42:114][295]LogTemp: Repeating last play command: VR Preview
+[2019.01.19-03.38.42:164][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.38.42:164][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-03.38.42:207][295]PIE: New page: PIE session: ImageTracking (Jan 18, 2019, 5:38:42 PM)
+[2019.01.19-03.38.42:207][295]LogPlayLevel: Creating play world package: /Game/Examples/Maps/UEDPIE_0_ImageTracking
+[2019.01.19-03.38.42:210][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003146s)
+[2019.01.19-03.38.42:211][295]LogAIModule: Creating AISystem for world ImageTracking
+[2019.01.19-03.38.42:211][295]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2019.01.19-03.38.42:211][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Examples/Maps/ImageTracking.ImageTracking to /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking (0.004187s)
+[2019.01.19-03.38.42:261][295]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.19-03.38.42:318][295]LogInit: FAudioDevice initialized.
+[2019.01.19-03.38.42:332][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.38.42:392][295]LogLoad: Game class is 'DemoMode_C'
+[2019.01.19-03.38.42:398][295]LogWorld: Bringing World /Game/Examples/Maps/UEDPIE_0_ImageTracking.ImageTracking up for play (max tick rate 60) at 2019.01.18-22.38.42
+[2019.01.19-03.38.42:399][295]LogWorld: Bringing up level for play took: 0.003615
+[2019.01.19-03.38.42:412][295]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.19-03.38.42:412][295]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.38.42:412][295]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.19-03.38.42:412][295]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.38.42:413][295]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.19-03.38.42:417][295]PIE: Play in editor start time for /Game/Examples/Maps/UEDPIE_0_ImageTracking 1.242
+[2019.01.19-03.38.42:417][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.38.42:418][295]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.38.42:418][295]LogMagicLeap: Error: [FImageTrackerEngineInterface] Could not create Image tracker.
+[2019.01.19-03.38.42:429][295]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.19-03.38.42:429][295]LogMagicLeap: Error: [FImageTrackerEngineInterface] Could not create Image tracker.
+[2019.01.19-03.38.43:911][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.38.43:912][376]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.38.43:913][376]LogMagicLeap: Error: MLGraphicsDestroyClient failed with status MLResult_InvalidParam
+[2019.01.19-03.38.43:913][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-03.38.43:924][376]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.19-03.38.43:991][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-03.38.43:991][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel' has LevelScriptBlueprint '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking' with GeneratedClass '/Game/Examples/Maps/ImageTracking.ImageTracking_C' with ClassGeneratedBy '/Game/Examples/Maps/ImageTracking.ImageTracking:PersistentLevel.ImageTracking'
+[2019.01.19-03.38.44:614][383]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.01.19-03.38.48:315][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-03.38.48:501][601]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTracking70D146F84B98B8F5A92E3184648E8D06.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-03.38.48:522][601]LogFileHelpers: Saving map 'ImageTracking' took 0.198
+[2019.01.19-03.38.48:586][601]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Splatter7F43F51340B95F46982978BB88DA67CA.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/Splatter.uasset'
+[2019.01.19-03.38.50:619][636]LogSlate: Window 'Message' being destroyed
+[2019.01.19-03.38.51:317][678]Cmd: POLY SELECT ALL
+[2019.01.19-03.38.52:297][729]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_TrackedObject3554FA6E48DD9964CD2907A21C2A4881.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Blueprints/Common/BP_TrackedObject.uasset'
+[2019.01.19-03.38.57:256][902]LogSlate: Window 'Message' being destroyed
+[2019.01.19-03.38.57:579][902]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.01.19-03.38.57:645][902]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.38.57:645][902]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.19-03.38.57:645][902]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.19-03.38.57:645][902]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.19-03.38.57:645][902]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.19-03.38.57:645][902]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.19-03.38.57:645][902]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.19-03.38.57:645][902]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.19-03.38.57:657][902]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.38.57:699][902]LogMaterial: Display: Missing cached shader map for material f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.38.57:782][902]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy f5c336cf51084b40ade9c687504385ab_Ink, compiling. 
+[2019.01.19-03.38.57:788][902]TextureStreamingBuild: Display: Compiling optional shaders took 0.022 seconds.
+[2019.01.19-03.38.57:838][902]LogSlate: Window 'BP_ImageTracker' being destroyed
+[2019.01.19-03.38.57:843][902]LogSlate: Window 'BP_ImageTracker' being destroyed
+[2019.01.19-03.38.58:535][902]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.19-03.38.58:535][902]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.19-03.38.58:535][902]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.19-03.38.58:535][902]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.19-03.38.58:535][902]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.19-03.38.58:535][902]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.19-03.38.58:612][902]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.19-03.38.58:884][904]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.19-03.38.58:906][905]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.19-03.38.59:412][934]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.19-03.38.59:453][936]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.19-03.38.59:933][940]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.19-03.38.59:933][940]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.19-03.38.59:994][940]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.19-03.38.59:994][940]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/ImageTrackingE98687B64901D1A472CB6EBFB7545E38.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Examples/Maps/ImageTracking.umap'
+[2019.01.19-03.39.00:026][940]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.19-03.39.00:159][946]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.19-03.39.00:242][951]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.19-03.39.00:259][952]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.19-03.39.01:067][997]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.19-03.39.01:102][997]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.19-03.39.01:102][997]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.19-03.39.01:160][997]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.19-03.39.01:513][997]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.19-03.39.01:617][997]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.19-03.39.01:782][997]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.19-03.39.01:822][997]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.19-03.39.02:208][997]LogSlate: Window 'Save Content' being destroyed
+[2019.01.19-03.39.06:956][997]LogSavePackage: Moving '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/f5c336cf51084b40ade9c687504385ab8BDDCD904628DBD96CBF82872E3DDC45.tmp' to '../../../../../../Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Models/TiltBrush/ChinesePaintingTest/f5c336cf51084b40ade9c687504385ab_Ink.uasset'
+[2019.01.19-03.39.07:024][997]LogSlate: Window 'Unreal - Unreal Editor' being destroyed
+[2019.01.19-03.39.07:027][997]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.19-03.39.07:307][998]Cmd: QUIT_EDITOR
+[2019.01.19-03.39.07:395][998]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.19-03.39.07:408][998]LogExit: Preparing to exit.
+[2019.01.19-03.39.08:333][998]LogExit: Editor shut down
+[2019.01.19-03.39.08:334][998]LogExit: Transaction tracking system shut down
+[2019.01.19-03.39.08:758][998]LogExit: Object subsystem successfully closed.
+[2019.01.19-03.39.08:789][998]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.19-03.39.08:984][998]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (626)
+[2019.01.19-03.39.08:984][998]LogModuleManager: Shutting down and abandoning module TextureEditor (624)
+[2019.01.19-03.39.08:985][998]LogModuleManager: Shutting down and abandoning module MeshBuilder (622)
+[2019.01.19-03.39.08:985][998]LogModuleManager: Shutting down and abandoning module BlueprintGraph (620)
+[2019.01.19-03.39.08:985][998]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2019.01.19-03.39.08:985][998]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2019.01.19-03.39.08:985][998]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2019.01.19-03.39.08:986][998]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2019.01.19-03.39.08:986][998]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2019.01.19-03.39.08:986][998]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2019.01.19-03.39.08:988][998]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2019.01.19-03.39.08:988][998]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2019.01.19-03.39.08:988][998]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2019.01.19-03.39.08:989][998]LogModuleManager: Shutting down and abandoning module FoliageEdit (600)
+[2019.01.19-03.39.08:989][998]LogModuleManager: Shutting down and abandoning module LandscapeEditor (598)
+[2019.01.19-03.39.08:990][998]LogModuleManager: Shutting down and abandoning module MeshPaintMode (596)
+[2019.01.19-03.39.08:990][998]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (594)
+[2019.01.19-03.39.08:990][998]LogModuleManager: Shutting down and abandoning module ActorPickerMode (592)
+[2019.01.19-03.39.08:990][998]LogModuleManager: Shutting down and abandoning module GeometryMode (590)
+[2019.01.19-03.39.08:990][998]LogModuleManager: Shutting down and abandoning module TextureAlignMode (588)
+[2019.01.19-03.39.08:991][998]LogModuleManager: Shutting down and abandoning module BspMode (586)
+[2019.01.19-03.39.08:991][998]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (584)
+[2019.01.19-03.39.08:991][998]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (582)
+[2019.01.19-03.39.08:991][998]LogModuleManager: Shutting down and abandoning module AutomationWorker (580)
+[2019.01.19-03.39.08:991][998]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (578)
+[2019.01.19-03.39.08:991][998]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (576)
+[2019.01.19-03.39.08:991][998]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (574)
+[2019.01.19-03.39.08:993][998]LogModuleManager: Shutting down and abandoning module PlacementMode (573)
+[2019.01.19-03.39.08:993][998]LogModuleManager: Shutting down and abandoning module MaterialEditor (572)
+[2019.01.19-03.39.08:993][998]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (568)
+[2019.01.19-03.39.08:993][998]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (566)
+[2019.01.19-03.39.08:993][998]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (564)
+[2019.01.19-03.39.08:993][998]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (562)
+[2019.01.19-03.39.08:993][998]LogModuleManager: Shutting down and abandoning module WebMMedia (560)
+[2019.01.19-03.39.08:993][998]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.01.19-03.39.08:994][998]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (556)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module SequenceRecorder (555)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (552)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (550)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (548)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (546)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (544)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (542)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (540)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (538)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (536)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (534)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (532)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module CharacterAI (530)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module SmartSnapping (528)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module SessionServices (526)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module ViewportSnapping (524)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module ViewportInteraction (522)
+[2019.01.19-03.39.08:995][998]LogModuleManager: Shutting down and abandoning module ClothPainter (520)
+[2019.01.19-03.39.08:996][998]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (519)
+[2019.01.19-03.39.08:997][998]LogModuleManager: Shutting down and abandoning module LogVisualizer (516)
+[2019.01.19-03.39.08:998][998]LogModuleManager: Shutting down and abandoning module IntroTutorials (514)
+[2019.01.19-03.39.09:000][998]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (513)
+[2019.01.19-03.39.09:000][998]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (510)
+[2019.01.19-03.39.09:000][998]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (508)
+[2019.01.19-03.39.09:000][998]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (506)
+[2019.01.19-03.39.09:000][998]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (504)
+[2019.01.19-03.39.09:000][998]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (503)
+[2019.01.19-03.39.10:011][998]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (500)
+[2019.01.19-03.39.10:011][998]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (498)
+[2019.01.19-03.39.10:011][998]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (496)
+[2019.01.19-03.39.10:011][998]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (494)
+[2019.01.19-03.39.10:011][998]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (492)
+[2019.01.19-03.39.10:012][998]LogModuleManager: Shutting down and abandoning module InputBindingEditor (490)
+[2019.01.19-03.39.10:013][998]LogModuleManager: Shutting down and abandoning module MergeActors (488)
+[2019.01.19-03.39.10:014][998]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (486)
+[2019.01.19-03.39.10:015][998]LogModuleManager: Shutting down and abandoning module LocalizationService (485)
+[2019.01.19-03.39.10:016][998]LogModuleManager: Shutting down and abandoning module HardwareTargeting (482)
+[2019.01.19-03.39.10:016][998]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (480)
+[2019.01.19-03.39.10:016][998]LogModuleManager: Shutting down and abandoning module UndoHistory (478)
+[2019.01.19-03.39.10:017][998]LogModuleManager: Shutting down and abandoning module XmlParser (476)
+[2019.01.19-03.39.10:017][998]LogModuleManager: Shutting down and abandoning module Blutility (474)
+[2019.01.19-03.39.10:017][998]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (472)
+[2019.01.19-03.39.10:018][998]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (471)
+[2019.01.19-03.39.10:018][998]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (468)
+[2019.01.19-03.39.10:019][998]LogModuleManager: Shutting down and abandoning module SettingsEditor (466)
+[2019.01.19-03.39.10:019][998]LogModuleManager: Shutting down and abandoning module ProjectLauncher (464)
+[2019.01.19-03.39.10:020][998]LogModuleManager: Shutting down and abandoning module SessionFrontend (462)
+[2019.01.19-03.39.10:021][998]LogModuleManager: Shutting down and abandoning module ProfilerClient (460)
+[2019.01.19-03.39.10:021][998]LogModuleManager: Shutting down and abandoning module DeviceManager (458)
+[2019.01.19-03.39.10:022][998]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (457)
+[2019.01.19-03.39.10:088][998]LogModuleManager: Shutting down and abandoning module AutomationController (454)
+[2019.01.19-03.39.10:089][998]LogModuleManager: Shutting down and abandoning module AutomationWindow (452)
+[2019.01.19-03.39.10:089][998]LogModuleManager: Shutting down and abandoning module Layers (450)
+[2019.01.19-03.39.10:090][998]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (448)
+[2019.01.19-03.39.10:090][998]LogModuleManager: Shutting down and abandoning module DetailCustomizations (446)
+[2019.01.19-03.39.10:090][998]LogModuleManager: Shutting down and abandoning module PackagesDialog (444)
+[2019.01.19-03.39.10:091][998]LogModuleManager: Shutting down and abandoning module Persona (442)
+[2019.01.19-03.39.10:091][998]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (441)
+[2019.01.19-03.39.10:091][998]LogModuleManager: Shutting down and abandoning module AnimGraph (439)
+[2019.01.19-03.39.10:091][998]LogModuleManager: Shutting down and abandoning module Kismet (436)
+[2019.01.19-03.39.10:102][998]LogModuleManager: Shutting down and abandoning module GraphEditor (434)
+[2019.01.19-03.39.10:102][998]LogModuleManager: Shutting down and abandoning module ClassViewer (432)
+[2019.01.19-03.39.10:102][998]LogModuleManager: Shutting down and abandoning module Toolbox (430)
+[2019.01.19-03.39.10:102][998]LogModuleManager: Shutting down and abandoning module DesktopPlatform (429)
+[2019.01.19-03.39.10:103][998]LogModuleManager: Shutting down and abandoning module ModuleUI (426)
+[2019.01.19-03.39.10:103][998]LogModuleManager: Shutting down and abandoning module MovieSceneTools (424)
+[2019.01.19-03.39.10:103][998]LogModuleManager: Shutting down and abandoning module OutputLog (422)
+[2019.01.19-03.39.10:103][998]LogModuleManager: Shutting down and abandoning module GammaUI (420)
+[2019.01.19-03.39.10:103][998]LogModuleManager: Shutting down and abandoning module Documentation (418)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (416)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module MovieScene (414)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (412)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module LauncherPlatform (410)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module AnalyticsET (408)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module PortalServices (406)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module PortalRpc (404)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module MessagingRpc (402)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module AIModule (400)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module GameplayDebugger (399)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module AITestSuite (397)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module NavigationSystem (395)
+[2019.01.19-03.39.10:104][998]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (392)
+[2019.01.19-03.39.10:108][998]LogModuleManager: Shutting down and abandoning module ProfilerService (390)
+[2019.01.19-03.39.10:326][998]LogModuleManager: Shutting down and abandoning module TaskGraph (388)
+[2019.01.19-03.39.10:329][998]LogModuleManager: Shutting down and abandoning module SteamVRController (386)
+[2019.01.19-03.39.10:329][998]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (384)
+[2019.01.19-03.39.10:329][998]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (382)
+[2019.01.19-03.39.10:329][998]LogModuleManager: Shutting down and abandoning module OculusInput (380)
+[2019.01.19-03.39.10:329][998]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (378)
+[2019.01.19-03.39.10:329][998]LogModuleManager: Shutting down and abandoning module EditableMesh (376)
+[2019.01.19-03.39.10:330][998]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (374)
+[2019.01.19-03.39.10:330][998]LogModuleManager: Shutting down and abandoning module CableComponent (372)
+[2019.01.19-03.39.10:330][998]LogModuleManager: Shutting down and abandoning module AudioCapture (370)
+[2019.01.19-03.39.10:330][998]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (368)
+[2019.01.19-03.39.10:330][998]LogModuleManager: Shutting down and abandoning module AndroidPermission (366)
+[2019.01.19-03.39.10:330][998]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (364)
+[2019.01.19-03.39.10:330][998]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (362)
+[2019.01.19-03.39.10:332][998]LogModuleManager: Shutting down and abandoning module MediaCompositing (360)
+[2019.01.19-03.39.10:332][998]LogModuleManager: Shutting down and abandoning module LinearTimecode (358)
+[2019.01.19-03.39.10:332][998]LogModuleManager: Shutting down and abandoning module ImgMedia (356)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module HTML5Networking (354)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (352)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (350)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module BackChannel (348)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module AppleVision (346)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (344)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module AppleImageUtils (342)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module AlembicImporter (340)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module AlembicLibrary (339)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module GeometryCache (338)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (337)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module VariantManagerContent (332)
+[2019.01.19-03.39.10:336][998]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (330)
+[2019.01.19-03.39.10:337][998]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (328)
+[2019.01.19-03.39.10:337][998]LogModuleManager: Shutting down and abandoning module PluginBrowser (326)
+[2019.01.19-03.39.10:338][998]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (324)
+[2019.01.19-03.39.10:338][998]LogModuleManager: Shutting down and abandoning module PolygonModeling (322)
+[2019.01.19-03.39.10:338][998]LogModuleManager: Shutting down and abandoning module MeshEditor (320)
+[2019.01.19-03.39.10:339][998]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2019.01.19-03.39.10:339][998]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2019.01.19-03.39.10:339][998]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2019.01.19-03.39.10:339][998]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2019.01.19-03.39.10:339][998]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2019.01.19-03.39.10:339][998]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2019.01.19-03.39.10:339][998]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2019.01.19-03.39.10:340][998]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2019.01.19-03.39.10:340][998]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2019.01.19-03.39.10:341][998]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2019.01.19-03.39.10:341][998]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (298)
+[2019.01.19-03.39.10:341][998]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (296)
+[2019.01.19-03.39.10:341][998]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (294)
+[2019.01.19-03.39.10:341][998]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (292)
+[2019.01.19-03.39.10:341][998]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (290)
+[2019.01.19-03.39.10:341][998]LogModuleManager: Shutting down and abandoning module Paper2DEditor (288)
+[2019.01.19-03.39.10:342][998]LogModuleManager: Shutting down and abandoning module MeshPaint (287)
+[2019.01.19-03.39.10:342][998]LogModuleManager: Shutting down and abandoning module Unreal (284)
+[2019.01.19-03.39.10:342][998]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (282)
+[2019.01.19-03.39.10:342][998]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (280)
+[2019.01.19-03.39.10:342][998]LogModuleManager: Shutting down and abandoning module PhysXVehicles (278)
+[2019.01.19-03.39.10:342][998]LogModuleManager: Shutting down and abandoning module OculusEditor (276)
+[2019.01.19-03.39.10:342][998]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (274)
+[2019.01.19-03.39.10:342][998]LogModuleManager: Shutting down and abandoning module ActorSequence (272)
+[2019.01.19-03.39.10:342][998]LogModuleManager: Shutting down and abandoning module UdpMessaging (270)
+[2019.01.19-03.39.10:443][998]LogModuleManager: Shutting down and abandoning module TcpMessaging (268)
+[2019.01.19-03.39.10:544][998]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (266)
+[2019.01.19-03.39.10:544][998]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.01.19-03.39.10:546][998]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.01.19-03.39.10:546][998]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.01.19-03.39.10:546][998]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.01.19-03.39.10:546][998]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.01.19-03.39.10:546][998]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.01.19-03.39.10:548][998]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.01.19-03.39.10:548][998]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.01.19-03.39.10:548][998]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.01.19-03.39.10:548][998]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.01.19-03.39.10:549][998]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.01.19-03.39.10:551][998]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.01.19-03.39.10:552][998]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (240)
+[2019.01.19-03.39.10:552][998]LogModuleManager: Shutting down and abandoning module AISupportModule (238)
+[2019.01.19-03.39.10:552][998]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2019.01.19-03.39.10:552][998]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2019.01.19-03.39.10:552][998]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (232)
+[2019.01.19-03.39.10:552][998]LogModuleManager: Shutting down and abandoning module WmfMedia (230)
+[2019.01.19-03.39.10:558][998]LogModuleManager: Shutting down and abandoning module Media (229)
+[2019.01.19-03.39.10:564][998]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2019.01.19-03.39.10:564][998]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2019.01.19-03.39.10:564][998]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2019.01.19-03.39.10:565][998]LogModuleManager: Shutting down and abandoning module MediaAssets (220)
+[2019.01.19-03.39.10:565][998]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2019.01.19-03.39.10:565][998]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2019.01.19-03.39.10:565][998]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2019.01.19-03.39.10:566][998]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2019.01.19-03.39.10:566][998]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2019.01.19-03.39.10:566][998]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2019.01.19-03.39.10:567][998]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2019.01.19-03.39.10:567][998]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2019.01.19-03.39.10:568][998]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2019.01.19-03.39.10:568][998]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2019.01.19-03.39.10:568][998]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2019.01.19-03.39.10:569][998]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2019.01.19-03.39.10:570][998]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2019.01.19-03.39.10:570][998]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2019.01.19-03.39.10:572][998]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2019.01.19-03.39.10:572][998]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2019.01.19-03.39.10:573][998]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.01.19-03.39.10:573][998]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module LevelSequence (172)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2019.01.19-03.39.10:574][998]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.01.19-03.39.10:576][998]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.01.19-03.39.10:576][998]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.01.19-03.39.10:576][998]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (155)
+[2019.01.19-03.39.10:576][998]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2019.01.19-03.39.10:608][998]LogDerivedDataCache: Shutdown
+[2019.01.19-03.39.10:608][998]LogModuleManager: Shutting down and abandoning module XGEController (150)
+[2019.01.19-03.39.10:608][998]LogXGEController: Cleaning working directory: C:/Users/nicks/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.19-03.39.10:608][998]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2019.01.19-03.39.10:608][998]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2019.01.19-03.39.10:609][998]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2019.01.19-03.39.10:609][998]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2019.01.19-03.39.10:610][998]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2019.01.19-03.39.10:610][998]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2019.01.19-03.39.10:610][998]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2019.01.19-03.39.10:611][998]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (117)
+[2019.01.19-03.39.10:618][998]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.01.19-03.39.10:620][998]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.01.19-03.39.10:620][998]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.01.19-03.39.10:623][998]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.01.19-03.39.10:623][998]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.01.19-03.39.10:651][998]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.01.19-03.39.10:651][998]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.01.19-03.39.10:651][998]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.01.19-03.39.10:651][998]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.01.19-03.39.10:651][998]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.01.19-03.39.10:652][998]LogHMD: Freeing OpenVRDLLHandle.
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.01.19-03.39.10:652][998]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.01.19-03.39.10:654][998]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.01.19-03.39.10:655][998]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.01.19-03.39.10:668][998]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.01.19-03.39.10:669][998]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.19-03.39.10:669][998]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA213B5CE-485F-D8FA-BCA8-17B126388DC0%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.22.0-0%2BUE4&UserID=4f525d2a436d812e89055e818dec6b20%7C0ef434b39613492b832e7b5d85c9682f%7Cabcc197a-633f-450d-ba26-6a5cb530681c&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2019.01.19-03.39.10:700][998]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.01.19-03.39.10:702][998]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.01.19-03.39.10:702][998]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.01.19-03.39.10:702][998]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.01.19-03.39.10:702][998]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.01.19-03.39.10:702][998]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.01.19-03.39.10:703][998]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.01.19-03.39.10:703][998]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.01.19-03.39.10:703][998]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.19-03.39.10:703][998]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.01.19-03.39.10:703][998]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.01.19-03.39.10:704][998]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.19-03.39.10:704][998]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.19-03.39.10:704][998]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.19-03.39.10:705][998]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.19-03.39.10:705][998]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.19-03.39.10:705][998]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.19-03.39.10:705][998]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.19-03.39.10:707][998]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.19-03.39.10:707][998]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.19-03.39.10:707][998]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.19-03.39.10:708][998]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.19-03.39.10:708][998]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.19-03.39.10:708][998]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.19-03.39.10:708][998]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.19-03.39.10:708][998]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.19-03.39.10:708][998]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.19-03.39.10:708][998]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.19-03.39.10:708][998]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.19-03.39.10:720][998]LogExit: Exiting.
+[2019.01.19-03.39.10:735][998]Log file closed, 01/18/19 22:39:10
