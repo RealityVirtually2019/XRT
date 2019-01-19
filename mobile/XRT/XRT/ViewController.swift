@@ -19,14 +19,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         
         sceneView.delegate = self
         
-        //sceneView.scene = SCNScene(named: "art.scnassets/chinese_painting.scn")!
-//        let scene = SCNScene(named: "VanGogh.dae", inDirectory: "art.scnassets")
-//        let ship = scene!.rootNode.childNode(withName: "SM_OilPaint", recursively: true)
-//        // ship!.simdPosition = float3(0, 0, -1)
-//        ship!.position.z = -8
-//        // half a meter in front of the *initial* camera position
-//        sceneView.scene.rootNode.addChildNode(ship!)
-        
         // AR auto adds light to the scene?
         sceneView.autoenablesDefaultLighting = true
     }
@@ -73,10 +65,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
                 if let paintingScene = SCNScene(named: "art.scnassets/VanGogh_2.dae") {
 
                     if let paintingNode = paintingScene.rootNode.childNodes.first {
-                        print(paintingNode.position)
-                        print(paintingNode.scale)
-
-                        //paintingNode.eulerAngles.x = .pi / 2
 
                         planeNode.addChildNode(paintingNode)
                     }

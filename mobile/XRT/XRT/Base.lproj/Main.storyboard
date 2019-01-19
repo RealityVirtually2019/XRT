@@ -65,6 +65,9 @@
                                 <state key="normal" title="E n t e r">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="BV1-FR-VrT" kind="presentation" id="lxP-Ez-p2a"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="X R T" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Af0-Y0-vds">
                                 <rect key="frame" x="100.5" y="133.5" width="174" height="87"/>
@@ -91,6 +94,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="lML-IW-qyz"/>
                     </view>
+                    <connections>
+                        <outlet property="enterButton" destination="Qgz-72-1pf" id="Lce-71-xxC"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="n9f-c0-nas" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
