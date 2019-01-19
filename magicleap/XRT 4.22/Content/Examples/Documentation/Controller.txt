@@ -1,0 +1,42 @@
+# Example Scene: Controller
+
+This example demonstrates and prescribes preferred methods for receiving input
+from the Control controller and sending haptic feedback to it.
+
+## Calibrating the controller
+When calibrated, the position and orientation of the virtual controller tracks
+the physical controller.
+
+For accurate controller calibration, be sure to point the controller towards
+your forehead at eye-level when you first turn it on.
+
+To calibrate the controller:
+  1. Press Home to display a static model of the controller.
+  2. Orient your physical controller in the exact same position and direction
+     as the static model of the controller in the scene.
+  3. Press Home to return to regular mode.
+
+## Bumper
+When you press the Bumper:
+- A graphical arc is displayed.
+- A haptic ForceDown body vibration effect occurs onButtonDown.
+- A haptic ForceUp body vibration effect occurs onButtonUp.
+
+## Trigger
+When you squeeze the Trigger:
+- A blue, pressure-sensitive arc is displayed.
+- A haptic Buzz body vibration effect occurs. The intensity is based on 
+  Trigger pressure.
+
+## Touchpad
+When you touch the Touchpad:
+- A visual disc relative to the touch position is displayed.
+- The size of the blue ring around the disc is based on touch pressure.
+- The touchpad gesture is shown on the UI.
+
+## Magic Leap Mobile Application
+- A visual disc relative to the touch position is displayed.
+- The touchpad gesture is shown on the UI.
+
+## MLRemote
+- The calibration step is removed for Simulator.

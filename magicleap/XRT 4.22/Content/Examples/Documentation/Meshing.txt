@@ -1,0 +1,38 @@
+# Example Scene: Meshing
+
+This example demonstrates and prescribes preferred methods for using the
+meshing functionality.
+
+The scene provides several examples of changing the way rendering and physics
+interact with the meshing results. You can:
+- visualize the mesh results.
+- use the mesh results as occlusion data for virtual objects.
+- control different parameters of the meshing query around bounding box
+  position and size.
+- shoot prefab spheres into the scene for physics interaction.
+
+## Bumper
+Cycles rendering modes:
+- Wireframe. Wireframe mesh visualization from meshed results. Virtual objects
+  are occluded.
+- Occlusion. No visualization of mesh results.  Virtual objects are occluded.
+- None.
+
+## Home Button
+Toggles the mesh type:
+  - Block. Meshes are broken into 1 meter block sections and updated
+    individually. Any blocks partially inside the bounding box are updated.
+  - Full. A single large mesh clipped to the defined bounding box.
+
+## Touchpad Swipe Up/Down
+Sizes the bounding box for planes generation.
+(0, 0, 0) size denotes an infinite size bounding box.
+
+## Touchpad Radial Scroll
+Rotate the bounding box.
+
+## Trigger + Bumper
+Drag the bounding box around the environment, centered on the cursor.
+
+## Trigger
+Shoots a ball into the scene to demonstrate occlusion and physics.

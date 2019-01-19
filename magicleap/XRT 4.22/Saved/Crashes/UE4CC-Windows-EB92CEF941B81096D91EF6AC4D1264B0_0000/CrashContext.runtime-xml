@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-EB92CEF941B81096D91EF6AC4D1264B0_0000</CrashGUID>
+<ProcessId>6800</ProcessId>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>true</IsSourceDistribution>
+<IsEnsure>true</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Ensure</CrashType>
+<SecondsSinceStart>0</SecondsSinceStart>
+<GameName>UE4-Unreal</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>UE4-CL-0-Win64-Development</Symbols>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.22.0-0+UE4</EngineVersion>
+<CommandLine>&quot;C:\Users\nicks\Documents\Unreal Projects\XRT 4.22\Unreal.uproject&quot;</CommandLine>
+<LanguageLCID>1033</LanguageLCID>
+<AppDefaultLocale>en-US</AppDefaultLocale>
+<BuildVersion>UE4-CL-0</BuildVersion>
+<IsUE4Release>false</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Users/nicks/Downloads/mlsdk-019/mlsdk019/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Users/nicks/Downloads/mlsdk-019/mlsdk019/</RootDir>
+<MachineId>4F525D2A436D812E89055E818DEC6B20</MachineId>
+<LoginId>4f525d2a436d812e89055e818dec6b20</LoginId>
+<EpicAccountId>0ef434b39613492b832e7b5d85c9682f</EpicAccountId>
+<CallStack></CallStack>
+<PCallStack>
+UE4Editor-Engine     0x00000000ac120000 + 10df335 
+UE4Editor-SteamVR    0x000000009b390000 + 5c40    
+UE4Editor-SteamVR    0x000000009b390000 + 1b51f   
+UE4Editor-VulkanRHI  0x000000009f4c0000 + 33c62   
+UE4Editor-VulkanRHI  0x000000009f4c0000 + 7fdbe   
+UE4Editor-VulkanRHI  0x000000009f4c0000 + 885d9   
+UE4Editor-VulkanRHI  0x000000009f4c0000 + 881e0   
+UE4Editor-RHI        0x00000000abf10000 + 67fe3   
+UE4Editor            0x0000000052630000 + 1c098   
+UE4Editor            0x0000000052630000 + 14b82   
+UE4Editor            0x0000000052630000 + 14dca   
+UE4Editor            0x0000000052630000 + 23b4a   
+UE4Editor            0x0000000052630000 + 257f2   
+KERNEL32             0x00000000fd750000 + 11fe4   
+ntdll                0x00000000fdf70000 + 6cb81   
+</PCallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<ErrorMessage>Ensure condition failed: GEngine [File:C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Engine\Private\SceneViewExtension.cpp] [Line: 24] 
+
+</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<CrashReporterMessage></CrashReporterMessage>
+<Misc.NumberOfCores>6</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>12</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 1070</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<GameStateName></GameStateName>
+<MemoryStats.TotalPhysical>17099591680</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>5080428544</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140734782001152</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>1893134336</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>1893146624</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>1911840768</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>1911840768</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+</FGenericCrashContext>
