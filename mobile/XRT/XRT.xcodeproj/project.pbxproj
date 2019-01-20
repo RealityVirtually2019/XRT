@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AE13EA7421F4CA9A00A6E52E /* lotus_loop.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE13EA7321F4CA9A00A6E52E /* lotus_loop.wav */; };
+		AE13EA7621F4CAA100A6E52E /* starry_loop.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE13EA7521F4CAA100A6E52E /* starry_loop.wav */; };
+		AE13EA7921F4CDB300A6E52E /* lotus_anim.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE13EA7721F4CDB300A6E52E /* lotus_anim.wav */; };
+		AE13EA7A21F4CDB300A6E52E /* starry_anim.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE13EA7821F4CDB300A6E52E /* starry_anim.wav */; };
 		AE39415421F37C16004BB215 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE39415321F37C16004BB215 /* AppDelegate.swift */; };
 		AE39415621F37C16004BB215 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = AE39415521F37C16004BB215 /* art.scnassets */; };
 		AE39415821F37C16004BB215 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE39415721F37C16004BB215 /* ViewController.swift */; };
@@ -19,6 +23,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AE13EA7321F4CA9A00A6E52E /* lotus_loop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lotus_loop.wav; sourceTree = "<group>"; };
+		AE13EA7521F4CAA100A6E52E /* starry_loop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = starry_loop.wav; sourceTree = "<group>"; };
+		AE13EA7721F4CDB300A6E52E /* lotus_anim.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lotus_anim.wav; sourceTree = "<group>"; };
+		AE13EA7821F4CDB300A6E52E /* starry_anim.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = starry_anim.wav; sourceTree = "<group>"; };
 		AE39415021F37C16004BB215 /* XRT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XRT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE39415321F37C16004BB215 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE39415521F37C16004BB215 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -66,10 +74,14 @@
 				AE39415521F37C16004BB215 /* art.scnassets */,
 				AE39415721F37C16004BB215 /* ViewController.swift */,
 				AE39415921F37C16004BB215 /* Main.storyboard */,
+				AE13EA7321F4CA9A00A6E52E /* lotus_loop.wav */,
+				AE13EA7521F4CAA100A6E52E /* starry_loop.wav */,
 				AE39415C21F37C17004BB215 /* Assets.xcassets */,
 				AE55D7A621F3B307004020EF /* TahomaRegular.ttf */,
 				AE55D7A821F3B652004020EF /* TAHOMAB0.TTF */,
 				AE39415E21F37C17004BB215 /* LaunchScreen.storyboard */,
+				AE13EA7721F4CDB300A6E52E /* lotus_anim.wav */,
+				AE13EA7821F4CDB300A6E52E /* starry_anim.wav */,
 				AE39416121F37C17004BB215 /* Info.plist */,
 				AE55D7AA21F3B6AC004020EF /* HomeViewController.swift */,
 			);
@@ -134,12 +146,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE13EA7A21F4CDB300A6E52E /* starry_anim.wav in Resources */,
 				AE55D7A921F3B653004020EF /* TAHOMAB0.TTF in Resources */,
+				AE13EA7621F4CAA100A6E52E /* starry_loop.wav in Resources */,
 				AE39415621F37C16004BB215 /* art.scnassets in Resources */,
+				AE13EA7921F4CDB300A6E52E /* lotus_anim.wav in Resources */,
 				AE39416021F37C17004BB215 /* LaunchScreen.storyboard in Resources */,
 				AE55D7A721F3B307004020EF /* TahomaRegular.ttf in Resources */,
 				AE39415D21F37C17004BB215 /* Assets.xcassets in Resources */,
 				AE39415B21F37C16004BB215 /* Main.storyboard in Resources */,
+				AE13EA7421F4CA9A00A6E52E /* lotus_loop.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

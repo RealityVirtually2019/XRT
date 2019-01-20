@@ -9,10 +9,17 @@
 import UIKit
 import SceneKit
 import ARKit
+import AVFoundation
+
+enum SoundType {
+    case lotus
+    case starry
+}
 
 class ViewController: UIViewController, ARSCNViewDelegate {
 
     @IBOutlet var sceneView: ARSCNView!
+    var player: AVAudioPlayer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -22,6 +29,28 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         // AR auto adds light to the scene?
         sceneView.autoenablesDefaultLighting = true
         sceneView.automaticallyUpdatesLighting = true
+    }
+    
+    func playSound(soundType: SoundType) {
+        let url = soundType == .lotus ? Bundle.main.url(forResource: "lotus_anim", withExtension: "wav") : Bundle.main.url(forResource: "starry_anim", withExtension: "wav")
+        if (player != nil) {
+            player?.stop()
+        }
+        do {
+            try AVAudioSession.sharedInstance().setCategory(.playback, mode: .default)
+            try AVAudioSession.sharedInstance().setActive(true)
+            
+            /* The following line is required for the player to work on iOS 11. Change the file type accordingly*/
+            player = try AVAudioPlayer(contentsOf: url!, fileTypeHint: AVFileType.wav.rawValue)
+            //player?.numberOfLoops = -1
+            
+            guard let player = player else { return }
+            
+            player.play()
+            
+        } catch let error {
+            print(error.localizedDescription)
+        }
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -64,6 +93,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
 
             if imageAnchor.referenceImage.name == "starry-night" {
                 if let paintingScene = SCNScene(named: "art.scnassets/StarryTrial03.dae") {
+                    playSound(soundType: .starry)
                     let paintingNode = SCNNode()
                     
                     for child in paintingScene.rootNode.childNodes {
@@ -77,6 +107,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
             }
             if imageAnchor.referenceImage.name == "lotus" {
                 if let paintingScene = SCNScene(named: "art.scnassets/lotus.scn") {
+                    playSound(soundType: .lotus)
                     
                     let paintingNode = SCNNode()
                     
