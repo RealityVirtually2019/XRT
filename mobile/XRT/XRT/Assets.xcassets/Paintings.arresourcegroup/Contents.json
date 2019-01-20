@@ -5,6 +5,9 @@
   },
   "resources" : [
     {
+      "filename" : "lotus.arreferenceimage"
+    },
+    {
       "filename" : "starry-night.arreferenceimage"
     }
   ]

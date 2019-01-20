@@ -46,45 +46,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         sceneView.session.pause()
     }
     
-    func loadAnimations () {
-        // Load the character in the idle animation
-        let idleScene = SCNScene(named: "art.scnassets/idleFixed.dae")!
-        
-        // This node will be parent of all the animation models
-        let node = SCNNode()
-        
-        // Add all the child nodes to the parent node
-        for child in idleScene.rootNode.childNodes {
-            node.addChildNode(child)
-        }
-        
-        // Set up some properties
-        node.position = SCNVector3(0, -1, -2)
-        node.scale = SCNVector3(0.2, 0.2, 0.2)
-        
-        // Add the node to the scene
-        sceneView.scene.rootNode.addChildNode(node)
-        
-        // Load all the DAE animations
-        loadAnimation(withKey: "dancing", sceneName: "art.scnassets/StarryTrial03", animationIdentifier: "StarryTrial03-1")
-    }
-    
-    func loadAnimation(withKey: String, sceneName:String, animationIdentifier:String) {
-//        let sceneURL = Bundle.main.url(forResource: sceneName, withExtension: "dae")
-//        let sceneSource = SCNSceneSource(url: sceneURL!, options: nil)
-//
-//        if let animationObject = sceneSource?.entryWithIdentifier(animationIdentifier, withClass: CAAnimation.self) {
-//            print(animationObject)
-//            // The animation will only play once
-//            animationObject.repeatCount = 1
-//            // To create smooth transitions between animations
-//            animationObject.fadeInDuration = CGFloat(1)
-//            animationObject.fadeOutDuration = CGFloat(0.5)
-//
-//            sceneView.scene.rootNode.addAnimation(animationObject, forKey: nil)
-//        }
-    }
-    
     func renderer(_ renderer: SCNSceneRenderer, nodeFor anchor: ARAnchor) -> SCNNode? {
 
         let node = SCNNode()
@@ -102,46 +63,30 @@ class ViewController: UIViewController, ARSCNViewDelegate {
             node.addChildNode(planeNode)
 
             if imageAnchor.referenceImage.name == "starry-night" {
-                
                 if let paintingScene = SCNScene(named: "art.scnassets/StarryTrial03.dae") {
                     let paintingNode = SCNNode()
                     
-                    // Add all the child nodes to the parent node
                     for child in paintingScene.rootNode.childNodes {
                         paintingNode.addChildNode(child)
                     }
-                    //paintingNode.position = SCNVector3(0, -1, -2)
                     paintingNode.scale = SCNVector3(2.0, 2.0, 2.0)
                     
                     // Add the node to the scene
                     planeNode.addChildNode(paintingNode)
+                }
+            }
+            if imageAnchor.referenceImage.name == "lotus" {
+                if let paintingScene = SCNScene(named: "art.scnassets/lotus.scn") {
                     
-                    // Load all the DAE animations
-//                    loadAnimation(withKey: "dancing", sceneName: "art.scnassets/StarryTrial03", animationIdentifier: "StarryTrial03-1")
-                    //let animation = CABasicAnimation(keyPath: "StarryTrial03-1")
-                    //animation.duration
-                    let sceneURL = Bundle.main.url(forResource: "art.scnassets/StarryTrial03", withExtension: "dae")
-                    let sceneSource = SCNSceneSource(url: sceneURL!, options: nil)
-                    print(sceneURL)
-            
-                    if let animationObject = sceneSource?.entryWithIdentifier("StarryTrial03-1", withClass: CAAnimation.self) {
-                        print(animationObject)
-                        // The animation will only play once
-                        animationObject.repeatCount = 1
-                        // To create smooth transitions between animations
-                        animationObject.fadeInDuration = CGFloat(1)
-                        animationObject.fadeOutDuration = CGFloat(0.5)
-            
-                        sceneView.scene.rootNode.addAnimation(animationObject, forKey: nil)
-                        paintingNode.addAnimation(animationObject, forKey: nil)
+                    let paintingNode = SCNNode()
+                    
+                    for child in paintingScene.rootNode.childNodes {
+                        paintingNode.addChildNode(child)
                     }
+                    paintingNode.scale = SCNVector3(2.0, 2.0, 2.0)
                     
-//                    if let paintingNode = paintingScene.rootNode.childNodes.first {
-//                        //let action = SCNAction.scale(by: 2, duration: 1.0)
-//                        paintingNode.scale = SCNVector3Make(2, 2, 2)
-//                        //paintingNode.runAction(action)
-//                        planeNode.addChildNode(paintingNode)
-//                    }
+                    // Add the node to the scene
+                    planeNode.addChildNode(paintingNode)
                 }
             }
         }
