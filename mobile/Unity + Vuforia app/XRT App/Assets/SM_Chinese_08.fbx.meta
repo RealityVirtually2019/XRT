@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 0d615779fafe542ff855581c1bd5882f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: a
+    100002: aq
+    100004: b
+    100006: c
+    100008: cd
+    100010: d
+    100012: de
+    100014: e
+    100016: f
+    100018: fr
+    100020: g
+    100022: gt
+    100024: h
+    100026: hy
+    100028: i
+    100030: j
+    100032: joint28
+    100034: joint29
+    100036: joint30
+    100038: joint31
+    100040: joint32
+    100042: joint33
+    100044: joint34
+    100046: joint35
+    100048: joint36
+    100050: joint37
+    100052: joint38
+    100054: joint39
+    100056: joint40
+    100058: joint41
+    100060: joint42
+    100062: ju
+    100064: k
+    100066: ki
+    100068: l
+    100070: lo
+    100072: m
+    100074: n
+    100076: o
+    100078: p
+    100080: q
+    100082: r
+    100084: s
+    100086: SM_Bottom
+    100088: SM_Bottomleaves
+    100090: SM_BottomLeaves_Outer
+    100092: SM_Branch
+    100094: SM_Calig
+    100096: //RootNode
+    100098: SM_Splatbottom
+    100100: SM_Splattop
+    100102: SM_Topleaves
+    100104: SM_TopLeaves_Outer
+    100106: sw
+    100108: t
+    100110: u
+    100112: v
+    100114: vf
+    100116: w
+    100118: x
+    100120: xs
+    100122: y
+    100124: z
+    100126: za
+    400000: a
+    400002: aq
+    400004: b
+    400006: c
+    400008: cd
+    400010: d
+    400012: de
+    400014: e
+    400016: f
+    400018: fr
+    400020: g
+    400022: gt
+    400024: h
+    400026: hy
+    400028: i
+    400030: j
+    400032: joint28
+    400034: joint29
+    400036: joint30
+    400038: joint31
+    400040: joint32
+    400042: joint33
+    400044: joint34
+    400046: joint35
+    400048: joint36
+    400050: joint37
+    400052: joint38
+    400054: joint39
+    400056: joint40
+    400058: joint41
+    400060: joint42
+    400062: ju
+    400064: k
+    400066: ki
+    400068: l
+    400070: lo
+    400072: m
+    400074: n
+    400076: o
+    400078: p
+    400080: q
+    400082: r
+    400084: s
+    400086: SM_Bottom
+    400088: SM_Bottomleaves
+    400090: SM_BottomLeaves_Outer
+    400092: SM_Branch
+    400094: SM_Calig
+    400096: //RootNode
+    400098: SM_Splatbottom
+    400100: SM_Splattop
+    400102: SM_Topleaves
+    400104: SM_TopLeaves_Outer
+    400106: sw
+    400108: t
+    400110: u
+    400112: v
+    400114: vf
+    400116: w
+    400118: x
+    400120: xs
+    400122: y
+    400124: z
+    400126: za
+    2100000: M_InkBase
+    2100002: M_InkLight
+    2100004: M_InkMed
+    2100006: M_Splat2
+    2100008: M_Splatterbase
+    2100010: M_Spat3
+    2100012: M_InkFlower
+    2300000: SM_Bottomleaves
+    2300002: SM_Topleaves
+    3300000: SM_Bottomleaves
+    3300002: SM_Topleaves
+    4300000: SM_Calig
+    4300002: SM_Bottom
+    4300004: SM_Splattop
+    4300006: SM_Splatbottom
+    4300008: SM_Branch
+    4300010: SM_BottomLeaves_Outer
+    4300012: SM_Bottomleaves
+    4300014: SM_TopLeaves_Outer
+    4300016: SM_Topleaves
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SM_Bottom
+    13700002: SM_BottomLeaves_Outer
+    13700004: SM_Branch
+    13700006: SM_Calig
+    13700008: SM_Splatbottom
+    13700010: SM_Splattop
+    13700012: SM_TopLeaves_Outer
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_InkBase
+    second: {fileID: 2100000, guid: aa89f72d2dbe949de8b47c448dfa2f3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_InkFlower
+    second: {fileID: 2100000, guid: a65e8b6a7e3144f8e80b5742aefb2bc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_InkLight
+    second: {fileID: 2100000, guid: 37ede74332d8343558d12b8cb58a21d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_InkMed
+    second: {fileID: 2100000, guid: 64b30716e03b84b458a993db5b7e0773, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Spat3
+    second: {fileID: 2100000, guid: 3d9a93576ec1340a480f0d5605b62b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Splat2
+    second: {fileID: 2100000, guid: 0b4d6304afa4a49b2960c5637190704b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Splatterbase
+    second: {fileID: 2100000, guid: 46baec7f625b34de38536f1ca2711498, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
