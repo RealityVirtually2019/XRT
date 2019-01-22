@@ -1,88 +1,88 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{1C8F2601-DB69-46EA-8536-CFC697407369}</UniqueIdentifier>
+      <UniqueIdentifier>{EB7C8F07-A70B-4DF7-B9EF-05DDFF0AF806}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Programs\BuildPatchTool\Config\DefaultEngine.ini">
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Programs\BuildPatchTool\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Automation.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Automation.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{4DD21F38-01C5-48D9-8C9C-97ECFEA19495}</UniqueIdentifier>
+      <UniqueIdentifier>{BE8350D4-F026-454C-B8D3-C67A16BAC28E}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\BuildPatchTool.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\BuildPatchTool.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolMode.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolMode.cpp">
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Private\ToolModes">
-      <UniqueIdentifier>{5C85531A-1D6E-4AE3-A28E-FD3C1161E6DA}</UniqueIdentifier>
+      <UniqueIdentifier>{B6A7E088-63CE-4322-8555-0B621D5C5D41}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\AutomationMode.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\AutomationMode.cpp">
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\CompactifyMode.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\CompactifyMode.cpp">
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\DiffManifestMode.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\DiffManifestMode.cpp">
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\EnumerationMode.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\EnumerationMode.cpp">
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\MergeManifestMode.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\MergeManifestMode.cpp">
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PackageChunksMode.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PackageChunksMode.cpp">
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PatchGenerationMode.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PatchGenerationMode.cpp">
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\VerifyChunksMode.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\VerifyChunksMode.cpp">
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{4D034EFD-0480-4B5F-84B7-CE5531A83EFA}</UniqueIdentifier>
+      <UniqueIdentifier>{8775A20D-45F3-4758-842A-C86918439F31}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\BuildPatchTool.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\BuildPatchTool.h">
       <Filter>Public</Filter>
     </ClInclude>
     <Filter Include="Public\Interfaces">
-      <UniqueIdentifier>{9176F242-132B-4D2E-AB49-FDBC6692154C}</UniqueIdentifier>
+      <UniqueIdentifier>{AC009C1C-123D-40DC-9D28-E5B55FDF985B}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\Interfaces\ToolMode.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\Interfaces\ToolMode.h">
       <Filter>Public\Interfaces</Filter>
     </ClInclude>
     <Filter Include="Public\ToolModes">
-      <UniqueIdentifier>{9F1ABB33-565B-4ED9-A925-0F51BBD90CC1}</UniqueIdentifier>
+      <UniqueIdentifier>{8B9E5432-8D9A-4BE7-AE55-91A73023A87D}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\AutomationMode.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\AutomationMode.h">
       <Filter>Public\ToolModes</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\CompactifyMode.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\CompactifyMode.h">
       <Filter>Public\ToolModes</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\DiffManifestMode.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\DiffManifestMode.h">
       <Filter>Public\ToolModes</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\EnumerationMode.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\EnumerationMode.h">
       <Filter>Public\ToolModes</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\MergeManifestMode.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\MergeManifestMode.h">
       <Filter>Public\ToolModes</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PackageChunksMode.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PackageChunksMode.h">
       <Filter>Public\ToolModes</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PatchGenerationMode.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PatchGenerationMode.h">
       <Filter>Public\ToolModes</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\VerifyChunksMode.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\VerifyChunksMode.h">
       <Filter>Public\ToolModes</Filter>
     </ClInclude>
   </ItemGroup>

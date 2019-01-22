@@ -1,0 +1,97 @@
+{
+	"TargetName": "UnrealPak",
+	"Platform": "Win64",
+	"Configuration": "Development",
+	"Version": 
+	{
+		"MajorVersion": 4,
+		"MinorVersion": 22,
+		"PatchVersion": 0,
+		"Changelist": 0,
+		"CompatibleChangelist": 0,
+		"IsLicenseeVersion": 0,
+		"IsPromotedBuild": 0,
+		"BranchName": "UE4",
+		"BuildId": "f52341a9-99ab-49d7-b5b1-f845aec46f86",
+		"BuildVersion": ""
+	},
+	"Launch": "$(EngineDir)/Binaries/Win64/UnrealPak.exe",
+	"BuildProducts": [
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak.exe",
+			"Type": "Executable"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-BuildSettings.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-BuildSettings.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-Core.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-Core.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-PakFile.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-PakFile.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-Json.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-Json.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-Projects.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-Projects.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-PakFileUtilities.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak-PakFileUtilities.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak.version",
+			"Type": "BuildResource"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealPak.modules",
+			"Type": "RequiredResource"
+		}
+	],
+	"RuntimeDependencies": [
+		{
+			"Path": "$(ProjectDir)/Unreal.uproject",
+			"Type": "UFS"
+		}
+	],
+	"AdditionalProperties": [
+		{
+			"Name": "SDK",
+			"Value": "Not Applicable"
+		}
+	]
+}

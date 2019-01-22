@@ -1,0 +1,1 @@
+../../../Unreal/Unreal.uproject  /Game/Maps/XRT_Viewer -Messaging -SessionId=6EE0AD374F35333B17FCBEA7215EB1A9 -SessionOwner="nicks" -SessionName="Launch On Device"   -Installed -iterative

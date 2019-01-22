@@ -1,288 +1,288 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{E55B1DDF-DCDD-4B7A-B2B3-04D16FC6FE72}</UniqueIdentifier>
+      <UniqueIdentifier>{39096372-B6F1-446D-ACD7-0DE90D487154}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Programs\UnrealLightmass\Config\DefaultEngine.ini">
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Programs\UnrealLightmass\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{83DB6D63-C977-48EC-B167-09EEEE05E53C}</UniqueIdentifier>
+      <UniqueIdentifier>{9083EF1C-8F8F-4CFF-B019-BEB807589344}</UniqueIdentifier>
     </Filter>
     <Filter Include="Private\CPUSolver">
-      <UniqueIdentifier>{33DC8950-5460-4B0D-A43C-F71C21A9F0B4}</UniqueIdentifier>
+      <UniqueIdentifier>{606250ED-5470-44BC-A963-7F7D88BFCA04}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver\CPUSolver.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver\CPUSolver.cpp">
       <Filter>Private\CPUSolver</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver\CPUSolver.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver\CPUSolver.h">
       <Filter>Private\CPUSolver</Filter>
     </ClInclude>
     <Filter Include="Private\ImportExport">
-      <UniqueIdentifier>{08CBE789-AA5E-485C-A6C1-49CBCC619912}</UniqueIdentifier>
+      <UniqueIdentifier>{4405FB9B-114A-46E2-ACA2-E44E482E07B9}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\3DVisualizer.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\3DVisualizer.cpp">
       <Filter>Private\ImportExport</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\3DVisualizer.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\3DVisualizer.h">
       <Filter>Private\ImportExport</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Exporter.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Exporter.cpp">
       <Filter>Private\ImportExport</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Exporter.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Exporter.h">
       <Filter>Private\ImportExport</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Importer.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Importer.cpp">
       <Filter>Private\ImportExport</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Importer.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Importer.h">
       <Filter>Private\ImportExport</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassScene.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassScene.cpp">
       <Filter>Private\ImportExport</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassScene.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassScene.h">
       <Filter>Private\ImportExport</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassSwarm.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassSwarm.cpp">
       <Filter>Private\ImportExport</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassSwarm.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassSwarm.h">
       <Filter>Private\ImportExport</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Material.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Material.cpp">
       <Filter>Private\ImportExport</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Material.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Material.h">
       <Filter>Private\ImportExport</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Mesh.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Mesh.cpp">
       <Filter>Private\ImportExport</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Mesh.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Mesh.h">
       <Filter>Private\ImportExport</Filter>
     </ClInclude>
     <Filter Include="Private\Launch">
-      <UniqueIdentifier>{75A9E123-5242-49E3-8E1F-7F1217C68535}</UniqueIdentifier>
+      <UniqueIdentifier>{88624877-4530-4E5C-ABE6-7AB1342CACFE}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnitTest.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnitTest.cpp">
       <Filter>Private\Launch</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnitTest.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnitTest.h">
       <Filter>Private\Launch</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnrealLightmass.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnrealLightmass.cpp">
       <Filter>Private\Launch</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnrealLightmass.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnrealLightmass.h">
       <Filter>Private\Launch</Filter>
     </ClInclude>
     <Filter Include="Private\Lighting">
-      <UniqueIdentifier>{E17D7975-A546-45D9-A279-71F9C2AEEC39}</UniqueIdentifier>
+      <UniqueIdentifier>{D8D2BF44-11F9-40A1-9CA7-BA2E9EBFD0D3}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\AdaptiveVolumetricLightmap.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\AdaptiveVolumetricLightmap.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BSP.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BSP.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BSP.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BSP.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BuildOptions.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BuildOptions.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Collision.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Collision.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Collision.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Collision.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Embree.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Embree.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Embree.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Embree.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FinalGather.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FinalGather.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FluidSurface.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FluidSurface.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FluidSurface.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FluidSurface.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\GatheredLightingSample.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\GatheredLightingSample.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Landscape.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Landscape.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Landscape.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Landscape.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Lighting.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Lighting.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingCache.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingCache.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingCache.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingCache.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingMesh.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingMesh.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingMesh.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingMesh.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.inl">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.inl">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightmapData.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightmapData.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightmapData.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightmapData.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Mappings.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Mappings.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Mappings.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Mappings.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\MonteCarlo.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\MonteCarlo.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\MonteCarlo.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\MonteCarlo.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\PhotonMapping.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\PhotonMapping.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\PrecomputedVisibility.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\PrecomputedVisibility.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Radiosity.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Radiosity.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Raster.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Raster.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\SampleVolume.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\SampleVolume.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\StaticMesh.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\StaticMesh.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\StaticMesh.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\StaticMesh.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Texture.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Texture.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\TextureMapping.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\TextureMapping.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\TextureMappingSetup.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\TextureMappingSetup.h">
       <Filter>Private\Lighting</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\VolumeDistanceField.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\VolumeDistanceField.cpp">
       <Filter>Private\Lighting</Filter>
     </ClCompile>
     <Filter Include="Private\LightmassCore">
-      <UniqueIdentifier>{93CCBC42-1488-497F-A5D7-8CA8AFC9EDB2}</UniqueIdentifier>
+      <UniqueIdentifier>{BEC5D2BF-56E5-4FDB-8572-EF0A6C670407}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\LMCore.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\LMCore.cpp">
       <Filter>Private\LightmassCore</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\LMCore.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\LMCore.h">
       <Filter>Private\LightmassCore</Filter>
     </ClInclude>
     <Filter Include="Private\LightmassCore\Math">
-      <UniqueIdentifier>{C6C4747B-9255-4928-983C-A0BFE48A098A}</UniqueIdentifier>
+      <UniqueIdentifier>{71329AA1-2758-437F-BE0B-0B4ADBB80AE4}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMCollision.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMCollision.h">
       <Filter>Private\LightmassCore\Math</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMkDOP.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMkDOP.h">
       <Filter>Private\LightmassCore\Math</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMath.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMath.cpp">
       <Filter>Private\LightmassCore\Math</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMath.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMath.h">
       <Filter>Private\LightmassCore\Math</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMathSSE.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMathSSE.h">
       <Filter>Private\LightmassCore\Math</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMOctree.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMOctree.h">
       <Filter>Private\LightmassCore\Math</Filter>
     </ClInclude>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\MersennePrimeTwister.tps">
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\MersennePrimeTwister.tps">
       <Filter>Private\LightmassCore\Math</Filter>
     </None>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\SFMT.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\SFMT.cpp">
       <Filter>Private\LightmassCore\Math</Filter>
     </ClCompile>
     <Filter Include="Private\LightmassCore\Misc">
-      <UniqueIdentifier>{7E1242F4-4D4B-495D-A6C0-20B62E397445}</UniqueIdentifier>
+      <UniqueIdentifier>{794924ED-132D-4211-BEDB-74FA4E023CD5}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMDebug.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMDebug.cpp">
       <Filter>Private\LightmassCore\Misc</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMDebug.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMDebug.h">
       <Filter>Private\LightmassCore\Misc</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMHelpers.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMHelpers.h">
       <Filter>Private\LightmassCore\Misc</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMStats.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMStats.h">
       <Filter>Private\LightmassCore\Misc</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMThreading.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMThreading.cpp">
       <Filter>Private\LightmassCore\Misc</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMThreading.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMThreading.h">
       <Filter>Private\LightmassCore\Misc</Filter>
     </ClInclude>
     <Filter Include="Private\LightmassCore\Templates">
-      <UniqueIdentifier>{BA0DDABF-D702-47F7-9867-616A602EFEA5}</UniqueIdentifier>
+      <UniqueIdentifier>{E2EA5A7C-BB16-4DB5-BAAB-138D03E0C42C}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Templates\LMQueue.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Templates\LMQueue.h">
       <Filter>Private\LightmassCore\Templates</Filter>
     </ClInclude>
     <Filter Include="Public">
-      <UniqueIdentifier>{B17E37B0-7619-4E14-8A40-BAF6392AD461}</UniqueIdentifier>
+      <UniqueIdentifier>{DB71124C-7CFB-4B7F-9774-5CADCC4E78F8}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\FluidExport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\FluidExport.h">
       <Filter>Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\ImportExport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\ImportExport.h">
       <Filter>Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\LightmassPublic.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\LightmassPublic.h">
       <Filter>Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\MaterialExport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\MaterialExport.h">
       <Filter>Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\MeshExport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\MeshExport.h">
       <Filter>Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\SceneExport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\SceneExport.h">
       <Filter>Public</Filter>
     </ClInclude>
   </ItemGroup>

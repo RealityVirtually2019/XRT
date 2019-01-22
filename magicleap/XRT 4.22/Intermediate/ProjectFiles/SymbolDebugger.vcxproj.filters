@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\SymbolDebugger.Target.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\SymbolDebugger.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\SymbolDebugger.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\SymbolDebugger.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{4801DE38-50B5-4D43-9FB8-982A81CAEB7B}</UniqueIdentifier>
+      <UniqueIdentifier>{2FD2E2D6-37CB-46B1-810D-739E2808C221}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SSymbolDebugger.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SSymbolDebugger.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SSymbolDebugger.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SSymbolDebugger.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SymbolDebugger.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SymbolDebugger.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SymbolDebugger.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SymbolDebugger.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SymbolDebuggerApp.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\SymbolDebuggerApp.cpp">
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{D4265599-B305-45D6-AE7D-9ED793BFDC74}</UniqueIdentifier>
+      <UniqueIdentifier>{12CB2B1E-69C3-4808-B7F0-31B35EDBD2E1}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\Mac\SymbolDebuggerMainMac.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\Mac\SymbolDebuggerMainMac.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{67A8D49B-1F30-4BE6-B1A2-7BAD1AD41274}</UniqueIdentifier>
+      <UniqueIdentifier>{1CBB82B5-064A-4E4E-8B75-9A831B30572D}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\Windows\SymbolDebuggerMainWindows.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Private\Windows\SymbolDebuggerMainWindows.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{8BEFEEC9-42A5-4B03-AA9F-5DCC93724744}</UniqueIdentifier>
+      <UniqueIdentifier>{C901C0FC-8BF9-473C-AF75-2D1DE6810854}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Public\SymbolDebuggerApp.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SymbolDebugger\Public\SymbolDebuggerApp.h">
       <Filter>Public</Filter>
     </ClInclude>
   </ItemGroup>

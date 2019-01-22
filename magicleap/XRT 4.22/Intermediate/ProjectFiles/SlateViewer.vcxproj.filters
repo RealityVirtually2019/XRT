@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\SlateViewer.Target.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\SlateViewer.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\SlateViewer.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\SlateViewer.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{186E38F1-7DBD-462A-B2B6-870E97C38B42}</UniqueIdentifier>
+      <UniqueIdentifier>{C4DC4E84-1020-465E-A2E7-0BC13351E422}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\SlateViewerApp.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\SlateViewerApp.cpp">
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Private\IOS">
-      <UniqueIdentifier>{2915F310-85D0-42F4-A231-9A0DB53192D6}</UniqueIdentifier>
+      <UniqueIdentifier>{D9DC9F61-24BC-4434-915E-EA2414A3BB58}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\IOS\IOSSlateViewerMain.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\IOS\IOSSlateViewerMain.cpp">
       <Filter>Private\IOS</Filter>
     </ClCompile>
     <Filter Include="Private\Linux">
-      <UniqueIdentifier>{1CBDD5DD-4F1C-4AC2-B81A-8896D931DA1E}</UniqueIdentifier>
+      <UniqueIdentifier>{48BF0B20-4D29-45C5-9253-6D58E0CC173B}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\Linux\SlateViewerMainLinux.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\Linux\SlateViewerMainLinux.cpp">
       <Filter>Private\Linux</Filter>
     </ClCompile>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{429A577C-99F6-476C-8B0B-B0E77C391639}</UniqueIdentifier>
+      <UniqueIdentifier>{4CD258E5-32B1-41E5-B7DA-22D8671207D7}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\Mac\SlateViewerMainMac.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\Mac\SlateViewerMainMac.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{D02D9B1C-1D0E-4889-B44C-79FDE03BF772}</UniqueIdentifier>
+      <UniqueIdentifier>{5E91E4BD-5F71-4388-9197-25854EA8DEC1}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\Windows\SlateViewerMainWindows.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Private\Windows\SlateViewerMainWindows.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{DBEB611F-EABA-4B96-B55F-2B4C9B3E827F}</UniqueIdentifier>
+      <UniqueIdentifier>{ADB14ECD-4A42-4486-BCC1-221E9063C6A8}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Public\SlateViewer.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Public\SlateViewer.h">
       <Filter>Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Public\SlateViewerApp.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\SlateViewer\Public\SlateViewerApp.h">
       <Filter>Public</Filter>
     </ClInclude>
   </ItemGroup>

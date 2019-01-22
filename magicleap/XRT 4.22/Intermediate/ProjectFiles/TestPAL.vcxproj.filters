@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\TestPAL.Target.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\TestPAL.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\TestPAL.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\TestPAL.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{3AA0DC97-29AF-41D8-B8CD-DBB3D0E86963}</UniqueIdentifier>
+      <UniqueIdentifier>{9523D814-47F6-4904-8A2B-E05CF6B41723}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\Main.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\Main.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\Parent.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\Parent.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\Parent.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\Parent.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\TestDirectoryWatcher.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\TestDirectoryWatcher.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\TestDirectoryWatcher.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\TestDirectoryWatcher.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\TestPALLog.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\TestPAL\Private\TestPALLog.h">
       <Filter>Private</Filter>
     </ClInclude>
   </ItemGroup>

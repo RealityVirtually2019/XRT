@@ -1,129 +1,129 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\CrashReportClient.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\CrashReportClient.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{3695514E-1A05-48F8-8CEE-7C6A3A262304}</UniqueIdentifier>
+      <UniqueIdentifier>{B2497C2A-3FDE-403C-A795-5DA07A919DA7}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Programs\CrashReportClient\Config\DefaultEngine.ini">
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Programs\CrashReportClient\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\CrashReportClient.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\CrashReportClient.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{74C49A69-0FC0-407C-9003-FCE2052126EA}</UniqueIdentifier>
+      <UniqueIdentifier>{AB320F02-8A55-42F0-BE01-388E9144D39B}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientApp.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientApp.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportUtil.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportUtil.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PendingReports.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PendingReports.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PendingReports.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PendingReports.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PlatformErrorReport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PlatformErrorReport.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.h">
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Private\Linux">
-      <UniqueIdentifier>{52267B30-66FF-4E05-B640-361B9627854E}</UniqueIdentifier>
+      <UniqueIdentifier>{24596B53-8DFF-4EE4-9CC6-C36AEFAD2011}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Linux\CrashReportClientMainLinux.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Linux\CrashReportClientMainLinux.cpp">
       <Filter>Private\Linux</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Linux\LinuxErrorReport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Linux\LinuxErrorReport.h">
       <Filter>Private\Linux</Filter>
     </ClInclude>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{AD7EAF24-4CAF-4ED0-A4EF-8939F28F10F7}</UniqueIdentifier>
+      <UniqueIdentifier>{8501DA4F-3F71-486A-AC1B-574BC4BD4583}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\CrashReportClientMainMac.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\CrashReportClientMainMac.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.h">
       <Filter>Private\Mac</Filter>
     </ClInclude>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{4B26D545-BF29-4501-8C99-609D85326674}</UniqueIdentifier>
+      <UniqueIdentifier>{1CD9779D-7CF0-4B40-9FD2-6E76B5CC2F3F}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\CrashReportClientMainWindows.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\CrashReportClientMainWindows.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.h">
       <Filter>Private\Windows</Filter>
     </ClInclude>
     <Filter Include="Public">
-      <UniqueIdentifier>{E65D1EAF-4F73-4CF5-89CD-4D82E550C5B9}</UniqueIdentifier>
+      <UniqueIdentifier>{D0A3FC14-6A64-4B0A-8F97-0A6E357A9793}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Public\CrashReportClientApp.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Public\CrashReportClientApp.h">
       <Filter>Public</Filter>
     </ClInclude>
   </ItemGroup>

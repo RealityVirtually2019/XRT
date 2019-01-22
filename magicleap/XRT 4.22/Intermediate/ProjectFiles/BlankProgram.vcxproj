@@ -288,120 +288,120 @@
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -415,10 +415,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram-Win32-Debug.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram-Win32-Debug.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -432,10 +432,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram-Win64-Debug.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram-Win64-Debug.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Debug_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -449,10 +449,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram-Mac-Debug</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram-Mac-Debug</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -466,10 +466,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram-Win32-DebugGame.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram-Win32-DebugGame.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -483,10 +483,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram-Win64-DebugGame.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram-Win64-DebugGame.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_DebugGame_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -500,10 +500,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram-Mac-DebugGame</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram-Mac-DebugGame</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -517,10 +517,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -534,10 +534,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Development_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -551,10 +551,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -568,10 +568,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram-Win32-Shipping.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram-Win32-Shipping.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -585,10 +585,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram-Win64-Shipping.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram-Win64-Shipping.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Shipping_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -602,10 +602,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram-Mac-Shipping</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram-Mac-Shipping</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Test_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -619,10 +619,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram-Win32-Test.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win32 Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win32 Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win32 Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\BlankProgram-Win32-Test.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Test_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -636,10 +636,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram-Win64-Test.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Win64 Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Win64 Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Win64 Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\BlankProgram-Win64-Test.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Test_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -653,21 +653,21 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram-Mac-Test</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat BlankProgram Mac Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat BlankProgram Mac Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat BlankProgram Mac Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\BlankProgram-Mac-Test</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\BlankProgram.Target.cs"/>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\BlankProgram.Build.cs"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\Private\BlankProgram.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\Private\BlankProgram.h"/>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\Resources\Windows\BlankProgram.ico"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\BlankProgram.Target.cs"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\BlankProgram.Build.cs"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\Private\BlankProgram.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\Private\BlankProgram.h"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\Resources\Windows\BlankProgram.ico"/>
   </ItemGroup>
   <PropertyGroup>
     <NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);IS_PROGRAM=1;ENABLE_PGO_PROFILE=0;WITH_DEV_AUTOMATION_TESTS=1;WITH_PERF_AUTOMATION_TESTS=1;UNICODE;_UNICODE;__UNREAL__;IS_MONOLITHIC=1;WITH_ENGINE=0;WITH_UNREAL_DEVELOPER_TOOLS=0;WITH_APPLICATION_CORE=0;WITH_COREUOBJECT=0;USE_STATS_WITHOUT_ENGINE=0;WITH_PLUGIN_SUPPORT=0;WITH_PERFCOUNTERS=0;USE_LOGGING_IN_SHIPPING=0;WITH_LOGGING_TO_MEMORY=0;USE_CACHE_FREED_OS_ALLOCS=1;USE_CHECKS_IN_SHIPPING=0;UE_BUILD_MINIMAL=1;WITH_EDITOR=0;WITH_SERVER_CODE=1;WITH_CEF3=1;WITH_XGE_CONTROLLER=0;UBT_MODULE_MANIFEST="BlankProgram.modules";UBT_MODULE_MANIFEST_DEBUGGAME="BlankProgram-Win64-DebugGame.modules";UBT_COMPILED_PLATFORM=Win64;UBT_COMPILED_TARGET=Program;UE_APP_NAME="BlankProgram";WIN32=1;_WIN32_WINNT=0x0601;WINVER=0x0601;PLATFORM_WINDOWS=1;DEPTH_32_BIT_CONVERSION=0;PROJECT_COPYRIGHT_STRING=Fill out your copyright notice in the Description page of Project Settings.;PROJECT_PRODUCT_NAME=UE4Game;NDEBUG=1;UE_BUILD_DEVELOPMENT=1;ORIGINAL_FILE_NAME="BlankProgram.exe";UE_IS_ENGINE_MODULE=0;IMPLEMENT_ENCRYPTION_KEY_REGISTRATION()=;IMPLEMENT_SIGNING_KEY_REGISTRATION()=;DEPRECATED_FORGAME=DEPRECATED;UE_ENABLE_ICU=1;WITH_VS_PERF_PROFILER=0;WITH_DIRECTXMATH=0;WITH_MALLOC_STOMP=1;CORE_API=;LOAD_PLUGINS_FOR_TARGET_PLATFORMS=0;PROJECTS_API=;JSON_API=;BLANKPROGRAM_API=</NMakePreprocessorDefinitions>
-    <NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Private;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\Private;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\BlankProgram\Inc\Core;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Core\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\BlankProgram\Inc\Projects;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Projects\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\BlankProgram\Inc\Json;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Json\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\BlankProgram\Inc\BlankProgram;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Public;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;;</NMakeIncludeSearchPath>
+    <NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Private;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\BlankProgram\Private;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\BlankProgram\Inc\Core;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Core\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\BlankProgram\Inc\Projects;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Projects\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\BlankProgram\Inc\Json;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Json\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\BlankProgram\Inc\BlankProgram;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Public;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;;</NMakeIncludeSearchPath>
     <NMakeForcedIncludes>$(NMakeForcedIncludes)</NMakeForcedIncludes>
     <NMakeAssemblySearchPath>$(NMakeAssemblySearchPath)</NMakeAssemblySearchPath>
     <NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies)</NMakeForcedUsingAssemblies>

@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Windows\BootstrapPackagedGame\BootstrapPackagedGame.Target.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Windows\BootstrapPackagedGame\BootstrapPackagedGame.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Windows\BootstrapPackagedGame\BootstrapPackagedGame.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Windows\BootstrapPackagedGame\BootstrapPackagedGame.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{71C2E39D-AA19-4A4D-AD86-4FDC1EC3D4A9}</UniqueIdentifier>
+      <UniqueIdentifier>{A1326702-2C17-42B0-81CF-B979EEA12563}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Windows\BootstrapPackagedGame\Private\BootstrapPackagedGame.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Windows\BootstrapPackagedGame\Private\BootstrapPackagedGame.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Windows\BootstrapPackagedGame\Private\BootstrapPackagedGame.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Windows\BootstrapPackagedGame\Private\BootstrapPackagedGame.h">
       <Filter>Private</Filter>
     </ClInclude>
   </ItemGroup>

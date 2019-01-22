@@ -182,72 +182,72 @@
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -261,10 +261,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win32 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win32 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win32 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealCEFSubProcess-Win32-Debug.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win32 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win32 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win32 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealCEFSubProcess-Win32-Debug.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -278,10 +278,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win64 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win64 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win64 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealCEFSubProcess-Win64-Debug.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win64 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win64 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win64 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealCEFSubProcess-Win64-Debug.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Debug_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -295,10 +295,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Mac Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Mac Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Mac Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealCEFSubProcess-Mac-Debug</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Mac Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Mac Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Mac Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealCEFSubProcess-Mac-Debug</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -312,10 +312,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win32 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win32 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win32 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealCEFSubProcess-Win32-Development.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win32 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win32 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win32 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealCEFSubProcess-Win32-Development.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -329,10 +329,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win64 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win64 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win64 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealCEFSubProcess-Win64-Development.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win64 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win64 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win64 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealCEFSubProcess-Win64-Development.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Development_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -346,10 +346,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Mac Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Mac Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Mac Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealCEFSubProcess-Mac-Development</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Mac Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Mac Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Mac Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealCEFSubProcess-Mac-Development</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -363,10 +363,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win32 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win32 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win32 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealCEFSubProcess.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win32 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win32 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win32 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealCEFSubProcess.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -380,10 +380,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win64 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win64 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win64 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealCEFSubProcess.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Win64 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Win64 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Win64 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealCEFSubProcess.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Shipping_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -397,36 +397,36 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Mac Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Mac Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Mac Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealCEFSubProcess</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealCEFSubProcess Mac Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealCEFSubProcess Mac Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealCEFSubProcess Mac Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealCEFSubProcess</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\UnrealCEFSubProcess.Target.cs"/>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\UnrealCEFSubProcess.Build.cs"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcess.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcess.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessApp.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessApp.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessCallbackRegistry.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessCallbackRegistry.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessRemoteMethodHandler.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessRemoteMethodHandler.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessRemoteScripting.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessRemoteScripting.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\Linux\UnrealCEFSubProcessLinux.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\Mac\UnrealCEFSubProcessMac.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\Windows\UnrealCEFSubProcessWindows.cpp"/>
-    <Manifest Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\Debug-UnrealCEFSubProcess-Win32.manifest"/>
-    <Manifest Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\Debug-UnrealCEFSubProcess-Win64.manifest"/>
-    <Manifest Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\UnrealCEFSubProcess-Win32.manifest"/>
-    <Manifest Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\UnrealCEFSubProcess-Win64.manifest"/>
-    <ResourceCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\UnrealCEFSubProcess.rc"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\UnrealCEFSubProcess.Target.cs"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\UnrealCEFSubProcess.Build.cs"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcess.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcess.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessApp.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessApp.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessCallbackRegistry.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessCallbackRegistry.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessRemoteMethodHandler.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessRemoteMethodHandler.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessRemoteScripting.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcessRemoteScripting.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\Linux\UnrealCEFSubProcessLinux.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\Mac\UnrealCEFSubProcessMac.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private\Windows\UnrealCEFSubProcessWindows.cpp"/>
+    <Manifest Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\Debug-UnrealCEFSubProcess-Win32.manifest"/>
+    <Manifest Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\Debug-UnrealCEFSubProcess-Win64.manifest"/>
+    <Manifest Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\UnrealCEFSubProcess-Win32.manifest"/>
+    <Manifest Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\UnrealCEFSubProcess-Win64.manifest"/>
+    <ResourceCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\UnrealCEFSubProcess.rc"/>
   </ItemGroup>
   <PropertyGroup>
     <NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);IS_PROGRAM=1;ALLOW_LOG_FILE=0;ENABLE_PGO_PROFILE=0;WITH_DEV_AUTOMATION_TESTS=1;WITH_PERF_AUTOMATION_TESTS=1;UNICODE;_UNICODE;__UNREAL__;IS_MONOLITHIC=1;WITH_ENGINE=0;WITH_UNREAL_DEVELOPER_TOOLS=0;WITH_APPLICATION_CORE=1;WITH_COREUOBJECT=0;USE_STATS_WITHOUT_ENGINE=0;WITH_PLUGIN_SUPPORT=0;WITH_PERFCOUNTERS=0;USE_LOGGING_IN_SHIPPING=0;WITH_LOGGING_TO_MEMORY=0;USE_CACHE_FREED_OS_ALLOCS=1;USE_CHECKS_IN_SHIPPING=0;UE_BUILD_MINIMAL=1;WITH_EDITOR=0;WITH_SERVER_CODE=1;WITH_CEF3=1;WITH_XGE_CONTROLLER=0;UBT_MODULE_MANIFEST="UnrealCEFSubProcess.modules";UBT_MODULE_MANIFEST_DEBUGGAME="UnrealCEFSubProcess-Win64-DebugGame.modules";UBT_COMPILED_PLATFORM=Win64;UBT_COMPILED_TARGET=Program;UE_APP_NAME="UnrealCEFSubProcess";WIN32=1;_WIN32_WINNT=0x0601;WINVER=0x0601;PLATFORM_WINDOWS=1;DEPTH_32_BIT_CONVERSION=0;PROJECT_COPYRIGHT_STRING=Fill out your copyright notice in the Description page of Project Settings.;PROJECT_PRODUCT_NAME=UE4Game;NDEBUG=1;UE_BUILD_DEVELOPMENT=1;ORIGINAL_FILE_NAME="UnrealCEFSubProcess-Win64-Development.exe";UE_IS_ENGINE_MODULE=0;IMPLEMENT_ENCRYPTION_KEY_REGISTRATION()=;IMPLEMENT_SIGNING_KEY_REGISTRATION()=;DEPRECATED_FORGAME=DEPRECATED;UE_ENABLE_ICU=1;WITH_VS_PERF_PROFILER=0;WITH_DIRECTXMATH=0;WITH_MALLOC_STOMP=1;CORE_API=;APPLICATIONCORE_API=;RHI_API=;LOAD_PLUGINS_FOR_TARGET_PLATFORMS=0;PROJECTS_API=;JSON_API=;CEF3UTILS_API=;UNREALCEFSUBPROCESS_API=</NMakePreprocessorDefinitions>
-    <NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Private;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\Core;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Core\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\ApplicationCore;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\ApplicationCore\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\RHI;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\RHI\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\Projects;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Projects\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\Json;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Json\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\CEF3Utils;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\CEF3Utils\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\ThirdParty;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\UnrealCEFSubProcess;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\CEF3\cef_binary_3.3071.1611.g4a19305_windows64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;;</NMakeIncludeSearchPath>
+    <NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealCEFSubProcess\Private;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Private;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\Core;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Core\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\ApplicationCore;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\ApplicationCore\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\RHI;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\RHI\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\Projects;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Projects\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\Json;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Json\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\CEF3Utils;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\CEF3Utils\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\ThirdParty;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealCEFSubProcess\Inc\UnrealCEFSubProcess;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\CEF3\cef_binary_3.3071.1611.g4a19305_windows64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;;</NMakeIncludeSearchPath>
     <NMakeForcedIncludes>$(NMakeForcedIncludes)</NMakeForcedIncludes>
     <NMakeAssemblySearchPath>$(NMakeAssemblySearchPath)</NMakeAssemblySearchPath>
     <NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies)</NMakeForcedUsingAssemblies>

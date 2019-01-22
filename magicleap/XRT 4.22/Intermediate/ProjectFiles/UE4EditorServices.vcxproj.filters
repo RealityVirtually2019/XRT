@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\UE4EditorServices.Target.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\UE4EditorServices.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\UE4EditorServices.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\UE4EditorServices.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{42D9C948-4D47-418C-8AF0-64EBBDF7DE05}</UniqueIdentifier>
+      <UniqueIdentifier>{5331FBD6-12E1-4E1F-83DC-183AC802FF70}</UniqueIdentifier>
     </Filter>
     <Filter Include="Private\Linux">
-      <UniqueIdentifier>{6648C409-2DC4-44B1-83E0-42A099467A69}</UniqueIdentifier>
+      <UniqueIdentifier>{54CDC945-E531-461C-9D66-36CF43B49FFA}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Linux\UE4EditorServicesMain.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Linux\UE4EditorServicesMain.cpp">
       <Filter>Private\Linux</Filter>
     </ClCompile>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{6192152D-130E-4292-8D25-B0C6FCD3944B}</UniqueIdentifier>
+      <UniqueIdentifier>{81F8E533-8BB6-4A6A-90EC-ED5D72DA7E56}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Mac\UE4EditorServicesAppDelegate.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Mac\UE4EditorServicesAppDelegate.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Mac\UE4EditorServicesAppDelegate.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Mac\UE4EditorServicesAppDelegate.h">
       <Filter>Private\Mac</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Mac\UE4EditorServicesMain.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Mac\UE4EditorServicesMain.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{F1297305-CA16-4921-9FB7-5AB6ACB91C6A}</UniqueIdentifier>
+      <UniqueIdentifier>{05FFCE69-146B-4E95-8A18-CF04FC869662}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Windows\UE4EditorServicesMain.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\UE4EditorServices\Private\Windows\UE4EditorServicesMain.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Target.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{C02A7D27-D916-4E03-8E25-4205F670A8F1}</UniqueIdentifier>
+      <UniqueIdentifier>{7AAD5845-CD00-42B1-8380-1473BC7B4B14}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\Private\DsymExporterApp.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\Private\DsymExporterApp.cpp">
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{38543BF5-4FA5-485D-A03D-9F6CE1ACB1D3}</UniqueIdentifier>
+      <UniqueIdentifier>{B206A792-9204-4C8F-8DD8-3A3E6E877EFC}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\Private\Mac\DsymExporterMainMac.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\Private\Mac\DsymExporterMainMac.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{DFD766DE-1BDE-4BB3-8425-07E2D0A981BD}</UniqueIdentifier>
+      <UniqueIdentifier>{F005F1A0-0239-41B4-B724-24AE6377CE59}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\Public\DsymExporterApp.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\Mac\DsymExporter\Public\DsymExporterApp.h">
       <Filter>Public</Filter>
     </ClInclude>
   </ItemGroup>

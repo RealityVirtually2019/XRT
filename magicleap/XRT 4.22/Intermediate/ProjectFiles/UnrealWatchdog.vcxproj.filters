@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Target.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{955E6253-406A-4FB7-AF66-0F8D27BFB956}</UniqueIdentifier>
+      <UniqueIdentifier>{24ACC6B7-BAC7-4481-A5C0-AF0EA41E226F}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\UnrealWatchdog.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\UnrealWatchdog.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\UnrealWatchdog.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\UnrealWatchdog.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\WatchdogAnalytics.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\WatchdogAnalytics.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\WatchdogAnalytics.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\WatchdogAnalytics.h">
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Private\Linux">
-      <UniqueIdentifier>{6A7F657C-E1B5-42EF-83D1-4635949C8C57}</UniqueIdentifier>
+      <UniqueIdentifier>{C5357B02-257C-4DC5-B9B0-6233AF54E6F9}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\Linux\UnrealWatchdogMainLinux.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\Linux\UnrealWatchdogMainLinux.cpp">
       <Filter>Private\Linux</Filter>
     </ClCompile>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{5A85ACD8-92FF-4DE3-80C0-A855DF5A04A5}</UniqueIdentifier>
+      <UniqueIdentifier>{98ADD59E-4F44-445B-AF7E-B3439E7AECEB}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\Mac\UnrealWatchdogMainMac.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\Mac\UnrealWatchdogMainMac.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{859FDA4D-99EF-4AB8-A5E8-B8419A97955E}</UniqueIdentifier>
+      <UniqueIdentifier>{4E70BA9A-5192-4699-ABB8-E2827BBA3CF1}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\Windows\UnrealWatchdogMainWindows.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealWatchdog\Private\Windows\UnrealWatchdogMainWindows.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{3FA71105-BBE8-4FD6-AB60-68484BF93314}</UniqueIdentifier>
+      <UniqueIdentifier>{ABD6000A-A723-4709-A842-CBE1A9CE9DDA}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Programs\ShaderCompileWorker\Config\DefaultEngine.ini">
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Programs\ShaderCompileWorker\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{35F33622-0E2B-4A16-93EE-8CB5078EE201}</UniqueIdentifier>
+      <UniqueIdentifier>{08C3142A-93E0-472F-A8B0-9B2BEF9F8328}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Programs\ShaderCompileWorker\Config\Mac\MacEngine.ini">
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Programs\ShaderCompileWorker\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{9F52C9BE-1B70-4745-BD02-303FB0AC05AC}</UniqueIdentifier>
+      <UniqueIdentifier>{EAC9FC82-BF35-4A06-8233-48F9C1AD1584}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\ShaderCompileWorker\Private\ShaderCompileWorker.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\ShaderCompileWorker\Private\ShaderCompileWorker.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\ShaderCompileWorker\Private\XGEControlWorker.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\ShaderCompileWorker\Private\XGEControlWorker.cpp">
       <Filter>Private</Filter>
     </ClCompile>
   </ItemGroup>

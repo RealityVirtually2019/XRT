@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealFileServer\UnrealFileServer.Target.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealFileServer\UnrealFileServer.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealFileServer\UnrealFileServer.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealFileServer\UnrealFileServer.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{0FE94847-D738-44ED-BFC6-35219CD50D3F}</UniqueIdentifier>
+      <UniqueIdentifier>{14E5EC0A-0CCD-45DC-AF54-E0E5223084CE}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealFileServer\Private\UnrealFileServer.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealFileServer\Private\UnrealFileServer.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealFileServer\Private\UnrealFileServer.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealFileServer\Private\UnrealFileServer.h">
       <Filter>Private</Filter>
     </ClInclude>
   </ItemGroup>

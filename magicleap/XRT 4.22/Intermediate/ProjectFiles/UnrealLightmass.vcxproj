@@ -288,120 +288,120 @@
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -415,10 +415,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass-Win32-Debug.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass-Win32-Debug.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -432,10 +432,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass-Win64-Debug.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass-Win64-Debug.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Debug_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -449,10 +449,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass-Mac-Debug</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass-Mac-Debug</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -466,10 +466,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass-Win32-DebugGame.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass-Win32-DebugGame.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -483,10 +483,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass-Win64-DebugGame.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass-Win64-DebugGame.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_DebugGame_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -500,10 +500,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass-Mac-DebugGame</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac DebugGame -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac DebugGame -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac DebugGame -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass-Mac-DebugGame</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -517,10 +517,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -534,10 +534,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Development_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -551,10 +551,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -568,10 +568,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass-Win32-Shipping.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass-Win32-Shipping.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -585,10 +585,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass-Win64-Shipping.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass-Win64-Shipping.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Shipping_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -602,10 +602,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass-Mac-Shipping</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass-Mac-Shipping</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Test_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -619,10 +619,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass-Win32-Test.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win32 Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win32 Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win32 Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\UnrealLightmass-Win32-Test.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Test_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -636,10 +636,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass-Win64-Test.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Win64 Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Win64 Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Win64 Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\UnrealLightmass-Win64-Test.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Test_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -653,101 +653,101 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass-Mac-Test</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat UnrealLightmass Mac Test -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat UnrealLightmass Mac Test -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat UnrealLightmass Mac Test -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\UnrealLightmass-Mac-Test</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Target.cs"/>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Programs\UnrealLightmass\Config\DefaultEngine.ini"/>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Build.cs"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver\CPUSolver.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver\CPUSolver.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\3DVisualizer.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\3DVisualizer.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Exporter.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Exporter.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Importer.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Importer.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassScene.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassScene.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassSwarm.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassSwarm.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Material.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Material.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Mesh.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Mesh.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnitTest.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnitTest.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnrealLightmass.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnrealLightmass.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\AdaptiveVolumetricLightmap.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BSP.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BSP.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BuildOptions.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Collision.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Collision.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Embree.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Embree.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FinalGather.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FluidSurface.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FluidSurface.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\GatheredLightingSample.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Landscape.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Landscape.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Lighting.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingCache.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingCache.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingMesh.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingMesh.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.inl"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightmapData.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightmapData.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Mappings.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Mappings.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\MonteCarlo.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\MonteCarlo.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\PhotonMapping.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\PrecomputedVisibility.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Radiosity.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Raster.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\SampleVolume.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\StaticMesh.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\StaticMesh.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Texture.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\TextureMapping.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\TextureMappingSetup.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\VolumeDistanceField.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\LMCore.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\LMCore.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMCollision.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMkDOP.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMath.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMath.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMathSSE.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMOctree.h"/>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\MersennePrimeTwister.tps"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\SFMT.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMDebug.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMDebug.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMHelpers.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMStats.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMThreading.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMThreading.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Templates\LMQueue.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\FluidExport.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\ImportExport.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\LightmassPublic.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\MaterialExport.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\MeshExport.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\SceneExport.h"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Target.cs"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Programs\UnrealLightmass\Config\DefaultEngine.ini"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Build.cs"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver\CPUSolver.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver\CPUSolver.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\3DVisualizer.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\3DVisualizer.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Exporter.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Exporter.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Importer.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Importer.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassScene.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassScene.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassSwarm.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\LightmassSwarm.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Material.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Material.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Mesh.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\Mesh.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnitTest.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnitTest.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnrealLightmass.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnrealLightmass.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\AdaptiveVolumetricLightmap.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BSP.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BSP.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\BuildOptions.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Collision.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Collision.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Embree.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Embree.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FinalGather.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FluidSurface.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\FluidSurface.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\GatheredLightingSample.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Landscape.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Landscape.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Lighting.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingCache.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingCache.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingMesh.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingMesh.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightingSystem.inl"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightmapData.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\LightmapData.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Mappings.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Mappings.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\MonteCarlo.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\MonteCarlo.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\PhotonMapping.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\PrecomputedVisibility.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Radiosity.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Raster.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\SampleVolume.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\StaticMesh.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\StaticMesh.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\Texture.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\TextureMapping.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\TextureMappingSetup.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting\VolumeDistanceField.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\LMCore.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\LMCore.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMCollision.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMkDOP.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMath.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMath.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMMathSSE.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMOctree.h"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\MersennePrimeTwister.tps"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\SFMT.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMDebug.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMDebug.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMHelpers.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMStats.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMThreading.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMThreading.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Templates\LMQueue.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\FluidExport.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\ImportExport.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\LightmassPublic.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\MaterialExport.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\MeshExport.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public\SceneExport.h"/>
   </ItemGroup>
   <PropertyGroup>
     <NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);IS_PROGRAM=1;ALLOW_LOG_FILE=0;ENABLE_PGO_PROFILE=0;WITH_DEV_AUTOMATION_TESTS=1;WITH_PERF_AUTOMATION_TESTS=1;UNICODE;_UNICODE;__UNREAL__;IS_MONOLITHIC=1;WITH_ENGINE=0;WITH_UNREAL_DEVELOPER_TOOLS=0;WITH_APPLICATION_CORE=1;WITH_COREUOBJECT=1;USE_STATS_WITHOUT_ENGINE=0;WITH_PLUGIN_SUPPORT=0;WITH_PERFCOUNTERS=0;USE_LOGGING_IN_SHIPPING=0;WITH_LOGGING_TO_MEMORY=0;USE_CACHE_FREED_OS_ALLOCS=1;USE_CHECKS_IN_SHIPPING=0;UE_BUILD_MINIMAL=1;WITH_EDITOR=0;WITH_SERVER_CODE=1;WITH_CEF3=1;WITH_XGE_CONTROLLER=0;UBT_MODULE_MANIFEST="UnrealLightmass.modules";UBT_MODULE_MANIFEST_DEBUGGAME="UnrealLightmass-Win64-DebugGame.modules";UBT_COMPILED_PLATFORM=Win64;UBT_COMPILED_TARGET=Program;UE_APP_NAME="UnrealLightmass";WIN32=1;_WIN32_WINNT=0x0601;WINVER=0x0601;PLATFORM_WINDOWS=1;DEPTH_32_BIT_CONVERSION=0;PROJECT_COPYRIGHT_STRING=Fill out your copyright notice in the Description page of Project Settings.;PROJECT_PRODUCT_NAME=UE4Game;NDEBUG=1;UE_BUILD_DEVELOPMENT=1;ORIGINAL_FILE_NAME="UnrealLightmass.exe";UE_IS_ENGINE_MODULE=0;UE_LIGHTMASS=1;USE_EMBREE=1;IMPLEMENT_ENCRYPTION_KEY_REGISTRATION()=;IMPLEMENT_SIGNING_KEY_REGISTRATION()=;DEPRECATED_FORGAME=DEPRECATED;UE_ENABLE_ICU=1;WITH_VS_PERF_PROFILER=0;WITH_DIRECTXMATH=0;WITH_MALLOC_STOMP=1;CORE_API=;COREUOBJECT_API=;SWARMINTERFACE_API=;LOAD_PLUGINS_FOR_TARGET_PLATFORMS=0;PROJECTS_API=;JSON_API=;APPLICATIONCORE_API=;RHI_API=;MESSAGING_API=;UNREALLIGHTMASS_API=</NMakePreprocessorDefinitions>
-    <NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Private;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Templates;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\Core;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Core\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\CoreUObject;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\CoreUObject\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\ThirdParty;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\zlib\v1.2.8\include\Win64\VS2015;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\SwarmInterface;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Editor;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Editor\SwarmInterface\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\Projects;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Projects\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\Json;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Json\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\ApplicationCore;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\ApplicationCore\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\RHI;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\RHI\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\Windows;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\Messaging;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Messaging\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\UnrealLightmass;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\IntelEmbree\Embree270\Win64\include;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\Windows\DirectX\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;;</NMakeIncludeSearchPath>
+    <NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Private;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Launch;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\ImportExport;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\Lighting;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Templates;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Private;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\Core;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Core\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\CoreUObject;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\CoreUObject\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\ThirdParty;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\zlib\v1.2.8\include\Win64\VS2015;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\SwarmInterface;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Editor;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Editor\SwarmInterface\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\Projects;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Projects\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\Json;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Json\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\ApplicationCore;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\ApplicationCore\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\RHI;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\RHI\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\Windows;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\Messaging;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Messaging\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\UnrealLightmass\Inc\UnrealLightmass;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\IntelEmbree\Embree270\Win64\include;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealLightmass\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\ThirdParty\Windows\DirectX\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;;</NMakeIncludeSearchPath>
     <NMakeForcedIncludes>$(NMakeForcedIncludes)</NMakeForcedIncludes>
     <NMakeAssemblySearchPath>$(NMakeAssemblySearchPath)</NMakeAssemblySearchPath>
     <NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies)</NMakeForcedUsingAssemblies>

@@ -1,72 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\UnrealVersionSelector.Target.cs" />
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\UnrealVersionSelector.Build.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\UnrealVersionSelector.Target.cs" />
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\UnrealVersionSelector.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{BF033856-01E0-42CC-A7F9-1B196CEDA259}</UniqueIdentifier>
+      <UniqueIdentifier>{FE0660C8-B1C4-4901-A22C-C8A6C3E45202}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\PlatformInstallation.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\PlatformInstallation.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\PlatformInstallation.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\PlatformInstallation.h">
       <Filter>Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\UnrealVersionSelector.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\UnrealVersionSelector.cpp">
       <Filter>Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\UnrealVersionSelector.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\UnrealVersionSelector.h">
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Private\GenericPlatform">
-      <UniqueIdentifier>{FD8E2A69-CB3A-4D9E-96E5-C5FE235DFA98}</UniqueIdentifier>
+      <UniqueIdentifier>{FEC63D24-5C01-4A49-892E-1A1EF0E32275}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\GenericPlatform\GenericPlatformInstallation.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\GenericPlatform\GenericPlatformInstallation.cpp">
       <Filter>Private\GenericPlatform</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\GenericPlatform\GenericPlatformInstallation.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\GenericPlatform\GenericPlatformInstallation.h">
       <Filter>Private\GenericPlatform</Filter>
     </ClInclude>
     <Filter Include="Private\Linux">
-      <UniqueIdentifier>{26310F45-21F9-483A-8EFC-2671885B874F}</UniqueIdentifier>
+      <UniqueIdentifier>{82C8083B-D8DB-4E6E-AA52-15257D9BE1B2}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Linux\LinuxPlatformInstallation.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Linux\LinuxPlatformInstallation.cpp">
       <Filter>Private\Linux</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Linux\LinuxPlatformInstallation.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Linux\LinuxPlatformInstallation.h">
       <Filter>Private\Linux</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Linux\UnrealVersionSelectorLinuxMain.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Linux\UnrealVersionSelectorLinuxMain.cpp">
       <Filter>Private\Linux</Filter>
     </ClCompile>
     <Filter Include="Private\Linux\Resources">
-      <UniqueIdentifier>{A63C52BE-80E4-493D-9151-50C9514F00B1}</UniqueIdentifier>
+      <UniqueIdentifier>{FCA083DE-6CC7-493A-A72E-B7ED3529B54B}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Linux\Resources\uproject.xml">
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Linux\Resources\uproject.xml">
       <Filter>Private\Linux\Resources</Filter>
     </None>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{22FEE75C-2B24-4F60-88C1-5B325359EEE5}</UniqueIdentifier>
+      <UniqueIdentifier>{2606FC9D-E5CA-41FC-88BF-D30203D1D252}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\WindowsPlatformInstallation.cpp">
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\WindowsPlatformInstallation.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\WindowsPlatformInstallation.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\WindowsPlatformInstallation.h">
       <Filter>Private\Windows</Filter>
     </ClInclude>
     <Filter Include="Private\Windows\Resources">
-      <UniqueIdentifier>{7CAA22C4-0E44-4D5C-A98E-3CD99D77E41B}</UniqueIdentifier>
+      <UniqueIdentifier>{7EEB3D61-5E26-483C-8CD6-6B622B908505}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\Resources\Icon.ico">
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\Resources\Icon.ico">
       <Filter>Private\Windows\Resources</Filter>
     </None>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\Resources\Resource.h">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\Resources\Resource.h">
       <Filter>Private\Windows\Resources</Filter>
     </ClInclude>
-    <ResourceCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\Resources\Resource.rc">
+    <ResourceCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\Resources\Resource.rc">
       <Filter>Private\Windows\Resources</Filter>
     </ResourceCompile>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\Resources\VersionResource.inl">
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\UnrealVersionSelector\Private\Windows\Resources\VersionResource.inl">
       <Filter>Private\Windows\Resources</Filter>
     </ClInclude>
   </ItemGroup>

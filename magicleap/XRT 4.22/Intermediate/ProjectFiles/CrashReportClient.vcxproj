@@ -182,72 +182,72 @@
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
     <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
     <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
     <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
     <NMakeOutput>Invalid Output</NMakeOutput>
-    <OutDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
-    <IntDir>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
+    <OutDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Unused\</IntDir>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -261,10 +261,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win32 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win32 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win32 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\CrashReportClient-Win32-Debug.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win32 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win32 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win32 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\CrashReportClient-Win32-Debug.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -278,10 +278,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win64 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win64 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win64 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\CrashReportClient-Win64-Debug.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win64 Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win64 Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win64 Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\CrashReportClient-Win64-Debug.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Debug_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -295,10 +295,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Mac Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Mac Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Mac Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\CrashReportClient-Mac-Debug</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Mac Debug -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Mac Debug -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Mac Debug -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\CrashReportClient-Mac-Debug</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -312,10 +312,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win32 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win32 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win32 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\CrashReportClient-Win32-Development.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win32 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win32 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win32 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\CrashReportClient-Win32-Development.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -329,10 +329,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win64 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win64 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win64 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\CrashReportClient-Win64-Development.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win64 Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win64 Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win64 Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\CrashReportClient-Win64-Development.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Development_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -346,10 +346,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Mac Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Mac Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Mac Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\CrashReportClient-Mac-Development</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Mac Development -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Mac Development -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Mac Development -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\CrashReportClient-Mac-Development</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -363,10 +363,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win32 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win32 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win32 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win32\CrashReportClient.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win32 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win32 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win32 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win32\CrashReportClient.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Program|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -380,10 +380,10 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win64 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win64 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win64 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Win64\CrashReportClient.exe</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Win64 Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Win64 Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Win64 Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Win64\CrashReportClient.exe</NMakeOutput>
   </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Shipping_Program|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -397,53 +397,53 @@
     <ExcludePath />
     <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
     <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
-    <NMakeBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Mac Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
-    <NMakeReBuildCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Mac Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
-    <NMakeCleanCommandLine>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Mac Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
-    <NMakeOutput>C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Binaries\Mac\CrashReportClient</NMakeOutput>
+    <NMakeBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Build.bat CrashReportClient Mac Shipping -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Rebuild.bat CrashReportClient Mac Shipping -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Build\BatchFiles\Clean.bat CrashReportClient Mac Shipping -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Binaries\Mac\CrashReportClient</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\CrashReportClient.Target.cs"/>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Programs\CrashReportClient\Config\DefaultEngine.ini"/>
-    <None Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\CrashReportClient.Build.cs"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientApp.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportUtil.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PendingReports.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PendingReports.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PlatformErrorReport.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Linux\CrashReportClientMainLinux.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Linux\LinuxErrorReport.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\CrashReportClientMainMac.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.h"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\CrashReportClientMainWindows.cpp"/>
-    <ClCompile Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.cpp"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.h"/>
-    <ClInclude Include="..\..\..\..\..\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Public\CrashReportClientApp.h"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\CrashReportClient.Target.cs"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Programs\CrashReportClient\Config\DefaultEngine.ini"/>
+    <None Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\CrashReportClient.Build.cs"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientApp.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashReportUtil.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PendingReports.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PendingReports.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\PlatformErrorReport.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Linux\CrashReportClientMainLinux.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Linux\LinuxErrorReport.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\CrashReportClientMainMac.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.h"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\CrashReportClientMainWindows.cpp"/>
+    <ClCompile Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.cpp"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.h"/>
+    <ClInclude Include="D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Public\CrashReportClientApp.h"/>
   </ItemGroup>
   <PropertyGroup>
     <NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);IS_PROGRAM=1;NOINITCRASHREPORTER=1;ENABLE_PGO_PROFILE=0;WITH_DEV_AUTOMATION_TESTS=1;WITH_PERF_AUTOMATION_TESTS=1;UNICODE;_UNICODE;__UNREAL__;IS_MONOLITHIC=1;WITH_ENGINE=0;WITH_UNREAL_DEVELOPER_TOOLS=0;WITH_APPLICATION_CORE=1;WITH_COREUOBJECT=1;USE_STATS_WITHOUT_ENGINE=0;WITH_PLUGIN_SUPPORT=0;WITH_PERFCOUNTERS=0;USE_LOGGING_IN_SHIPPING=1;WITH_LOGGING_TO_MEMORY=0;USE_CACHE_FREED_OS_ALLOCS=1;USE_CHECKS_IN_SHIPPING=1;UE_BUILD_MINIMAL=1;WITH_EDITOR=0;WITH_SERVER_CODE=1;WITH_CEF3=1;WITH_XGE_CONTROLLER=0;UBT_MODULE_MANIFEST="CrashReportClient.modules";UBT_MODULE_MANIFEST_DEBUGGAME="CrashReportClient-Win64-DebugGame.modules";UBT_COMPILED_PLATFORM=Win64;UBT_COMPILED_TARGET=Program;UE_APP_NAME="CrashReportClient";WIN32=1;_WIN32_WINNT=0x0601;WINVER=0x0601;PLATFORM_WINDOWS=1;DEPTH_32_BIT_CONVERSION=0;PROJECT_COPYRIGHT_STRING=Fill out your copyright notice in the Description page of Project Settings.;PROJECT_PRODUCT_NAME=UE4Game;NDEBUG=1;UE_BUILD_DEVELOPMENT=1;ORIGINAL_FILE_NAME="CrashReportClient-Win64-Development.exe";UE_IS_ENGINE_MODULE=0;IMPLEMENT_ENCRYPTION_KEY_REGISTRATION()=;IMPLEMENT_SIGNING_KEY_REGISTRATION()=;DEPRECATED_FORGAME=DEPRECATED;UE_ENABLE_ICU=1;WITH_VS_PERF_PROFILER=0;WITH_DIRECTXMATH=0;WITH_MALLOC_STOMP=1;CORE_API=;COREUOBJECT_API=;APPLICATIONCORE_API=;RHI_API=;CRASHDEBUGHELPER_API=;SOURCE_CONTROL_WITH_SLATE=1;SOURCECONTROL_API=;INPUTCORE_API=;HTTP_PACKAGE=1;CURL_ENABLE_DEBUG_CALLBACK=1;CURL_ENABLE_NO_TIMEOUTS_OPTION=1;HTTP_API=;JSON_API=;LOAD_PLUGINS_FOR_TARGET_PLATFORMS=0;PROJECTS_API=;PAKFILE_API=;XMLPARSER_API=;ANALYTICS_API=;ANALYTICSET_API=;DESKTOPPLATFORM_API=;LAUNCHERPLATFORM_API=;SLATE_API=;SLATE_PARENT_POINTERS=1;WITH_FREETYPE=1;SLATECORE_API=;WITH_UNREALPNG=1;WITH_UNREALJPEG=1;WITH_UNREALEXR=1;IMAGEWRAPPER_API=;STANDALONERENDERER_API=;MESSAGELOG_API=;SLATE_REFLECTOR_HAS_SESSION_SERVICES=0;SLATE_REFLECTOR_HAS_DESKTOP_PLATFORM=1;SLATEREFLECTOR_API=;CRASHREPORTCLIENT_API=</NMakePreprocessorDefinitions>
-    <NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Private;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Core;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Core\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\CoreUObject;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\CoreUObject\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\ApplicationCore;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\ApplicationCore\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\RHI;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\RHI\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\CrashDebugHelper;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Developer;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Developer\CrashDebugHelper\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\SourceControl;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Developer\SourceControl\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\InputCore;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\InputCore\Classes;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\InputCore\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\HTTP;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Online;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Online\HTTP\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Json;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Json\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Projects;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Projects\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\PakFile;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\PakFile\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\XmlParser;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\XmlParser\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Analytics;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Analytics;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Analytics\Analytics\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\AnalyticsET;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Analytics\AnalyticsET\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\DesktopPlatform;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Developer\DesktopPlatform\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\LauncherPlatform;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Portal;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Portal\LauncherPlatform\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Slate;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Slate\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\SlateCore;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\SlateCore\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\ImageWrapper;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\ImageWrapper\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\StandaloneRenderer;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Developer\StandaloneRenderer\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\MessageLog;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Developer\MessageLog\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\SlateReflector;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Developer\SlateReflector\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\CrashReportClient;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Public;C:\Users\nicks\Downloads\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Public;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;;</NMakeIncludeSearchPath>
+    <NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Private;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Private;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Core;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Core\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\CoreUObject;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\CoreUObject\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\ApplicationCore;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\ApplicationCore\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\RHI;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\RHI\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\CrashDebugHelper;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Developer;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Developer\CrashDebugHelper\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\SourceControl;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Developer\SourceControl\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\InputCore;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\InputCore\Classes;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\InputCore\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\HTTP;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Online;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Online\HTTP\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Json;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Json\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Projects;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Projects\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\PakFile;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\PakFile\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\XmlParser;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\XmlParser\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Analytics;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Analytics;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Analytics\Analytics\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\AnalyticsET;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Analytics\AnalyticsET\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\DesktopPlatform;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Developer\DesktopPlatform\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\LauncherPlatform;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Portal;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Portal\LauncherPlatform\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\Slate;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Slate\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\SlateCore;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\SlateCore\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\ImageWrapper;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\ImageWrapper\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\StandaloneRenderer;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Developer\StandaloneRenderer\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\MessageLog;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Developer\MessageLog\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\SlateReflector;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Developer\SlateReflector\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Intermediate\Build\Win64\CrashReportClient\Inc\CrashReportClient;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Runtime\Launch\Public;D:\SDKs\MagicLeap\v019\mlsdk-019\mlsdk019\Engine\Source\Programs\CrashReportClient\Public;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;;</NMakeIncludeSearchPath>
     <NMakeForcedIncludes>$(NMakeForcedIncludes)</NMakeForcedIncludes>
     <NMakeAssemblySearchPath>$(NMakeAssemblySearchPath)</NMakeAssemblySearchPath>
     <NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies)</NMakeForcedUsingAssemblies>
