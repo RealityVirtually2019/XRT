@@ -1,0 +1,1724 @@
+﻿Log file open, 01/23/19 21:19:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Unreal
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.403038
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.107s to configure plugins.
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/lib/win64/ml_perception_client.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/VirtualDevice/lib/ml_perception_client.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/VirtualDevice/lib/ml_graphics.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/VirtualDevice/lib/ml_lifecycle.dll
+LogWindows: Failed to load 'C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/VirtualDevice/lib/ml_privileges.dll' (GetLastError=126)
+LogWindows: File 'C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/VirtualDevice/lib/ml_privileges.dll' does not exist
+LogWindows: Failed to load 'C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/VirtualDevice/bin/ml_privileges.dll' (GetLastError=126)
+LogWindows: File 'C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/VirtualDevice/bin/ml_privileges.dll' does not exist
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/lib/win64/ml_privileges.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/VirtualDevice/lib/ml_remote.dll
+LogMagicLeap: ML VDZI mode enabled. Using OpenGL renderer.
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/VirtualDevice/lib/ml_input.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/lib/win64/ml_secure_storage.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\nicks\MagicLeap\mlsdk\v0.19.0/lib/win64/ml_identity.dll
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: UE4-CL-0
+LogInit: Engine Version: 4.22.0-0+UE4
+LogInit: Compatible Engine Version: 4.22.0-0+UE4
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 18 2019 10:53:56
+LogInit: Compiled with Visual C++: 19.16.27026.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: UE4
+LogInit: Command Line:  -opengl4 
+LogInit: Base Directory: D:/SDKs/MagicLeap/v019/mlsdk-019/mlsdk019/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.24-02.19.44:575][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.24-02.19.44:575][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.24-02.19.44:576][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Engine.ini]
+[2019.01.24-02.19.44:577][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.24-02.19.44:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.01.24-02.19.44:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.01.24-02.19.44:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.01.24-02.19.44:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.01.24-02.19.44:577][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.01.24-02.19.44:577][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.01.24-02.19.44:577][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.01.24-02.19.44:577][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Engine.ini]
+[2019.01.24-02.19.44:579][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Engine.ini]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Engine.ini]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.24-02.19.44:579][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Engine.ini]
+[2019.01.24-02.19.44:579][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Engine.ini]
+[2019.01.24-02.19.44:589][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.24-02.19.44:589][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.24-02.19.44:590][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.24-02.19.44:600][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.24-02.19.44:601][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.24-02.19.44:611][  0]LogHAL: Display: Platform has ~ 16 GB [17099591680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.24-02.19.44:614][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.24-02.19.44:614][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.24-02.19.44:615][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.24-02.19.44:615][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.24-02.19.44:616][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.24-02.19.44:616][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Config/Windows/Engine.ini]
+[2019.01.24-02.19.44:618][  0]LogInit: Computer: LAPTOP-QBAVS0JQ
+[2019.01.24-02.19.44:618][  0]LogInit: User: nicks
+[2019.01.24-02.19.44:618][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.24-02.19.44:618][  0]LogInit: High frequency timer resolution =2.156254 MHz
+[2019.01.24-02.19.44:618][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.24-02.19.44:618][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.24-02.19.44:618][  0]LogMemory: Process Physical Memory: 112.04 MB used, 112.04 MB peak
+[2019.01.24-02.19.44:618][  0]LogMemory: Process Virtual Memory: 108.40 MB used, 108.40 MB peak
+[2019.01.24-02.19.44:618][  0]LogMemory: Physical Memory: 4664.73 MB used,  11642.71 MB free, 16307.44 MB total
+[2019.01.24-02.19.44:618][  0]LogMemory: Virtual Memory: 620.89 MB used,  134217104.00 MB free, 134217728.00 MB total
+[2019.01.24-02.19.44:984][  0]LogInit: Using OS detected language (en-US).
+[2019.01.24-02.19.44:984][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.24-02.19.44:990][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.24-02.19.45:498][  0]LogStreaming: Display: Took  0.513s to InitEngineTextLocalization.
+[2019.01.24-02.19.45:535][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.24-02.19.45:620][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.24-02.19.45:620][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.24-02.19.46:304][  0]LogRHI: Initializing OpenGL RHI
+[2019.01.24-02.19.46:304][  0]LogRHI:   GL_VENDOR: NVIDIA Corporation
+[2019.01.24-02.19.46:304][  0]LogRHI:   GL_RENDERER: GeForce GTX 1070/PCIe/SSE2
+[2019.01.24-02.19.46:304][  0]LogRHI:   GL_VERSION: 4.3.0 NVIDIA 417.71
+[2019.01.24-02.19.46:305][  0]LogRHI:   GL_SHADING_LANGUAGE_VERSION: 4.30 NVIDIA via Cg compiler
+[2019.01.24-02.19.46:306][  0]LogRHI: OpenGL Extensions:
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_AMD_multi_draw_indirect
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_AMD_seamless_cubemap_per_texture
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_AMD_vertex_shader_viewport_index
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_AMD_vertex_shader_layer
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_arrays_of_arrays
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_base_instance
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_bindless_texture
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_blend_func_extended
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_buffer_storage
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_clear_buffer_object
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_clear_texture
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_clip_control
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_color_buffer_float
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_compressed_texture_pixel_storage
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_conservative_depth
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_compute_shader
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_compute_variable_group_size
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_conditional_render_inverted
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_copy_buffer
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_copy_image
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_cull_distance
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_debug_output
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_depth_buffer_float
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_depth_clamp
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_depth_texture
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_derivative_control
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_direct_state_access
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_draw_buffers
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_draw_buffers_blend
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_draw_indirect
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_draw_elements_base_vertex
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_draw_instanced
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_enhanced_layouts
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_ES2_compatibility
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_ES3_compatibility
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_ES3_1_compatibility
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_ES3_2_compatibility
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_explicit_attrib_location
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_explicit_uniform_location
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_fragment_coord_conventions
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_fragment_layer_viewport
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_fragment_program
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_fragment_program_shadow
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_fragment_shader
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_fragment_shader_interlock
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_framebuffer_no_attachments
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_framebuffer_object
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_framebuffer_sRGB
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_geometry_shader4
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_get_program_binary
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_get_texture_sub_image
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_gl_spirv
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_gpu_shader5
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_gpu_shader_fp64
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_gpu_shader_int64
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_half_float_pixel
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_half_float_vertex
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_imaging
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_indirect_parameters
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_instanced_arrays
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_internalformat_query
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_internalformat_query2
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_invalidate_subdata
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_map_buffer_alignment
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_map_buffer_range
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_multi_bind
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_multi_draw_indirect
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_multisample
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_multitexture
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_occlusion_query
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_occlusion_query2
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_parallel_shader_compile
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_pipeline_statistics_query
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_pixel_buffer_object
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_point_parameters
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_point_sprite
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_polygon_offset_clamp
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_post_depth_coverage
+[2019.01.24-02.19.46:306][  0]LogRHI:   GL_ARB_program_interface_query
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_provoking_vertex
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_query_buffer_object
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_robust_buffer_access_behavior
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_robustness
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_sample_locations
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_sample_shading
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_sampler_objects
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_seamless_cube_map
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_seamless_cubemap_per_texture
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_separate_shader_objects
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_atomic_counter_ops
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_atomic_counters
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_ballot
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_bit_encoding
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_clock
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_draw_parameters
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_group_vote
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_image_load_store
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_image_size
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_objects
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_precision
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_storage_buffer_object
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_subroutine
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_texture_image_samples
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_texture_lod
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shading_language_100
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shader_viewport_layer_array
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shading_language_420pack
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shading_language_include
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shading_language_packing
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_shadow
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_sparse_buffer
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_sparse_texture
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_sparse_texture2
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_sparse_texture_clamp
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_spirv_extensions
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_stencil_texturing
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_sync
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_tessellation_shader
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_barrier
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_border_clamp
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_buffer_object
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_buffer_object_rgb32
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_buffer_range
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_compression
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_compression_bptc
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_compression_rgtc
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_cube_map
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_cube_map_array
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_env_add
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_env_combine
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_env_crossbar
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_env_dot3
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_filter_anisotropic
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_filter_minmax
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_float
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_gather
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_mirror_clamp_to_edge
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_mirrored_repeat
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_multisample
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_non_power_of_two
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_query_levels
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_query_lod
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_rectangle
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_rg
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_rgb10_a2ui
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_stencil8
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_storage
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_storage_multisample
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_swizzle
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_texture_view
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_timer_query
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_transform_feedback2
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_transform_feedback3
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_transform_feedback_instanced
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_transform_feedback_overflow_query
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_transpose_matrix
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_uniform_buffer_object
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_vertex_array_bgra
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_vertex_array_object
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_vertex_attrib_64bit
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_vertex_attrib_binding
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_vertex_buffer_object
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_vertex_program
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_vertex_shader
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_vertex_type_10f_11f_11f_rev
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_vertex_type_2_10_10_10_rev
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_viewport_array
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ARB_window_pos
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ATI_draw_buffers
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ATI_texture_float
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_ATI_texture_mirror_once
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_S3_s3tc
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_texture_env_add
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_abgr
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_bgra
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_bindable_uniform
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_blend_color
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_blend_equation_separate
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_blend_func_separate
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_blend_minmax
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_blend_subtract
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_compiled_vertex_array
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_Cg_shader
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_depth_bounds_test
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_direct_state_access
+[2019.01.24-02.19.46:307][  0]LogRHI:   GL_EXT_draw_buffers2
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_draw_instanced
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_draw_range_elements
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_fog_coord
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_framebuffer_blit
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_framebuffer_multisample
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXTX_framebuffer_mixed_formats
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_framebuffer_multisample_blit_scaled
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_framebuffer_object
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_framebuffer_sRGB
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_geometry_shader4
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_gpu_program_parameters
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_gpu_shader4
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_multi_draw_arrays
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_packed_depth_stencil
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_packed_float
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_packed_pixels
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_pixel_buffer_object
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_point_parameters
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_polygon_offset_clamp
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_post_depth_coverage
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_provoking_vertex
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_raster_multisample
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_rescale_normal
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_secondary_color
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_separate_shader_objects
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_separate_specular_color
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_shader_image_load_formatted
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_shader_image_load_store
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_shader_integer_mix
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_shadow_funcs
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_sparse_texture2
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_stencil_two_side
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_stencil_wrap
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture3D
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_array
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_buffer_object
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_compression_dxt1
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_compression_latc
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_compression_rgtc
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_compression_s3tc
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_cube_map
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_edge_clamp
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_env_combine
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_env_dot3
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_filter_anisotropic
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_filter_minmax
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_integer
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_lod
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_lod_bias
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_mirror_clamp
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_object
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_shared_exponent
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_sRGB
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_sRGB_R8
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_sRGB_decode
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_storage
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_texture_swizzle
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_timer_query
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_transform_feedback2
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_vertex_array
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_vertex_array_bgra
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_vertex_attrib_64bit
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_window_rectangles
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_import_sync_object
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_IBM_rasterpos_clip
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_IBM_texture_mirrored_repeat
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_KHR_context_flush_control
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_KHR_debug
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_memory_object
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_memory_object_win32
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_win32_keyed_mutex
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_KHR_parallel_shader_compile
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_KHR_no_error
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_KHR_robust_buffer_access_behavior
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_KHR_robustness
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_semaphore
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_EXT_semaphore_win32
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_KTX_buffer_region
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_alpha_to_coverage_dither_control
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_bindless_multi_draw_indirect
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_bindless_multi_draw_indirect_count
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_bindless_texture
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_blend_equation_advanced
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_blend_equation_advanced_coherent
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NVX_blend_equation_advanced_multi_draw_buffers
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_blend_minmax_factor
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_blend_square
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_clip_space_w_scaling
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_command_list
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_compute_program5
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_conditional_render
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_conservative_raster
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_conservative_raster_dilate
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_conservative_raster_pre_snap_triangles
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_copy_depth_to_color
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_copy_image
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_depth_buffer_float
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_depth_clamp
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_draw_texture
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_draw_vulkan_image
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_ES1_1_compatibility
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_ES3_1_compatibility
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_explicit_multisample
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_feature_query
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_fence
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_fill_rectangle
+[2019.01.24-02.19.46:308][  0]LogRHI:   GL_NV_float_buffer
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_fog_distance
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_fragment_coverage_to_color
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_fragment_program
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_fragment_program_option
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_fragment_program2
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_fragment_shader_interlock
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_framebuffer_mixed_samples
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_framebuffer_multisample_coverage
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_geometry_shader4
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_geometry_shader_passthrough
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_gpu_program4
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_internalformat_sample_query
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_gpu_program4_1
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_gpu_program5
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_gpu_program5_mem_extended
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_gpu_program_fp64
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_gpu_shader5
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_half_float
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_light_max_exponent
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_memory_attachment
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_multisample_coverage
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_multisample_filter_hint
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_occlusion_query
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_packed_depth_stencil
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_parameter_buffer_object
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_parameter_buffer_object2
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_path_rendering
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_path_rendering_shared_edge
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_pixel_data_range
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_point_sprite
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_primitive_restart
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_query_resource
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_query_resource_tag
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_register_combiners
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_register_combiners2
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_sample_locations
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_sample_mask_override_coverage
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_shader_atomic_counters
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_shader_atomic_float
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_shader_atomic_float64
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_shader_atomic_fp16_vector
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_shader_atomic_int64
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_shader_buffer_load
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_shader_storage_buffer_object
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_stereo_view_rendering
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texgen_reflection
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texture_barrier
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texture_compression_vtc
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texture_env_combine4
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texture_multisample
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texture_rectangle
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texture_rectangle_compressed
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texture_shader
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texture_shader2
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_texture_shader3
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_transform_feedback
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_transform_feedback2
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_uniform_buffer_unified_memory
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_vertex_array_range
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_vertex_array_range2
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_vertex_attrib_integer_64bit
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_vertex_buffer_unified_memory
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_vertex_program
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_vertex_program1_1
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_vertex_program2
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_vertex_program2_option
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_vertex_program3
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_viewport_array2
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_viewport_swizzle
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NVX_conditional_render
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NVX_gpu_memory_info
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NVX_multigpu_info
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NVX_nvenc_interop
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_shader_thread_group
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_NV_shader_thread_shuffle
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_KHR_blend_equation_advanced
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_KHR_blend_equation_advanced_coherent
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_OVR_multiview
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_OVR_multiview2
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_SGIS_generate_mipmap
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_SGIS_texture_lod
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_SGIX_depth_texture
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_SGIX_shadow
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_SUN_slice_accum
+[2019.01.24-02.19.46:309][  0]LogRHI:   GL_WIN_swap_hint
+[2019.01.24-02.19.46:309][  0]LogRHI:   WGL_EXT_swap_control
+[2019.01.24-02.19.46:313][  0]LogRHI:   GL_MAX_TEXTURE_SIZE: 32768
+[2019.01.24-02.19.46:313][  0]LogRHI:   GL_MAX_CUBE_MAP_TEXTURE_SIZE: 32768
+[2019.01.24-02.19.46:313][  0]LogRHI:   GL_MAX_ARRAY_TEXTURE_LAYERS: 2048
+[2019.01.24-02.19.46:313][  0]LogRHI:   GL_MAX_3D_TEXTURE_SIZE: 16384
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_RENDERBUFFER_SIZE: 32768
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_DRAW_BUFFERS: 8
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_COLOR_ATTACHMENTS: 8
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_SAMPLES: 32
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_COLOR_TEXTURE_SAMPLES: 32
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_DEPTH_TEXTURE_SAMPLES: 32
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_INTEGER_SAMPLES: 32
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 192
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_VERTEX_ATTRIBS: 16
+[2019.01.24-02.19.46:314][  0]LogRHI:   GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16
+[2019.01.24-02.19.46:314][  0]LogRHI: OpenGL MajorVersion = 4, MinorVersion = 3, ShaderPlatform = GLSL_430, FeatureLevel = SM5
+[2019.01.24-02.19.46:315][  0]LogRHI: FOpenGLProgramBinaryCache disabled by r.ProgramBinaryCache.Enable=0
+[2019.01.24-02.19.46:373][  0]LogRHI: Texture pool is 5734 MB (70% of 8192 MB)
+[2019.01.24-02.19.46:684][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.24-02.19.46:695][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.24-02.19.46:708][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.24-02.19.46:721][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.24-02.19.46:734][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.24-02.19.46:748][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.24-02.19.46:761][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.24-02.19.46:774][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.24-02.19.46:781][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.24-02.19.46:831][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:832][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-02.19.46:835][  0]LogTemp: Display: HTML5 SDK path "D:/SDKs/MagicLeap/v019/mlsdk-019/mlsdk019/Engine/Extras/ThirdPartyNotUE/emsdk/Win64", does not exist!
+[2019.01.24-02.19.46:835][  0]LogTemp: Display: HTML5 SDK path "D:/SDKs/MagicLeap/v019/mlsdk-019/mlsdk019/Engine/Extras/ThirdPartyNotUE/emsdk/Win64", does not exist!
+[2019.01.24-02.19.46:899][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.24-02.19.46:899][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.24-02.19.46:917][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.24-02.19.46:917][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.24-02.19.46:957][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.24-02.19.46:957][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.24-02.19.46:957][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.24-02.19.47:086][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Intermediate/Shaders/WorkingDirectory/7336/).
+[2019.01.24-02.19.47:087][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nicks/AppData/Local/Temp/UnrealShaderWorkingDir/304133B241AC17EF8DF312BCD3F0926F/'.
+[2019.01.24-02.19.47:088][  0]LogXGEController: Cleaning working directory: C:/Users/nicks/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.24-02.19.47:088][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.24-02.19.47:089][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.24-02.19.47:089][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.24-02.19.47:799][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.24-02.19.47:890][  0]LogDerivedDataCache: Loaded boot cache 0.09s 87MB C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/DerivedDataCache/Boot.ddc.
+[2019.01.24-02.19.47:890][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/DerivedDataCache/Boot.ddc
+[2019.01.24-02.19.47:890][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.24-02.19.47:890][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.24-02.19.47:917][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.24-02.19.47:917][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2019.01.24-02.19.47:929][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2019.01.24-02.19.47:929][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.24-02.19.47:929][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.24-02.19.47:956][  0]LogMaterial: Verifying Global Shaders for GLSL_430
+[2019.01.24-02.19.48:014][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.24-02.19.48:019][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.24-02.19.48:197][  0]LogAssetRegistry: FAssetRegistry took 0.0361 seconds to start up
+[2019.01.24-02.19.48:916][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.24-02.19.49:310][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.24-02.19.49:311][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.24-02.19.49:311][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.24-02.19.49:311][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.01.24-02.19.49:312][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.01.24-02.19.49:370][  0]LogNetVersion: Unreal 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2388699561)
+[2019.01.24-02.19.50:305][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.072700 seconds
+[2019.01.24-02.19.50:312][  0]LogUObjectArray: 40352 objects as part of root set at end of initial load.
+[2019.01.24-02.19.50:312][  0]LogUObjectAllocator: 7013528 out of 0 bytes used by permanent object pool.
+[2019.01.24-02.19.50:312][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.24-02.19.51:592][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.01.24-02.19.51:592][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.01.24-02.19.51:592][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.51:592][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.51:592][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.51:592][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.51:592][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.01.24-02.19.51:592][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.01.24-02.19.51:592][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.51:592][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.51:592][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.51:592][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.51:592][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.01.24-02.19.51:592][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.01.24-02.19.51:592][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.51:592][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.51:592][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.51:592][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.51:593][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.51:593][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.52:499][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.24-02.19.52:518][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.53:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.01.24-02.19.53:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.53:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.01.24-02.19.53:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.01.24-02.19.53:549][  0]SourceControl: Source control is disabled
+[2019.01.24-02.19.53:550][  0]SourceControl: Source control is disabled
+[2019.01.24-02.19.53:564][  0]SourceControl: Source control is disabled
+[2019.01.24-02.19.53:570][  0]SourceControl: Source control is disabled
+[2019.01.24-02.19.53:928][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.24-02.19.53:992][  0]LogOcInput: OculusInput pre-init called
+[2019.01.24-02.19.54:221][  0]LogEngine: Initializing Engine...
+[2019.01.24-02.19.59:423][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.01.24-02.19.59:434][  0]LogMagicLeap: Display: Creating FMagicLeapCustomPresentOpenGL
+[2019.01.24-02.19.59:434][  0]LogMagicLeap: MagicLeap initialized.
+[2019.01.24-02.19.59:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.24-02.19.59:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.24-02.19.59:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.24-02.19.59:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.24-02.19.59:834][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.24-02.19.59:897][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.24-02.19.59:918][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.20.00:190][  0]LogInit: FAudioDevice initialized.
+[2019.01.24-02.20.00:190][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.24-02.20.00:269][  0]LogDerivedDataCache: Saved boot cache 0.08s 87MB C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/DerivedDataCache/Boot.ddc.
+[2019.01.24-02.20.00:269][  0]LogInit: Texture streaming: Enabled
+[2019.01.24-02.20.00:293][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.24-02.20.00:390][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.24-02.20.00:421][  0]LogInit: Transaction tracking system initialized
+[2019.01.24-02.20.00:492][  0]BlueprintLog: New page: Editor Load
+[2019.01.24-02.20.00:741][  0]LocalizationService: Localization service is disabled
+[2019.01.24-02.20.01:696][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.24-02.20.01:696][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.24-02.20.01:696][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.24-02.20.01:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.24-02.20.01:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.24-02.20.01:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.24-02.20.01:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.24-02.20.02:069][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/' took 0.03s
+[2019.01.24-02.20.02:069][  0]SourceControl: Source control is disabled
+[2019.01.24-02.20.02:072][  0]Cmd: MAP LOAD FILE="C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.24-02.20.02:074][  0]LightingResults: New page: Lighting Build
+[2019.01.24-02.20.02:084][  0]MapCheck: New page: Map Check
+[2019.01.24-02.20.02:084][  0]LightingResults: New page: Lighting Build
+[2019.01.24-02.20.03:389][  0]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.20.03:441][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.24-02.20.03:475][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.24-02.20.03:475][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.288ms to complete.
+[2019.01.24-02.20.03:475][  0]LogFileHelpers: Loading map 'XRT_Viewer' took 1.405
+[2019.01.24-02.20.03:665][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.20.03:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.20.03:681][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.20.03:687][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.20.03:703][  0]LogCollectionManager: Loaded 0 collections in 0.001025 seconds
+[2019.01.24-02.20.03:764][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/Collections/' took 0.01s
+[2019.01.24-02.20.03:764][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Developers/nicks/Collections/' took 0.01s
+[2019.01.24-02.20.03:764][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Collections/' took 0.01s
+[2019.01.24-02.20.03:764][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.24-02.20.03:779][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2681 classes and 622 folders.
+[2019.01.24-02.20.03:793][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.24-02.20.03:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:815][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:862][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.03:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-02.20.04:294][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.24-02.20.04:314][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.24-02.20.04:390][  0]LogSlate: Took 0.002709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.24-02.20.04:394][  0]LogSlate: Took 0.001326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.24-02.20.04:402][  0]LogSlate: Took 0.001043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.24-02.20.04:499][  0]LogRenderer: Reallocating scene render targets to support 1156x676 Format 10 NumSamples 1 (Frame:1).
+[2019.01.24-02.20.04:514][  0]LogRHI: Using OpenGL program LRU cache: 0
+[2019.01.24-02.20.04:859][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.24-02.20.04:859][  0]LogLoad: (Engine Initialization) Total time: 25.41 seconds
+[2019.01.24-02.20.04:859][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.24-02.20.04:954][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.24-02.20.04:988][  0]LogSlate: Took 0.001326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.24-02.20.05:277][  3]LogAssetRegistry: Asset discovery search completed in 17.1035 seconds
+[2019.01.24-02.20.05:279][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.01.24-02.20.05:279][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2019.01.24-02.20.15:326][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.20.15:404][608]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.24-02.20.15:411][608]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Visualizers/BP_LotusVisualizer.BP_LotusVisualizer
+[2019.01.24-02.20.15:865][608]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 117 classes and 0 folders.
+[2019.01.24-02.20.16:655][608]LogSlate: Took 0.001127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.24-02.20.16:870][609]LogSlate: Took 0.002333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.24-02.20.18:487][701]LogRenderer: Reallocating scene render targets to support 1156x696 Format 10 NumSamples 1 (Frame:1).
+[2019.01.24-02.20.40:911][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.20.40:978][ 32]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.20.41:765][ 45]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerEAEAD4084FDE41B4ACC30CACB17DDEC8.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.20.42:956][116]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.20.43:025][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.20.43:026][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.20.43:093][116]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.20.43:093][116]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.20.43:101][116]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.20.44:351][116]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:20:44 PM)
+[2019.01.24-02.20.44:365][116]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.20.44:368][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003249s)
+[2019.01.24-02.20.44:369][116]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.20.44:369][116]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2019.01.24-02.20.44:369][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.004058s)
+[2019.01.24-02.20.44:706][116]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.20.44:706][116]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.20.44:708][116]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.20.44:774][116]LogInit: FAudioDevice initialized.
+[2019.01.24-02.20.44:793][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.20.44:862][116]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.20.44:866][116]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.20.44
+[2019.01.24-02.20.44:866][116]LogWorld: Bringing up level for play took: 0.002113
+[2019.01.24-02.20.44:881][116]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.20.44:886][116]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.01.24-02.20.44:886][116]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.20.44:886][116]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.20.44:886][116]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.20.44:888][116]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.20.44:894][116]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 0.93
+[2019.01.24-02.20.44:896][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.20.44:937][116]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.20.44:938][116]LogMagicLeap: Privilege 'MLPrivilegeID_CameraCapture' was granted.
+[2019.01.24-02.20.45:049][117]LogRenderer: Reallocating scene render targets to support 2560x960 Format 10 NumSamples 1 (Frame:1).
+[2019.01.24-02.20.45:106][118]LogMagicLeap: Display: Presenting first render from app.
+[2019.01.24-02.20.45:478][137]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.20.45:496][138]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.20.45:547][141]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.20.45:722][147]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.22.38:412][881]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.22.38:477][881]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.22.38:477][881]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.22.39:026][881]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.22.39:026][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.22.39:104][881]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.22.39:159][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.22.39:159][881]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.22.39:835][888]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.24-02.23.07:993][562]LogEditorTransaction: Undo Modify Component(s)
+[2019.01.24-02.23.09:584][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.23.41:084][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.23.51:873][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.23.51:956][117]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.23.52:834][138]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer16328D3B42830482D62051B52D6E8EE8.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.23.58:337][468]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.23.58:384][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.23.58:384][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.23.58:515][468]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.23.58:515][468]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.23.58:516][468]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.23.59:751][468]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:23:59 PM)
+[2019.01.24-02.23.59:752][468]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.23.59:756][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004297s)
+[2019.01.24-02.23.59:756][468]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.23.59:757][468]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2019.01.24-02.23.59:757][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.005132s)
+[2019.01.24-02.23.59:948][468]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.23.59:948][468]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.23.59:949][468]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.24.00:012][468]LogInit: FAudioDevice initialized.
+[2019.01.24-02.24.00:029][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.24.00:130][468]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.24.00:131][468]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.24.00
+[2019.01.24-02.24.00:132][468]LogWorld: Bringing up level for play took: 0.001701
+[2019.01.24-02.24.00:144][468]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.24.00:144][468]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.24.00:144][468]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.24.00:144][468]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.24.00:145][468]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.24.00:149][468]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 2.185
+[2019.01.24-02.24.00:149][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.24.00:150][468]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.24.00:722][494]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.24.00:741][495]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.24.00:788][498]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.24.00:989][510]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.24.31:928][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.24.32:021][364]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.24.32:021][364]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.24.32:586][364]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.24.32:586][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.24.32:616][364]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.24.32:670][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.24.32:671][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.24.33:442][371]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.24-02.24.43:545][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.24.43:627][971]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.24.44:345][991]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerA7EF5ECB43D6A5D5E6052B9C2626C460.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.24.44:765][ 16]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.24.44:821][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.24.44:821][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.24.44:972][ 16]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.24.44:972][ 16]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.24.44:973][ 16]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.24.46:237][ 16]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:24:46 PM)
+[2019.01.24-02.24.46:238][ 16]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.24.46:241][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003208s)
+[2019.01.24-02.24.46:241][ 16]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.24.46:242][ 16]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2019.01.24-02.24.46:242][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.004019s)
+[2019.01.24-02.24.46:409][ 16]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.24.46:409][ 16]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.24.46:410][ 16]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.24.46:473][ 16]LogInit: FAudioDevice initialized.
+[2019.01.24-02.24.46:491][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.24.46:589][ 16]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.24.46:591][ 16]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.24.46
+[2019.01.24-02.24.46:592][ 16]LogWorld: Bringing up level for play took: 0.001786
+[2019.01.24-02.24.46:604][ 16]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.24.46:604][ 16]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.24.46:604][ 16]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.24.46:604][ 16]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.24.46:605][ 16]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.24.46:611][ 16]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 2.647
+[2019.01.24-02.24.46:611][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.24.46:613][ 16]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.24.47:162][ 43]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.24.47:162][ 43]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.24.47:228][ 47]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.24.47:428][ 59]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.25.13:764][638]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.25.13:869][638]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.25.13:869][638]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.25.14:414][638]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.25.14:414][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.25.14:473][638]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.25.14:524][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.25.14:525][638]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.25.15:403][645]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.24-02.25.27:598][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.25.27:681][369]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.25.28:372][387]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer423A5A45498565D72B9E6191AC813A68.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.25.40:538][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.25.40:620][120]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.25.41:300][138]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerE5F12CF64A73AA8AC63D54BBB37A8F26.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.25.50:110][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.25.50:192][664]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.25.50:776][675]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer51395C824D4F0D4C92FF8FAEB08D28B8.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.25.51:197][700]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.25.51:285][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.25.51:285][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.25.51:362][700]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.25.51:362][700]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.25.51:363][700]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.25.52:628][700]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:25:52 PM)
+[2019.01.24-02.25.52:628][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.25.52:634][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005684s)
+[2019.01.24-02.25.52:635][700]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.25.52:635][700]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2019.01.24-02.25.52:635][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.007107s)
+[2019.01.24-02.25.52:878][700]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.25.52:878][700]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.25.52:880][700]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.25.52:953][700]LogInit: FAudioDevice initialized.
+[2019.01.24-02.25.52:968][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.25.53:071][700]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.25.53:073][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.25.53
+[2019.01.24-02.25.53:073][700]LogWorld: Bringing up level for play took: 0.001618
+[2019.01.24-02.25.53:085][700]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.25.53:086][700]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.25.53:086][700]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.25.53:086][700]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.25.53:086][700]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.25.53:094][700]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 1.129
+[2019.01.24-02.25.53:094][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.25.53:096][700]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.25.53:651][726]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.25.53:671][727]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.25.53:719][730]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.25.53:946][739]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.26.20:180][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-02.26.20:256][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.26.20:338][313]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.26.20:338][313]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.26.20:893][313]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.26.20:903][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.26.20:912][313]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.26.20:964][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.26.20:965][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.26.21:927][320]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.24-02.26.35:468][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.26.35:551][136]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.26.36:180][149]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer4625628B4A7285C3A8CE7D9DED55C9E5.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.26.36:637][176]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.26.36:697][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.26.36:697][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.26.36:779][176]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.26.36:779][176]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.26.36:780][176]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.26.38:081][176]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:26:38 PM)
+[2019.01.24-02.26.38:081][176]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.26.38:088][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006829s)
+[2019.01.24-02.26.38:089][176]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.26.38:089][176]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2019.01.24-02.26.38:089][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.007898s)
+[2019.01.24-02.26.38:253][176]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.26.38:253][176]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.26.38:254][176]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.26.38:316][176]LogInit: FAudioDevice initialized.
+[2019.01.24-02.26.38:330][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.26.38:437][176]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.26.38:440][176]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.26.38
+[2019.01.24-02.26.38:441][176]LogWorld: Bringing up level for play took: 0.002472
+[2019.01.24-02.26.38:453][176]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.26.38:453][176]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.26.38:453][176]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.26.38:453][176]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.26.38:453][176]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.26.38:459][176]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 2.495
+[2019.01.24-02.26.38:460][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.26.38:461][176]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.26.39:021][203]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.26.39:038][204]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.26.39:089][207]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.26.39:292][219]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.27.08:266][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-02.27.08:330][951]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.27.08:335][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.27.08:432][951]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.27.08:432][951]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.27.08:981][951]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.27.09:026][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.27.09:026][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.27.09:801][958]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.24-02.27.11:905][ 84]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.27.12:524][ 98]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerB602AFAE49C378A053B748B13E49048D.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.27.26:429][932]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.27.27:136][951]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer016EDC6C4C3698BE6A00BD86B2C4BEB1.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.29.13:976][318]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.29.14:458][321]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerFE7841AC402CDD274DB2E39071AB759F.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.29.15:304][371]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.29.15:376][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.29.15:376][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.29.15:486][371]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.29.15:486][371]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.29.15:488][371]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.29.16:721][371]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:29:16 PM)
+[2019.01.24-02.29.16:721][371]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.29.16:726][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004656s)
+[2019.01.24-02.29.16:727][371]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.29.16:727][371]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2019.01.24-02.29.16:727][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.005677s)
+[2019.01.24-02.29.16:925][371]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.29.16:925][371]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.29.16:926][371]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.29.16:988][371]LogInit: FAudioDevice initialized.
+[2019.01.24-02.29.17:006][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.29.17:119][371]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.29.17:121][371]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.29.17
+[2019.01.24-02.29.17:121][371]LogWorld: Bringing up level for play took: 0.001689
+[2019.01.24-02.29.17:134][371]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.29.17:134][371]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.29.17:134][371]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.29.17:134][371]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.29.17:134][371]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.29.17:138][371]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 1.174
+[2019.01.24-02.29.17:139][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.29.17:140][371]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.29.17:717][395]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.29.17:734][396]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.29.17:786][399]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.29.18:016][408]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.34.12:625][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.34.12:714][ 77]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.34.12:714][ 77]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.34.13:258][ 77]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.34.13:258][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.34.13:382][ 77]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.34.13:444][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.34.13:444][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.34.14:246][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.24-02.34.15:096][135]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.34.27:094][825]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.34.27:669][833]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerED84CAD84F6DB09C127927B185256883.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.34.28:193][864]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.34.28:251][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.34.28:251][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.34.28:317][864]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.34.28:317][864]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.34.28:317][864]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.34.29:581][864]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:34:29 PM)
+[2019.01.24-02.34.29:582][864]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.34.29:585][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003717s)
+[2019.01.24-02.34.29:586][864]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.34.29:586][864]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2019.01.24-02.34.29:586][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.004704s)
+[2019.01.24-02.34.29:792][864]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.34.29:792][864]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.34.29:793][864]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.34.29:858][864]LogInit: FAudioDevice initialized.
+[2019.01.24-02.34.29:874][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.34.29:987][864]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.34.29:989][864]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.34.29
+[2019.01.24-02.34.29:990][864]LogWorld: Bringing up level for play took: 0.002051
+[2019.01.24-02.34.30:001][864]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.34.30:001][864]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.34.30:001][864]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.34.30:001][864]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.34.30:002][864]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.34.30:006][864]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 2.041
+[2019.01.24-02.34.30:006][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.34.30:007][864]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.34.30:576][888]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.34.30:594][889]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.34.30:661][893]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.34.30:825][903]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.34.45:714][795]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=0.659 Y=-3.178 Z=6.031 Rotation: P=0.000000 Y=24.065187 R=0.000000 Scale X=0.084 Y=0.084 Z=0.084
+[2019.01.24-02.34.45:733][797]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.24-02.35.09:601][227]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=12.780 Y=-29.687 Z=9.172 Rotation: P=-19.098574 Y=107.525520 R=0.000012 Scale X=0.084 Y=0.084 Z=0.084
+[2019.01.24-02.36.14:877][141]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=38.589 Y=-6.155 Z=6.229 Rotation: P=-3.819763 Y=168.441040 R=0.000004 Scale X=0.084 Y=0.084 Z=0.084
+[2019.01.24-02.36.38:196][540]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=22.269 Y=-0.373 Z=-1.226 Rotation: P=5.729449 Y=179.700211 R=-0.000010 Scale X=0.084 Y=0.084 Z=0.084
+[2019.01.24-02.36.57:448][694]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=15.147 Y=11.115 Z=-0.228 Rotation: P=-9.549308 Y=-115.364510 R=0.000002 Scale X=0.084 Y=0.084 Z=0.084
+[2019.01.24-02.37.36:741][ 50]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=24.307 Y=28.882 Z=0.438 Rotation: P=-1.909912 Y=-117.274330 R=0.000001 Scale X=0.084 Y=0.084 Z=0.084
+[2019.01.24-02.37.52:374][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.37.52:446][988]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.37.52:447][988]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.37.52:991][988]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.37.52:992][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.37.53:107][988]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.37.53:165][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.37.53:166][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.37.54:022][995]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.24-02.38.19:754][538]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.38.20:269][543]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer4460A63E4FE75E7FB888EAAAE6B4CA52.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.38.24:178][776]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.38.24:787][790]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerE7F5163644D3B8BE88C6869BFACF64BA.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.38.25:722][846]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.38.25:791][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.38.25:791][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.38.25:905][846]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.38.25:905][846]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.38.25:905][846]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.38.27:176][846]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:38:27 PM)
+[2019.01.24-02.38.27:176][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.38.27:179][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002723s)
+[2019.01.24-02.38.27:179][846]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.38.27:179][846]LogPlayLevel: PIE: World Init took: (0.000438s)
+[2019.01.24-02.38.27:179][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.003286s)
+[2019.01.24-02.38.27:314][846]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.38.27:314][846]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.38.27:316][846]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.38.27:379][846]LogInit: FAudioDevice initialized.
+[2019.01.24-02.38.27:395][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.38.27:508][846]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.38.27:509][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.38.27
+[2019.01.24-02.38.27:510][846]LogWorld: Bringing up level for play took: 0.001488
+[2019.01.24-02.38.27:522][846]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.38.27:522][846]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.38.27:522][846]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.38.27:522][846]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.38.27:523][846]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.38.27:527][846]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 1.563
+[2019.01.24-02.38.27:527][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.38.27:528][846]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.38.28:078][868]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.38.28:096][869]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.38.28:147][872]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.38.28:360][884]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.38.38:365][482]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=75.000 Y=111.711 Z=-182.000 Rotation: P=0.000000 Y=179.999924 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2019.01.24-02.38.38:383][484]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.24-02.38.48:344][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.38.48:432][ 81]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.38.48:432][ 81]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.38.48:977][ 81]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.38.48:977][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.38.49:027][ 81]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.38.49:079][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.38.49:079][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.38.49:810][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.24-02.38.57:594][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-02.39.29:932][489]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.39.30:752][510]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer0CF7FF3048586529997C56AF440E485C.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.39.35:467][792]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.39.35:531][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.39.35:531][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.39.35:673][792]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.39.35:673][792]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.39.35:674][792]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.39.36:896][792]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:39:36 PM)
+[2019.01.24-02.39.36:896][792]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.39.36:900][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004372s)
+[2019.01.24-02.39.36:901][792]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.39.36:901][792]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2019.01.24-02.39.36:901][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.005182s)
+[2019.01.24-02.39.37:081][792]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.39.37:081][792]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.39.37:082][792]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.39.37:145][792]LogInit: FAudioDevice initialized.
+[2019.01.24-02.39.37:160][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.39.37:279][792]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.39.37:281][792]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.39.37
+[2019.01.24-02.39.37:282][792]LogWorld: Bringing up level for play took: 0.001541
+[2019.01.24-02.39.37:293][792]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.39.37:293][792]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.39.37:293][792]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.39.37:293][792]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.39.37:294][792]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.39.37:300][792]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 1.335
+[2019.01.24-02.39.37:300][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.39.37:301][792]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.39.37:843][817]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.39.37:861][818]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.39.37:913][821]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.39.38:093][832]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.39.48:084][430]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=75.000 Y=111.711 Z=-182.000 Rotation: P=0.000000 Y=179.999939 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2019.01.24-02.39.48:102][432]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.24-02.39.55:896][899]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.39.55:993][899]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.39.55:993][899]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.39.56:543][899]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.39.56:543][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.39.56:652][899]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.39.56:715][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.39.56:716][899]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.39.57:618][906]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.24-02.41.12:299][330]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.41.12:959][343]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerDC5B96FE4AE77C2C5D5653A1E0896E56.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.41.13:686][386]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-02.41.13:771][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.41.13:771][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-02.41.13:871][386]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-02.41.13:871][386]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.41.13:872][386]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.41.15:113][386]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 4:41:15 PM)
+[2019.01.24-02.41.15:113][386]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-02.41.15:117][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004101s)
+[2019.01.24-02.41.15:118][386]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-02.41.15:118][386]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2019.01.24-02.41.15:118][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.004846s)
+[2019.01.24-02.41.15:321][386]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-02.41.15:321][386]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-02.41.15:322][386]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-02.41.15:386][386]LogInit: FAudioDevice initialized.
+[2019.01.24-02.41.15:402][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.41.15:519][386]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-02.41.15:521][386]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-21.41.15
+[2019.01.24-02.41.15:522][386]LogWorld: Bringing up level for play took: 0.001928
+[2019.01.24-02.41.15:534][386]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-02.41.15:534][386]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.41.15:534][386]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-02.41.15:534][386]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.41.15:535][386]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-02.41.15:539][386]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 1.574
+[2019.01.24-02.41.15:539][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.41.15:540][386]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-02.41.16:118][409]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-02.41.16:135][410]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-02.41.16:204][414]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-02.41.16:384][425]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-02.41.26:375][ 23]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=75.000 Y=111.711 Z=-182.000 Rotation: P=0.000000 Y=179.999924 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2019.01.24-02.41.26:392][ 25]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.24-02.41.33:474][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-02.41.37:224][665]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:240][666]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:256][667]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:276][668]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:289][669]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:307][670]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:323][671]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:341][672]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:356][673]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:373][674]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:389][675]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:407][676]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:422][677]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:439][678]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:456][679]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:473][680]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:490][681]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:507][682]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:524][683]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:540][684]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:556][685]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:573][686]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:590][687]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:606][688]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:624][689]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:640][690]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:656][691]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:674][692]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:689][693]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:722][695]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:722][695]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:740][696]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:755][697]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:773][698]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:923][707]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:939][708]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:956][709]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:972][710]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.37:989][711]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:006][712]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:023][713]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:040][714]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:056][715]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:073][716]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:089][717]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:106][718]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:123][719]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:139][720]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:156][721]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:173][722]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:190][723]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:206][724]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:222][725]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:573][746]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:591][747]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:606][748]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:623][749]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:639][750]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:656][751]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:673][752]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:690][753]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:707][754]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:724][755]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:739][756]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:758][757]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:774][758]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:791][759]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:807][760]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:825][761]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:839][762]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.38:856][763]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.40:859][883]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.40:875][884]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.40:892][885]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.40:908][886]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.40:925][887]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-02.41.43:281][ 25]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=60.031 Y=28.697 Z=3.027 Rotation: P=-5.729627 Y=-145.922287 R=-0.000010 Scale X=0.084 Y=0.084 Z=0.084
+[2019.01.24-02.41.45:575][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.41.45:652][157]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-02.41.45:652][157]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-02.41.46:206][157]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-02.41.46:206][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-02.41.46:217][157]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-02.41.46:278][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-02.41.46:279][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-02.41.46:930][164]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.24-02.45.45:661][237]LogEditorTransaction: Undo Move Nodes
+[2019.01.24-02.49.37:853][257]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.49.38:658][274]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer814C6AFB4E7B2582BDF7F3832A95536C.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.53.55:590][135]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer78EEDCD2490550365F6233A5D245618C.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.54.37:365][ 26]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.54.37:689][ 26]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-02.54.38:275][ 31]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer7202360345187871ECA909BCA42E1746.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.54.58:884][ 68]LogEditorTransaction: Undo Move Nodes
+[2019.01.24-02.57.47:414][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/XRT_Viewer" FILE="C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.24-02.57.47:635][370]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/XRT_Viewer0B15136645E03F3F8F34B68F2DAF103F.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap'
+[2019.01.24-02.57.47:697][370]LogFileHelpers: Saving map 'XRT_Viewer' took 0.283
+[2019.01.24-02.57.47:832][370]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer75B1E4AE47D1BEA8AEC83A836160754A.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-02.57.56:995][785]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer82568A6F4CC878F3A51CA68F0366F4D0.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.00.03:771][ 44]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-03.00.05:413][102]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerF971F94545CEFFB150469D9FAA619A6B.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.00.08:770][179]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-03.00.09:444][191]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer96205BF241C5DF5EC03C28B17CB5AAD6.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.00.15:519][552]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-03.00.16:648][567]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer5473FCC14A842358963F7988AD4CF390.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.01.01:249][689]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-03.01.02:129][696]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerB5237DA74ABF00E18F6EA2B5E6E2D32E.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.04.42:511][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/XRT_Viewer" FILE="C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.24-03.04.42:758][261]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/XRT_ViewerFD54671245A1791096EC47A650A9F384.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap'
+[2019.01.24-03.04.42:827][261]LogFileHelpers: Saving map 'XRT_Viewer' took 0.316
+[2019.01.24-03.04.42:997][261]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer7167FA1E4B33FCA45501B38C0D60DE77.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.04.46:861][423]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-03.04.47:610][442]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizerDED013044F2EBC093CCC73B8D5F318B6.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.04.53:486][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/XRT_Viewer" FILE="C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.24-03.04.53:742][731]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/XRT_Viewer8D9F57374E05A5F83D44A48560FF5C22.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap'
+[2019.01.24-03.04.53:760][731]LogFileHelpers: Saving map 'XRT_Viewer' took 0.275
+[2019.01.24-03.04.53:877][731]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer657C7308457BD2D78D8C00B12EB64B86.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.04.54:204][738]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-03.05.01:984][ 96]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer427EDB11409734ED1F349C90D6BA35C3.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.05.06:663][235]LogSlate: Window 'BP_LotusVisualizer' being destroyed
+[2019.01.24-03.05.06:817][235]LogSlate: Window 'BP_LotusVisualizer' being destroyed
+[2019.01.24-03.05.22:507][ 32]Cmd: DELETE
+[2019.01.24-03.05.22:507][ 32]Cmd: ACTOR DELETE
+[2019.01.24-03.05.22:516][ 32]LogEditorActor: Deleted Actor: BP_Bird2_C
+[2019.01.24-03.05.22:543][ 32]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.01.24-03.05.30:781][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/XRT_Viewer" FILE="C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.24-03.05.30:987][398]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/XRT_Viewer3ACF86D748A2329A577C1FB333161D13.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap'
+[2019.01.24-03.05.31:003][398]LogFileHelpers: Saving map 'XRT_Viewer' took 0.222
+[2019.01.24-03.05.51:128][310]Cmd: DELETE
+[2019.01.24-03.05.51:128][310]Cmd: ACTOR DELETE
+[2019.01.24-03.05.51:130][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.24-03.05.51:176][310]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.01.24-03.05.53:350][426]Cmd: DELETE
+[2019.01.24-03.05.53:350][426]Cmd: ACTOR DELETE
+[2019.01.24-03.05.53:352][426]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.24-03.05.53:375][426]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.01.24-03.05.54:676][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/XRT_Viewer" FILE="C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.24-03.05.54:885][503]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/XRT_Viewer04708D0347D4022E24580F88BF855CF4.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Maps/XRT_Viewer.umap'
+[2019.01.24-03.05.56:266][585]LogTemp: Repeating last play command: VR Preview
+[2019.01.24-03.05.56:324][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-03.05.56:324][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-03.05.56:410][585]LogMagicLeap: Display: FMagicLeapCustomPresentOpenGL is supported.
+[2019.01.24-03.05.56:410][585]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-03.05.56:410][585]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-03.05.57:683][585]PIE: New page: PIE session: XRT_Viewer (Jan 23, 2019, 5:05:57 PM)
+[2019.01.24-03.05.57:683][585]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_XRT_Viewer
+[2019.01.24-03.05.57:687][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003458s)
+[2019.01.24-03.05.57:687][585]LogAIModule: Creating AISystem for world XRT_Viewer
+[2019.01.24-03.05.57:687][585]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2019.01.24-03.05.57:687][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/XRT_Viewer.XRT_Viewer to /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer (0.004243s)
+[2019.01.24-03.05.57:875][585]LogMagicLeap: Warning: FMagicLeapHMD::EnablePrivileges
+[2019.01.24-03.05.57:875][585]LogMagicLeapController: Error: MLControllerCreate failed with error MLResult_NotImplemented.
+[2019.01.24-03.05.57:876][585]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-03.05.57:941][585]LogInit: FAudioDevice initialized.
+[2019.01.24-03.05.57:956][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-03.05.58:246][585]LogLoad: Game class is 'DemoMode_C'
+[2019.01.24-03.05.58:248][585]LogWorld: Bringing World /Game/Maps/UEDPIE_0_XRT_Viewer.XRT_Viewer up for play (max tick rate 0) at 2019.01.23-22.05.58
+[2019.01.24-03.05.58:249][585]LogWorld: Bringing up level for play took: 0.001450
+[2019.01.24-03.05.58:265][585]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.01.24-03.05.58:266][585]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-03.05.58:266][585]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.24-03.05.58:266][585]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-03.05.58:266][585]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.24-03.05.58:269][585]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_XRT_Viewer 2.305
+[2019.01.24-03.05.58:270][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-03.05.58:270][585]LogMagicLeap: Display: [FImageTrackerEngineInterface] Creating Image Tracker
+[2019.01.24-03.05.58:845][589]LogMagicLeap: Warning: SetTarget for ChinesePainting
+[2019.01.24-03.05.58:856][589]LogMagicLeap: Warning: SetTarget for StarryNight
+[2019.01.24-03.05.58:928][590]LogMagicLeap: SetTarget successfully set for StarryNight
+[2019.01.24-03.05.59:117][591]LogMagicLeap: SetTarget successfully set for ChinesePainting
+[2019.01.24-03.06.09:304][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-03.06.10:117][ 41]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-03.06.10:129][ 41]LogMagicLeap: Error: MLGraphicsEndFrame failed with status 5
+[2019.01.24-03.06.14:894][192]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=406.128 Y=-68.312 Z=0.000 Rotation: P=0.000000 Y=160.000046 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2019.01.24-03.06.14:914][194]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.01.24-03.06.32:997][ 55]LogBlueprintUserMessages: [BP_LotusVisualizer_2] Translation: X=40.421 Y=25.167 Z=3.360 Rotation: P=-1.909905 Y=-157.381592 R=0.000001 Scale X=0.084 Y=0.084 Z=0.084
+[2019.01.24-03.10.34:587][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-03.10.34:678][400]LogMagicLeap: Display: Perception client shutdown successfully.
+[2019.01.24-03.10.34:678][400]LogMagicLeap: Warning: FMagicLeapHMD::DisablePrivileges
+[2019.01.24-03.10.35:363][400]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2019.01.24-03.10.35:363][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-03.10.35:375][400]LogSlate: Window 'Unreal Game Preview Standalone (64-bit/GLSL_430)' being destroyed
+[2019.01.24-03.10.35:734][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.24-03.10.35:735][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer' with GeneratedClass '/Game/Maps/XRT_Viewer.XRT_Viewer_C' with ClassGeneratedBy '/Game/Maps/XRT_Viewer.XRT_Viewer:PersistentLevel.XRT_Viewer'
+[2019.01.24-03.10.36:676][407]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.24-03.10.43:067][771]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Visualizers/BP_LotusVisualizer.BP_LotusVisualizer
+[2019.01.24-03.10.55:626][481]BlueprintLog: New page: Compile BP_LotusVisualizer
+[2019.01.24-03.10.56:525][503]LogSavePackage: Moving 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Saved/BP_LotusVisualizer3E4CCCB045FBA14E9B9FBFB662376EDB.tmp' to 'C:/Users/nicks/Documents/Magic Leap Projects/XRT/magicleap/XRT 4.22/Content/Blueprints/Visualizers/BP_LotusVisualizer.uasset'
+[2019.01.24-03.39.16:377][908]LogRHI: Wait on GPU failed in driver
+[2019.01.24-03.39.16:377][908]LogWindows: Windows GetLastError: The operation completed successfully. (0)
