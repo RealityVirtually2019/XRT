@@ -1,6 +1,6 @@
 # XRT
 
-by Travis Ho, Lexi Townsend, Haoaran Chang, Mike Yun, Nick Savarese
+by Travis Ho, Lexi Townsend, Haoran Chang, Mike Yun, Nick Savarese
 
 XRT
 A new era of art using visuals, sounds, and effects.
